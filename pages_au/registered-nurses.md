@@ -1,0 +1,98 @@
+# Registered Nurses
+
+## Description
+
+Registered Nurses (not covered elsewhere) includes jobs like Flight Nurse, Nursing Officer (Defence Forces), Registered Nurse (Infection Control), and Registered Nurse (Remote or Rural Area).
+
+## Tasks
+
+- Assessing, planning, implementing and evaluating nursing care for patients according to accepted nursing practice and standards
+- Working in consultation with other health professionals and members of health teams, and coordinating the care of patients
+- Providing interventions, treatments and therapies such as medications, and monitoring responses to treatment and care plan
+- Promoting health and assisting in preventing ill health by participating in health education and other health promotion activities
+- Answering questions and providing information to patients and families about treatment and care
+- Supervising and coordinating the work of enrolled nurses and other health care workers
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, and co-ordinating the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatment and care plans.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and providing information to patients and families about treatment and care.
+- Supervises and co-ordinating the work of enrolled nurses and other health care workers.
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, and co-ordinates the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatment and care plan.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and provides information to patients and families about treatment and care.
+- Supervises and co-ordinates the work of enrolled nurses and other health care workers.
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, and co-ordinating the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatment and care plans.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and providing information to patients and families about treatment and care.
+- Supervises and co-ordinating the work of enrolled nurses and other health care workers.
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, and co-ordinating the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatment and care plans.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and providing information to patients and families about treatment and care.
+- Supervises and co-ordinating the work of enrolled nurses and other health care workers.
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, and co-ordinating the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatment and care plans.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and providing information to patients and families about treatment and care.
+- Supervises and co-ordinates the work of enrolled nurses and other health care workers.
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, and co-ordinating the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatment and care plans.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and providing information to patients and families about treatment and care.
+- Supervises and co-ordinates the work of enrolled nurses and other health care workers.
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, and co-ordinating the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatment and care plans.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and providing information to patients and families about treatment and care.
+- Supervises and co-ordinates the work of enrolled nurses and other health care workers.
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, and co-ordinating the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatment and care plans.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and providing information to patients and families about treatment and care.
+- Supervises and co-ordinates the work of enrolled nurses and other health care workers.
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, and co-ordinating the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatment and care plans.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and providing information to patients and families about treatment and care.
+- Supervises and co-ordinates the work of enrolled nurses and other health care workers.
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, and co-ordinating the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatment and care plans.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and providing information to patients and families about treatment and care.
+- Supervises and co-ordinates the work of enrolled nurses and other health care workers.
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, and co-ordinating the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatment and care plans.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and providing information to patients and families about treatment and care.
+- Supervises and co-ordinates the work of enrolled nurses and other health care workers.
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, and co-ordinating the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatment and care plans.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and providing information to patients and families about treatment and care.
+- Supervises and co-ordinates the work of enrolled nurses and other health care workers.
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, and co-ordinating the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatment and care plans.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and providing information to patients and families about treatment and care.
+- Supervises and co-ordinates the work of enrolled nurses and other health care workers.
+- Assesses, plans, implements and evaluates nursing care for patients according to accepted nursing practice and standards.
+- Works in consultation with other health professionals and members of health teams, co-ordinating the care of patients.
+- Provides interventions, treatments and therapies such as medications, and monitors responses to treatments and care plans.
+- Promotes health and assists in preventing ill health by participating in health education and other health promotion activities.
+- Answers questions and provides information to patients and families about treatment and care.
+- Supervises and co-ordinates the work of enrolled nurses and other health care workers.

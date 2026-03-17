@@ -1,0 +1,106 @@
+# Specialist Physicians
+
+## Description
+
+Other Specialist Physicians includes jobs like Clinical Allergist, Clinical Geneticist, Clinical Immunologist, Clinical Pharmacologist, Geriatrician, Infectious Diseases Physician, Occupational Medicine Physician, Palliative Medicine Physician, Public Health Physician, Rehabilitation Medicine Physician, Sexual Health Physician, and Sleep Medicine Physician.
+
+## Tasks
+
+- Examining patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertaking laboratory tests and diagnostic procedures
+- Analysing test results and other medical information to make diagnoses
+- Prescribing and administering drugs, and remedial and therapeutic treatment and procedures
+- Recording medical information and data
+- Reporting specified contagious and notifiable diseases to government health and immigration authorities
+- May admit or refer patients to hospitals
+- May consult other medical specialists
+- Examines patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertakes laboratory tests and diagnostic procedures.
+- Analyses test results and other medical information to make diagnoses.
+- Prescribes and administers drugs, as well as remedial and therapeutic treatment and procedures.
+- Records medical information and data.
+- Reports specified contagious and notifiable diseases to government health and immigration authorities.
+- May admit or refer patients to hospitals.
+- May consult other medical specialists.
+- Examines patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertakes laboratory tests and diagnostic procedures.
+- Analyses test results and other medical information to make diagnoses.
+- Prescribes and administers drugs, as well as remedial and therapeutic treatment and procedures.
+- Records medical information and data.
+- Reports specified contagious and notifiable diseases to government health and immigration authorities.
+- May admit or refer patients to hospitals.
+- May consult other medical specialists.
+- Examines patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertakes laboratory tests and diagnostic procedures.
+- Analyses test results and other medical information to make diagnoses.
+- Prescribes and administers drugs, as well as remedial and therapeutic treatment and procedures.
+- Records medical information and data.
+- Reports specified contagious and notifiable diseases to government health and immigration authorities.
+- May admit or refer patients to hospitals.
+- May consult other medical specialists.
+- Examines patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertakes laboratory tests and diagnostic procedures.
+- Analyses test results and other medical information to make diagnoses.
+- Prescribes and administers drugs, as well as remedial and therapeutic treatment and procedures.
+- Records medical information and data.
+- Reports specified contagious and notifiable diseases to government health and immigration authorities.
+- May admit or refer patients to hospitals.
+- May consult other medical specialists.
+- Examines patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertakes laboratory tests and diagnostic procedures.
+- Analyses test results and other medical information to make diagnoses.
+- Prescribes and administers drugs, as well as remedial and therapeutic treatment and procedures.
+- Records medical information and data.
+- Reports specified contagious and notifiable diseases to government health and immigration authorities.
+- May admit or refer patients to hospitals.
+- May consult other medical specialists.
+- Examines patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertakes laboratory tests and diagnostic procedures.
+- Analyses test results and other medical information to make diagnoses.
+- Prescribes and administers drugs, as well as remedial and therapeutic treatment and procedures.
+- Records medical information and data.
+- Reports specified contagious and notifiable diseases to government health and immigration authorities.
+- May admit or refer patients to hospitals.
+- May consult other medical specialists.
+- Examines patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertakes laboratory tests and diagnostic procedures.
+- Analyses test results and other medical information to make diagnoses.
+- Prescribes and administers drugs, as well as remedial and therapeutic treatment and procedures.
+- Records medical information and data.
+- Reports specified contagious and notifiable diseases to government health and immigration authorities.
+- May admit or refer patients to hospitals.
+- May consult other medical specialists.
+- Examines patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertakes laboratory tests and diagnostic procedures.
+- Analyses test results and other medical information to make diagnoses.
+- Prescribes and administers drugs, as well as remedial and therapeutic treatment and procedures.
+- Records medical information and data.
+- Reports specified contagious and notifiable diseases to government health and immigration authorities.
+- May admit or refer patients to hospitals.
+- May consult other medical specialists.
+- Examines patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertakes laboratory tests and diagnostic procedures.
+- Analyses test results and other medical information to make diagnoses.
+- Prescribes and administers drugs, as well as remedial and therapeutic treatment and procedures.
+- Records medical information and data.
+- Reports specified contagious and notifiable diseases to government health and immigration authorities.
+- May admit or refer patients to hospitals.
+- May consult other medical specialists.
+- Examines patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertakes laboratory tests and diagnostic procedures.
+- Analyses test results and other medical information to make diagnoses.
+- Prescribes and administers drugs, as well as remedial and therapeutic treatment and procedures.
+- Records medical information and data.
+- Reports specified contagious and notifiable diseases to government health and immigration authorities.
+- May admit or refer patients to hospitals.
+- May consult other medical specialists.
+- Examines patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertakes laboratory tests and diagnostic procedures.
+- Analyses test results and other medical information to make diagnoses.
+- Prescribes and administers drugs, as well as remedial and therapeutic treatment and procedures.
+- Records medical information and data.
+- Reports specified contagious and notifiable diseases to government health and immigration authorities.
+- May admit or refer patients to hospitals.
+- May consult other medical specialists.
+- Examines patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertakes laboratory tests and diagnostic procedures.
+- Analyses test results and other medical information to make diagnoses.
+- Prescribes and administers drugs, as well as remedial and therapeutic treatment and procedures.
+- Records medical information and data.
+- Reports specified contagious and notifiable diseases to government health and immigration authorities.
+- May admit or refer patients to hospitals.
+- May consult other medical specialists.
+- Examines patients to determine the nature and extent of problems after referral from general medical practitioners and other medical specialists, and undertakes laboratory tests and diagnostic procedures.
+- Analyses test results and other medical information to make diagnoses.
+- Prescribes and administers drugs, as well as remedial and therapeutic treatment and procedures.
+- Records medical information and data.
+- Reports specified contagious and notifiable diseases to government health and immigration authorities.
+- May admit or refer patients to hospitals.
+- May consult other medical specialists.

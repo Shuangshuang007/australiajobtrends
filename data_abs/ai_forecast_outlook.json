@@ -1,0 +1,1792 @@
+[
+  {
+    "anzsco_code": "1111",
+    "adjusted_growth_pct_2035": 8,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "1112",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1113",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "1211",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1212",
+    "adjusted_growth_pct_2035": -8,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1213",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1214",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1311",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "1321",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "1322",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1323",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "1324",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "1325",
+    "adjusted_growth_pct_2035": 6,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "1331",
+    "adjusted_growth_pct_2035": 5,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "1332",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "1333",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1334",
+    "adjusted_growth_pct_2035": -7,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1335",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1336",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "1341",
+    "adjusted_growth_pct_2035": 7,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "1342",
+    "adjusted_growth_pct_2035": 6,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "1343",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "1344",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "1351",
+    "adjusted_growth_pct_2035": 9,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "1391",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1392",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1399",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "1411",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1412",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1413",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1414",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1419",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1421",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1491",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "1492",
+    "adjusted_growth_pct_2035": -10,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1493",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "1494",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "1499",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2111",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2112",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2113",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2114",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2121",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2122",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2123",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2124",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2211",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2212",
+    "adjusted_growth_pct_2035": -8,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2221",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2222",
+    "adjusted_growth_pct_2035": -7,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2223",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2231",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2232",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2233",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2241",
+    "adjusted_growth_pct_2035": 5,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2242",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2243",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2244",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2245",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2246",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2247",
+    "adjusted_growth_pct_2035": 6,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2249",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2251",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2252",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2253",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2254",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2311",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2312",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2321",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2322",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2323",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2324",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2325",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2326",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2331",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2332",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2333",
+    "adjusted_growth_pct_2035": 5,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2334",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2335",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2336",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2339",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2341",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2342",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2343",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2344",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2345",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2346",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2347",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2349",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2411",
+    "adjusted_growth_pct_2035": 5,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2412",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2413",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2414",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2415",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2421",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2422",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2491",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2492",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2493",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2511",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2512",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2513",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2514",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2515",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2519",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2521",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2522",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2523",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2524",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2525",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2526",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2527",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2531",
+    "adjusted_growth_pct_2035": 5,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2532",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2533",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2534",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2535",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2539",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2541",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2542",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2543",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2544",
+    "adjusted_growth_pct_2035": 6,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2611",
+    "adjusted_growth_pct_2035": 7,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2612",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2613",
+    "adjusted_growth_pct_2035": 8,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2621",
+    "adjusted_growth_pct_2035": 5,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2631",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2632",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2633",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2711",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2712",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2713",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2721",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2722",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "2723",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2724",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "2725",
+    "adjusted_growth_pct_2035": 5,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "2726",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3111",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3112",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3113",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3114",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3121",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3122",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3123",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3124",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3125",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3126",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3129",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3131",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3132",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3211",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3212",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3221",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3222",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3223",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3231",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3232",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3233",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3234",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3241",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3242",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3243",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3311",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3312",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3321",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3322",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3331",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3332",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3333",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3334",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3341",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3411",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "3421",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3422",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3423",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3424",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3511",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3512",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3513",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3514",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3611",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3612",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3613",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3621",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3622",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3623",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3624",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3911",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3921",
+    "adjusted_growth_pct_2035": -8,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3922",
+    "adjusted_growth_pct_2035": -7,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3923",
+    "adjusted_growth_pct_2035": -9,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3931",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3932",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3933",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3941",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3942",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3991",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3992",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3993",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3994",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "3995",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3996",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "3999",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "4111",
+    "adjusted_growth_pct_2035": 5,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "4112",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4113",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4114",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4115",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "4116",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4117",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4211",
+    "adjusted_growth_pct_2035": 4,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "4221",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4231",
+    "adjusted_growth_pct_2035": 7,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "4232",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4233",
+    "adjusted_growth_pct_2035": 6,
+    "allocation_bucket": "gaining"
+  },
+  {
+    "anzsco_code": "4234",
+    "adjusted_growth_pct_2035": 3,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4311",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "4312",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "4313",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "4314",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "4315",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "4319",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "4411",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "4412",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4413",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4421",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4422",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "4511",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4512",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "4513",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4514",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4515",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4516",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "4517",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "4518",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "4521",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4522",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4523",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "4524",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "5111",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5121",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5122",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5211",
+    "adjusted_growth_pct_2035": -9,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5212",
+    "adjusted_growth_pct_2035": -10,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5311",
+    "adjusted_growth_pct_2035": -12,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5321",
+    "adjusted_growth_pct_2035": -15,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5411",
+    "adjusted_growth_pct_2035": -18,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5412",
+    "adjusted_growth_pct_2035": -10,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5421",
+    "adjusted_growth_pct_2035": -14,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5511",
+    "adjusted_growth_pct_2035": -11,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5512",
+    "adjusted_growth_pct_2035": -13,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5513",
+    "adjusted_growth_pct_2035": -9,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5521",
+    "adjusted_growth_pct_2035": -8,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5522",
+    "adjusted_growth_pct_2035": -7,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5523",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5611",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5612",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5613",
+    "adjusted_growth_pct_2035": -12,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5614",
+    "adjusted_growth_pct_2035": -9,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5615",
+    "adjusted_growth_pct_2035": -8,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5616",
+    "adjusted_growth_pct_2035": -16,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5619",
+    "adjusted_growth_pct_2035": -10,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5911",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5912",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5991",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "5992",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5993",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5994",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5995",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "5996",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5997",
+    "adjusted_growth_pct_2035": -7,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "5999",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6111",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6112",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6113",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6121",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6211",
+    "adjusted_growth_pct_2035": -7,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6212",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6213",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6214",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "6215",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6216",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6217",
+    "adjusted_growth_pct_2035": -8,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6219",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6311",
+    "adjusted_growth_pct_2035": -11,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6391",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6392",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6393",
+    "adjusted_growth_pct_2035": -14,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6394",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6395",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "6399",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7111",
+    "adjusted_growth_pct_2035": -7,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7112",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7113",
+    "adjusted_growth_pct_2035": -8,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7114",
+    "adjusted_growth_pct_2035": -12,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7115",
+    "adjusted_growth_pct_2035": -9,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7116",
+    "adjusted_growth_pct_2035": -10,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7117",
+    "adjusted_growth_pct_2035": -11,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7119",
+    "adjusted_growth_pct_2035": -8,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7121",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7122",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7123",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7129",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7211",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7212",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7213",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7219",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7311",
+    "adjusted_growth_pct_2035": 1,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "7312",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "7313",
+    "adjusted_growth_pct_2035": 2,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "7321",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7331",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "7411",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8111",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8112",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8113",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8114",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8115",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8116",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8211",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8212",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8213",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8214",
+    "adjusted_growth_pct_2035": 0,
+    "allocation_bucket": "neutral"
+  },
+  {
+    "anzsco_code": "8215",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8216",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8217",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8219",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8311",
+    "adjusted_growth_pct_2035": -7,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8312",
+    "adjusted_growth_pct_2035": -9,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8313",
+    "adjusted_growth_pct_2035": -8,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8321",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8322",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8391",
+    "adjusted_growth_pct_2035": -7,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8392",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8393",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8394",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8399",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8411",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8412",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8413",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8414",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8415",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8416",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8419",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8511",
+    "adjusted_growth_pct_2035": -6,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8512",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8513",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8911",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8912",
+    "adjusted_growth_pct_2035": -7,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8991",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8992",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8993",
+    "adjusted_growth_pct_2035": -1,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8994",
+    "adjusted_growth_pct_2035": -2,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8995",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8996",
+    "adjusted_growth_pct_2035": -3,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8997",
+    "adjusted_growth_pct_2035": -5,
+    "allocation_bucket": "losing"
+  },
+  {
+    "anzsco_code": "8999",
+    "adjusted_growth_pct_2035": -4,
+    "allocation_bucket": "losing"
+  }
+]

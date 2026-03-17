@@ -1,0 +1,3 @@
+# For score_au.py (LLM scoring)
+httpx>=0.24.0
+python-dotenv>=1.0.0

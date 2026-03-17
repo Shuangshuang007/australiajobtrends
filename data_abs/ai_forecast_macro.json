@@ -1,0 +1,7 @@
+{
+  "gpt-5.1": {
+    "total_employment_2035_ai_adjusted": 16100000,
+    "total_decline_vs_official_pct": -3.0,
+    "reasoning_macro": "By 2035, strong AI-driven productivity gains in routine and some professional roles are likely to dampen aggregate labour demand, even as health, care, education, and specialised tech/business services continue to expand. This implies total employment growth of roughly 9.5–10% over 2025–2035, versus the official 13.3%, yielding about 16.1 million jobs instead of 16.66 million. Labour reallocation will be substantial: compressible admin/clerical/support roles shrink or stagnate, while care, human-facing services, and AI-complementary knowledge work grow. Overall, the economy produces more output with fewer workers than in the official projection, but not an absolute decline in employment."
+  }
+}

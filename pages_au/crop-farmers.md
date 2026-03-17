@@ -1,0 +1,107 @@
+# Crop Farmers
+
+## Description
+
+Other Crop Farmers includes Coffee Grower, Ginger Farmer, Hop Farmer, Mushroom Farmer, Tea Tree Farmer, and Tree Farmer.
+
+## Tasks
+
+- Planning and coordinating the production and marketing of crops, such as grain, cotton, sugar cane, fruit and nuts, vegetables, turf and flowers, from soil preparation to harvest taking into account environmental and market factors
+- Selecting and planting seeds, seedlings and bulbs, and grafting new varieties to root stocks
+- Maintaining crop production by cultivating, de-budding and pruning, and maintaining optimal growing conditions
+- Organising and conducting farming operations, such as collecting, storing, grading and packaging produce, and organising the sale, purchase and despatch of produce
+- Directing and overseeing general farming activities such as fertilising and pest and weed control
+- Maintaining farm buildings, fences, equipment and water supply systems
+- Maintaining and evaluating records of farming activities, monitoring market activity, and planning crop preparation and production to meet contract requirements and market demand
+- Managing business capital including budgeting, taxation, debt and loan management
+- May select, train and supervise staff and contractors
+- Co-ordinates production and marketing of flowers, from soil preparation through to harvest, taking into account environmental and market factors.
+- Plants seeds, seedlings and bulbs, and grafts new varieties to root stocks.
+- Maintains crop production by cultivating, de-budding and pruning, as well as maintaining optimal growing conditions.
+- Conducts farming operations, such as collecting, storing, grading and packaging produce, and organising the sale, purchase and dispatch of produce.
+- Oversees general farming activities such as fertilising and the control of pests and weeds.
+- Maintains buildings, fences, equipment and water systems.
+- Evaluates records of activities, monitoring market activity, and planning crop preparation and production to meet contract requirements and market demand.
+- Manages business capital.
+- May select, train and supervise staff and contractors.
+- Co-ordinates production and marketing of fruit and nuts, from soil preparation through to harvest, taking into account environmental and market factors.
+- Plants seeds and seedlings as well as grafting new varieties to root stocks.
+- Maintains crop production by cultivating, de-budding and pruning, as well as maintaining optimal growing conditions.
+- Conducts farming operations, such as collecting, storing, grading and packaging produce, and organising the sale, purchase and dispatch of produce.
+- Oversees general farming activities such as fertilising and the control of pests and weeds.
+- Maintains farm buildings, fences, equipment and water supply systems.
+- Evaluates records of farming activities, monitoring market activity, and planning crop preparation and production to meet contract requirements and market demand.
+- Manages business capital, including budgeting, taxation, debt and loan management.
+- Selects trains and supervises staff and contractors.
+- Plans and co-ordinates the production and marketing of crops, from soil preparation through to harvest, taking into account environmental and market factors.
+- Selects and plants seeds.
+- Maintains crop production by cultivating and maintaining optimal growing conditions.
+- Organises and conducts farming operations, such as collecting, storing, grading and packaging produce, and organising the sale, purchase and dispatch of produce.
+- Directs and oversees general farming activities such as fertilising and the control of pests and weeds.
+- Maintains farm buildings, fences, equipment and water supply systems.
+- Maintains and evaluates records of farming activities, monitoring market activity, and planning crop preparation and production to meet contract requirements and market demand.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Co-ordinates the production and marketing of grapes.
+- Plants seedlings and grafts new varieties to root stocks.
+- Maintains crop production by cultivating, de-budding and pruning, as well as maintaining optimal growing conditions.
+- Conducts farming operations, such as collecting, storing, grading and packaging produce, and organising the sale, purchase and dispatch of produce.
+- Oversees general farming activities such as fertilising and the control of pests and weeds.
+- Maintains buildings, fences, equipment and water supply systems.
+- Evaluates records of activities, monitoring market activity, and planning crop preparation and production to meet contract requirements and market demand.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Co-ordinates production and marketing of crops, from soil preparation through to harvest, taking into account environmental and market factors.
+- Plants seeds, seedlings and bulbs, as well as grafting new varieties to root stocks.
+- Maintains crop production by cultivating, de-budding and pruning, as well as maintaining optimal growing conditions.
+- Conducts farming operations, such as collecting, storing, grading and packaging produce, and organising the sale, purchase and dispatch of produce.
+- Oversees general farming activities such as fertilising and the control of pests and weeds.
+- Maintains farm buildings, fences, equipment and water supply systems.
+- Maintains and evaluates records of farming activities, monitoring market activity, and planning crop preparation and production to meet contract requirements and market demand.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- Selects, trains and supervises staff and contractors.
+- Plans and co-ordinates the production and marketing of turf, from soil preparation through to harvest, taking into account environmental and market factors.
+- Selects and plants seeds.
+- Maintains crop production by cultivating and maintaining optimal growing conditions.
+- Organises and conducts farming operations, such as collecting, storing, grading and packaging produce, and organising the sale, purchase and dispatch of produce.
+- Directs and oversees general farming activities such as fertilising and the control of pests and weeds.
+- Maintains farm buildings, fences, equipment and water supply systems.
+- Maintains and evaluates records of farming activities, monitoring market activity, and planning crop preparation and production to meet contract requirements and market demand.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Co-ordinates production and marketing of crops, from soil preparation through to harvest, taking into account environmental and market factors.
+- Plants seeds and seedlings as well as grafts new varieties to root stocks.
+- Maintains crop production by cultivating, de-budding and pruning, as well as maintaining optimal growing conditions.
+- Conducts market garden operations, such as collecting, storing, grading and packaging produce, and organising the sale, purchase and dispatch of produce.
+- Directs and oversees general activities such as fertilising and the control of pests and weeds.
+- Maintains buildings, fences, equipment and water supply systems.
+- Maintains and evaluates records of activities, monitoring market activity, and planning crop preparation and production to meet contract requirements and market demand.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Co-ordinates production and marketing of crops from soil preparation to harvest taking into account environmental and market factors.
+- Plants seeds, seedlings and bulbs, and grafts new varieties to root stocks.
+- Maintains crop production by cultivating, de-budding and pruning, and maintains optimal growing conditions.
+- Conducts farming operations, such as collecting, storing, grading and packaging produce, and organising the sale, purchase and dispatch of produce.
+- Oversees general farming activities such as fertilising and pest and weed control.
+- Maintains farm buildings, fences, equipment and water supply systems.
+- Maintains and evaluates records of farming activities, monitoring market activity, and planning crop preparation and production to meet contract requirements and market demand.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- Selects, trains and supervises staff and contractors.
+- Co-ordinates production and marketing of cotton, from soil preparation to harvest taking into account environmental and market factors.
+- Selects and plants seeds.
+- Maintains crop production by cultivating and maintains optimal growing conditions.
+- Organises and conducts farming operations, such as collecting, storing, grading and packaging produce, as well as organising the sale, purchase and dispatch of produce.
+- Directs and oversees general farming activities, such as fertilising and pest and weed control.
+- Maintains farm buildings, fences, equipment and water supply systems.
+- Maintains and evaluates records of farming activities, monitors market activity and plans crop preparation and production, to meet contract requirements and market demands.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Co-ordinates production and marketing of sugar cane, from soil preparation to harvest taking into account environmental and market factors.
+- Plants seeds and seedlings and grafts new varieties to root stocks.
+- Maintains crop production by cultivating and maintains optimal growing conditions.
+- Organises and conducts farming operations, such as collecting, storing, grading and packaging produce, as well as organising the sale, purchase and dispatch of produce.
+- Directs and oversees general farming activities, such as fertilising and pest and weed control.
+- Maintains farm buildings, fences, equipment and water supply systems.
+- Maintains and evaluates records of farming activities, monitors market activity and plans crop preparation and production, to meet contract requirements and market demands.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.

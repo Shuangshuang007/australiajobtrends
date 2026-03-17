@@ -1,0 +1,84 @@
+# Other Miscellaneous Technicians and Trades Workers
+
+## Description
+
+Technicians and Trades Workers (not covered elsewhere) includes jobs like Airborne Electronics Analyst (Air Force), Architectural Model Maker, Canoe Maker, Coffee Machine Technician, Fibre Composite Technician, Glass Blower, Hide and Skin Classer, Irrigation Designer, Kayak Maker, Milking Machine Technician, Parachute Rigger, Pearl Technician, Pyrotechnician, Ski Technician, and Surfboard Maker.
+
+## Tasks
+
+- Swims underwater to undertake tasks such as seafood gathering, research, salvage and construction
+- Plans the interior design of commercial or residential premises and arranges for decorating work to be done
+- Interprets optical prescriptions, and fits and services optical appliances such as spectacle frames and lenses
+- Operates machines to grind, polish and surface optical lenses to meet prescription requirements, and fits lenses to spectacle frames
+- Assists photographers in taking and developing photographs
+- Sets up, adjusts, repairs and troubleshoots machines which manufacture plastics products
+- Classifies wool to industry standards or market requirements
+- Performs mechanical, construction, repair and inspection duties using hand tools, cutting and welding equipment and hydraulic or air powered equipment.
+- Secures cables or floatation devices to objects to raise them to the surface.
+- Dives in diving bells and operates articulated arms to perform tasks.
+- Controls equipment at the surface for other divers.
+- Carries out other underwater duties such as surveys, searches, blasting and collection of scientific or exploratory samples and operates underwater equipment including video and television camera and sonar gear.
+- Discusses design ideas and provides advice to clients.
+- Analyses clients' requirements.
+- Plans and designs whole building interiors, rooms, shops, residential and leisure spaces.
+- Plans interior infrastructure such as lighting, air-conditioning and communication cabling.
+- Prepares drawings, samples and decorating instructions.
+- Makes any necessary changes to the designs or drawings.
+- Advises on hiring trades people.
+- Designs furniture or fittings.
+- Works with architects and other contractors at the early stages of designing an interior space.
+- Keep up to date with trends and legal requirements in interior design.
+- May be involved with project management.
+- May run their own business.
+- Takes facial measurements and assists customer in choice of frame.
+- Shapes and fits lenses into frames.
+- Repairs spectacles, and sells a range of optical goods.
+- Selects and assembles optical elements for instruments and fits them in position.
+- Scrapes, files and laps mount of instrument to align optical elements.
+- Centres, focuses, adjusts and calibrates instrument on standard targets.
+- Anchors lenses and other optical elements with adhesives or retaining ring.
+- Assists qualified photographers in photo shoots.
+- Sets up studio for shoots.
+- Arranges cameras and film.
+- Organises lighting and other photographic equipment.
+- Locates props for photo shoots.
+- Takes photos.
+- Develops and print photos.
+- Scans photos into a computer.
+- Edits and formats pictures and saves them to disk.
+- May mount photographs and set up exhibits.
+- Sets up the die (mould for shaping the product) to produce a plastic product.
+- Prepares the line-changing equipment.
+- Changes the equipment in the machines so they produce different products.
+- Starts up and shuts down the machines.
+- Sets and records a machine's conditions such as heat, pressure and vacuum levels.
+- Makes sure the product complies with the specifications.
+- Fixes process problems if products do not meet the required standard.
+- Conducts basic quality control tests.
+- Fabricates equipment.
+- Designs equipment.
+- Fixes or organises the fixing of machines.
+- Sorts wool into groups according to length, fibre thickness, breed and colour.
+- Places sorted wool into appropriate bins.
+- Presses the wool into bales.
+- Supervises the pressing and branding of wool bales.
+- Operates wool-weighing, sampling and wool-blending machinery.
+- Keeps records of the wool bales pressed.
+- Carries out minor maintenance on wool-weighing, sampling and wool-blending machines.
+- May be responsible for wool shed management.
+- Talks to clients about their needs.
+- Orders materials and equipment.
+- Designs and shapes the blank (polyurethane board).
+- Applies colour to the board.
+- Covers the blank with fibreglass cloth and resin.
+- Draws designs on tissue and transfers them onto the board.
+- Attaches fibreglass fins and/or fin systems.
+- Sands the board to achieve a smooth finish and sprays or brushes the board with a chemical finish.
+- Protects human life and property from fire damage, using fire prevention techniques.
+- Reads and understands complicated technical documents.
+- Keeps up to date with fire protection measures against terrorist threats or natural disasters.
+- Analyses existing protection measures and designs up-to-date fire protection systems.
+- Consults with architects or other industry experts to design safe buildings or transportation vehicles.
+- Researches new issues in fire prevention and develops solutions, sometimes with the use of advanced computer modelling systems, to predict the occurrence and spread of fire.
+- Tests the ability of particular chemicals to suppress fire or performs research on existing fire prevention techniques.
+- Conducts analysis of fire risks and develops appropriate safeguards.

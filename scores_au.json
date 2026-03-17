@@ -1,0 +1,2150 @@
+[
+  {
+    "slug": "chief-executives-and-managing-directors",
+    "title": "Chief Executives and Managing Directors",
+    "exposure": 5,
+    "rationale": "While Chief Executives and Managing Directors engage in significant knowledge work, much of their role involves strategic decision-making, interpersonal relationships, and leadership that cannot be easily automated. AI can assist with data analysis and reporting, but the core responsibilities require human judgment and interaction, leading to a moderate level of exposure."
+  },
+  {
+    "slug": "general-managers",
+    "title": "General Managers",
+    "exposure": 4,
+    "rationale": "General Managers, particularly in the Defence Force, engage in a mix of strategic planning, human interaction, and decision-making that requires a significant human presence and judgment. While AI can assist with data analysis and reporting, the core responsibilities involve leadership, interpersonal communication, and real-time decision-making that are less susceptible to automation."
+  },
+  {
+    "slug": "legislators",
+    "title": "Legislators",
+    "exposure": 3,
+    "rationale": "The work of legislators involves significant interpersonal interaction, community engagement, and the formulation of policies that require human judgment and understanding of complex social issues. While AI may assist with data analysis and information processing, the core tasks of representing constituents and making legislative decisions are inherently human-centric and cannot be easily automated."
+  },
+  {
+    "slug": "aquaculture-farmers",
+    "title": "Aquaculture Farmers",
+    "exposure": 3,
+    "rationale": "Aquaculture Farmers primarily engage in physical and hands-on tasks related to the breeding and raising of aquatic stock, which requires real-time human presence and interaction with the environment. While AI may assist with data analysis and record-keeping, the core activities of monitoring, transporting, and managing live stock are not easily automated."
+  },
+  {
+    "slug": "crop-farmers",
+    "title": "Crop Farmers",
+    "exposure": 2,
+    "rationale": "Crop farming is primarily a physical occupation that requires hands-on work in unpredictable environments, such as managing crops and dealing with pests and weather conditions. While AI may assist with data analysis and some operational efficiencies, the core tasks of planting, cultivating, and harvesting crops necessitate human presence and manual skills, resulting in low overall exposure to AI."
+  },
+  {
+    "slug": "livestock-farmers",
+    "title": "Livestock Farmers",
+    "exposure": 2,
+    "rationale": "Livestock farming is primarily a physical occupation that requires hands-on work with animals and the management of physical environments. While AI may assist with data management and operational planning, the core tasks of breeding, caring for livestock, and conducting farming operations necessitate human presence and judgment, resulting in low overall exposure to AI."
+  },
+  {
+    "slug": "mixed-crop-and-livestock-farmers",
+    "title": "Mixed Crop and Livestock Farmers",
+    "exposure": 2,
+    "rationale": "Mixed Crop and Livestock Farmers primarily engage in physical and hands-on work that requires real-time human presence and interaction with the environment. While AI may assist with data analysis and record-keeping, the core tasks of farming, such as breeding livestock and managing crops, are not easily automated."
+  },
+  {
+    "slug": "advertising-public-relations-and-sales-managers",
+    "title": "Advertising, Public Relations and Sales Managers",
+    "exposure": 6,
+    "rationale": "This occupation involves a significant amount of knowledge work, including strategy formulation and campaign management, which can be enhanced by AI tools. While human judgment and creativity are essential in public relations and advertising, AI can assist in data analysis, content generation, and optimizing marketing strategies, leading to increased productivity."
+  },
+  {
+    "slug": "corporate-services-managers",
+    "title": "Corporate Services Managers",
+    "exposure": 5,
+    "rationale": "Corporate Services Managers engage in a mix of knowledge work and interpersonal tasks, requiring both strategic thinking and human interaction. While AI can assist with data analysis and administrative tasks, the role's emphasis on leadership, negotiation, and complex decision-making means that human presence and judgment remain essential."
+  },
+  {
+    "slug": "finance-managers",
+    "title": "Finance Managers",
+    "exposure": 6,
+    "rationale": "Finance Managers primarily engage in knowledge work that involves analyzing data, interpreting financial information, and making strategic decisions. While AI can assist with data analysis and reporting, the role still requires significant human judgment and interpersonal skills, particularly in advising and coordinating with other managers."
+  },
+  {
+    "slug": "human-resource-managers",
+    "title": "Human Resource Managers",
+    "exposure": 5,
+    "rationale": "Human Resource Managers engage in a mix of knowledge work and interpersonal tasks, such as advising on recruitment and managing workplace relations. While AI can assist with data analysis and performance management systems, the role still heavily relies on human judgment, negotiation skills, and relationship-building, which limits its exposure to AI."
+  },
+  {
+    "slug": "policy-and-planning-managers",
+    "title": "Policy and Planning Managers",
+    "exposure": 5,
+    "rationale": "Policy and Planning Managers engage in a mix of knowledge work and interpersonal interactions, requiring both strategic thinking and human judgment. While AI can assist with data analysis and policy research, the core tasks of consulting, negotiating, and representing organizations still heavily rely on human presence and expertise."
+  },
+  {
+    "slug": "research-and-development-managers",
+    "title": "Research and Development Managers",
+    "exposure": 5,
+    "rationale": "Research and Development Managers engage in a mix of strategic planning, project management, and interpersonal communication, which requires human judgment and leadership. While AI can assist with data analysis and project management tasks, the core responsibilities involve creativity, innovation, and decision-making that are less susceptible to automation."
+  },
+  {
+    "slug": "construction-managers",
+    "title": "Construction Managers",
+    "exposure": 4,
+    "rationale": "Construction Managers engage in a mix of knowledge work and physical presence, requiring significant human interaction and judgment in coordinating projects and managing teams. While AI can assist with tasks like scheduling and data analysis, the core responsibilities involve negotiation, oversight, and compliance with regulations that necessitate human involvement."
+  },
+  {
+    "slug": "engineering-managers",
+    "title": "Engineering Managers",
+    "exposure": 5,
+    "rationale": "Engineering Managers engage in a mix of knowledge work and interpersonal tasks, requiring both technical expertise and human judgment. While AI can assist in project management and data analysis, the role still heavily relies on human interaction, decision-making, and oversight of engineering processes, limiting its exposure to automation."
+  },
+  {
+    "slug": "importers-exporters-and-wholesalers",
+    "title": "Importers, Exporters and Wholesalers",
+    "exposure": 5,
+    "rationale": "This occupation involves a mix of knowledge work and interpersonal tasks, such as negotiating and liaising with suppliers, which require human judgment and relationship-building. While AI can assist with data analysis and performance monitoring, the core functions still rely heavily on human presence and decision-making."
+  },
+  {
+    "slug": "manufacturers",
+    "title": "Manufacturers",
+    "exposure": 4,
+    "rationale": "Manufacturers engage in a mix of knowledge work and physical processes, with significant responsibilities in planning, coordination, and quality control. While AI can assist in optimizing certain operational tasks and data analysis, the core of manufacturing still requires human oversight and physical presence, limiting overall exposure."
+  },
+  {
+    "slug": "production-managers",
+    "title": "Production Managers",
+    "exposure": 4,
+    "rationale": "Production Managers engage in a mix of knowledge work and physical oversight, requiring human judgment and interaction with both staff and machinery. While AI can assist with data analysis and monitoring production metrics, the role still heavily relies on human presence and decision-making in a dynamic environment."
+  },
+  {
+    "slug": "supply-distribution-and-procurement-managers",
+    "title": "Supply, Distribution and Procurement Managers",
+    "exposure": 5,
+    "rationale": "Supply, Distribution and Procurement Managers engage in a mix of strategic decision-making, negotiation, and interpersonal communication, which are less susceptible to full automation. While AI can assist with data analysis and inventory management, the core tasks still require human judgment and relationship-building with suppliers and other departments."
+  },
+  {
+    "slug": "child-care-centre-managers",
+    "title": "Child Care Centre Managers",
+    "exposure": 3,
+    "rationale": "Child Care Centre Managers primarily engage in interpersonal work and require a physical presence to oversee the care of children. While AI may assist with administrative tasks like record-keeping and compliance, the core responsibilities involve human interaction and supervision, limiting the overall exposure to AI."
+  },
+  {
+    "slug": "health-and-welfare-services-managers",
+    "title": "Health and Welfare Services Managers",
+    "exposure": 4,
+    "rationale": "Health and Welfare Services Managers engage in a mix of administrative and interpersonal tasks, requiring significant human judgment and interaction. While AI can assist with data analysis and administrative operations, the core responsibilities involve leadership, coordination, and negotiation, which are less susceptible to automation."
+  },
+  {
+    "slug": "school-principals",
+    "title": "School Principals",
+    "exposure": 4,
+    "rationale": "School Principals engage in a mix of administrative tasks and interpersonal work, requiring significant human judgment and presence in the physical environment of a school. While AI can assist with data analysis and administrative processes, the core responsibilities involve leadership, community engagement, and direct interaction with staff and students, which are less susceptible to automation."
+  },
+  {
+    "slug": "other-education-managers",
+    "title": "Other Education Managers",
+    "exposure": 5,
+    "rationale": "Other Education Managers engage in a mix of knowledge work and interpersonal tasks, such as policy development and community liaison. While AI can assist with data analysis and administrative tasks, the role still requires significant human judgment and interaction, particularly in coordinating educational programs and addressing the needs of students and staff."
+  },
+  {
+    "slug": "ict-managers",
+    "title": "ICT Managers",
+    "exposure": 7,
+    "rationale": "ICT Managers primarily engage in knowledge work that involves analyzing information needs, formulating strategies, and overseeing ICT operations. While their roles require human judgment and leadership, the increasing capabilities of AI in managing and optimizing ICT resources suggest that their productivity could be significantly enhanced, leading to potential restructuring in the field."
+  },
+  {
+    "slug": "commissioned-officers-management",
+    "title": "Commissioned Officers (Management)",
+    "exposure": 4,
+    "rationale": "Commissioned Officers in management roles involve a significant amount of interpersonal work, decision-making, and public representation, which are less susceptible to automation. While AI can assist with data analysis and administrative tasks, the core responsibilities require human judgment, leadership, and real-time interaction with staff and the public."
+  },
+  {
+    "slug": "senior-non-commissioned-defence-force-members",
+    "title": "Senior Non-commissioned Defence Force Members",
+    "exposure": 2,
+    "rationale": "This occupation involves significant physical presence, leadership, and interpersonal skills, which are essential in a military context. While AI may assist with administrative tasks, the core responsibilities revolve around human interaction, discipline, and training, limiting the impact of AI."
+  },
+  {
+    "slug": "other-specialist-managers",
+    "title": "Other Specialist Managers",
+    "exposure": 4,
+    "rationale": "Specialist Managers engage in a mix of strategic planning, coordination, and oversight that requires human judgment and interpersonal skills. While AI can assist with data analysis and some administrative tasks, the core responsibilities involve complex decision-making, relationship management, and physical presence in various environments, which limits the potential for full automation."
+  },
+  {
+    "slug": "cafe-and-restaurant-managers",
+    "title": "Cafe and Restaurant Managers",
+    "exposure": 4,
+    "rationale": "Cafe and Restaurant Managers engage in a mix of interpersonal and knowledge work, requiring human judgment and presence to ensure customer satisfaction and manage staff. While AI can assist with tasks like inventory management and reservations, the core aspects of the job, such as customer interaction and staff supervision, still rely heavily on human skills and presence."
+  },
+  {
+    "slug": "caravan-park-and-camping-ground-managers",
+    "title": "Caravan Park and Camping Ground Managers",
+    "exposure": 3,
+    "rationale": "This occupation involves a significant amount of interpersonal interaction and physical presence, particularly in managing facilities and addressing guest needs. While AI may assist with tasks like reservations and payments, the core responsibilities require human judgment and direct engagement with guests and local regulations."
+  },
+  {
+    "slug": "hotel-and-motel-managers",
+    "title": "Hotel and Motel Managers",
+    "exposure": 3,
+    "rationale": "Hotel and Motel Managers primarily engage in interpersonal and physical tasks that require real-time human presence, such as overseeing staff and ensuring guest satisfaction. While AI may assist with scheduling and data analysis, the core responsibilities of managing operations and customer interactions are less likely to be automated."
+  },
+  {
+    "slug": "licensed-club-managers",
+    "title": "Licensed Club Managers",
+    "exposure": 3,
+    "rationale": "Licensed Club Managers primarily engage in interpersonal and physical tasks that require real-time human presence, such as supervising staff and planning events. While AI could assist with scheduling and compliance monitoring, the core responsibilities of managing member experiences and community interactions remain largely human-driven."
+  },
+  {
+    "slug": "other-accommodation-and-hospitality-managers",
+    "title": "Other Accommodation and Hospitality Managers",
+    "exposure": 4,
+    "rationale": "Accommodation and Hospitality Managers engage in a mix of interpersonal and administrative tasks that require human judgment and presence. While AI can assist with scheduling, reservations, and data management, the core responsibilities involve personal interactions, guest satisfaction, and staff management, which are less susceptible to automation."
+  },
+  {
+    "slug": "retail-managers",
+    "title": "Retail Managers",
+    "exposure": 4,
+    "rationale": "Retail Managers engage in a mix of knowledge work and interpersonal tasks, such as budgeting, marketing, and staff supervision. While AI can assist with data analysis and inventory management, the role still heavily relies on human interaction and judgment in customer service and team management."
+  },
+  {
+    "slug": "amusement-fitness-and-sports-centre-managers",
+    "title": "Amusement, Fitness and Sports Centre Managers",
+    "exposure": 3,
+    "rationale": "The role of Sports Centre Managers involves significant interpersonal interaction, physical presence, and hands-on management of facilities and staff. While AI could assist with scheduling and promotional tasks, the core responsibilities related to client engagement, staff supervision, and facility management remain largely human-driven."
+  },
+  {
+    "slug": "call-or-contact-centre-and-customer-service-managers",
+    "title": "Call or Contact Centre and Customer Service Managers",
+    "exposure": 5,
+    "rationale": "Customer Service Managers engage in a mix of knowledge work and interpersonal tasks, requiring human judgment and relationship management. While AI can assist with data analysis and operational efficiency, the core responsibilities involve managing teams and ensuring customer satisfaction, which still necessitate a significant human presence."
+  },
+  {
+    "slug": "conference-and-event-organisers",
+    "title": "Conference and Event Organisers",
+    "exposure": 4,
+    "rationale": "The role of Conference and Event Organisers involves a mix of interpersonal skills and knowledge work, particularly in coordinating services and meeting client needs. While AI can assist with logistics and scheduling, the job requires significant human interaction and judgment, especially in understanding client preferences and managing live events."
+  },
+  {
+    "slug": "transport-services-managers",
+    "title": "Transport Services Managers",
+    "exposure": 4,
+    "rationale": "Transport Services Managers engage in a mix of knowledge work and interpersonal tasks, such as liaising with clients and ensuring compliance with regulations. While AI can assist with scheduling and data management, the role still requires significant human judgment and physical presence in managing operations and coordinating activities."
+  },
+  {
+    "slug": "other-hospitality-retail-and-service-managers",
+    "title": "Other Hospitality, Retail and Service Managers",
+    "exposure": 4,
+    "rationale": "This occupation involves a mix of managerial tasks that require human judgment, interpersonal skills, and physical presence, especially in hospitality and service settings. While AI can assist with data analysis and operational efficiencies, the core responsibilities still heavily rely on human interaction and decision-making."
+  },
+  {
+    "slug": "actors-dancers-and-other-entertainers",
+    "title": "Actors, Dancers and Other Entertainers",
+    "exposure": 2,
+    "rationale": "The occupation of actors, dancers, and other entertainers primarily involves physical performance and real-time human interaction, which are not easily replicable by AI. While AI may assist with certain aspects like script analysis or scheduling, the core of the job relies on unique human creativity, expression, and presence in live performances."
+  },
+  {
+    "slug": "music-professionals",
+    "title": "Music Professionals",
+    "exposure": 4,
+    "rationale": "Music professionals engage in a mix of creative and interpersonal tasks that require human judgment, emotional expression, and live performance. While AI can assist with certain aspects of music composition and research, the core of the job relies heavily on human creativity, interpretation, and real-time interaction with musicians and audiences."
+  },
+  {
+    "slug": "photographers",
+    "title": "Photographers",
+    "exposure": 4,
+    "rationale": "While photography involves significant creative and technical skills that require human judgment and artistic vision, many tasks such as image manipulation and processing can be assisted by AI tools. However, the physical presence required for on-location shoots and the artistic nature of the work limit the overall exposure to AI."
+  },
+  {
+    "slug": "visual-arts-and-crafts-professionals",
+    "title": "Visual Arts and Crafts Professionals",
+    "exposure": 2,
+    "rationale": "The work of Visual Arts and Crafts Professionals is primarily hands-on and requires significant physical skill and creativity, which are not easily replicable by AI. While AI may assist in some peripheral tasks, the core artistic processes and the unique human touch involved in creating art limit the potential for automation."
+  },
+  {
+    "slug": "artistic-directors-and-media-producers-and-presenters",
+    "title": "Artistic Directors, and Media Producers and Presenters",
+    "exposure": 5,
+    "rationale": "Television Presenters engage in a mix of knowledge work and interpersonal interaction, requiring creativity, human judgment, and real-time presence. While AI can assist with research, script preparation, and even some aspects of presentation, the core of the role\u2014engaging with audiences and conducting live interviews\u2014remains reliant on human skills and presence."
+  },
+  {
+    "slug": "authors-and-book-and-script-editors",
+    "title": "Authors, and Book and Script Editors",
+    "exposure": 7,
+    "rationale": "The occupation of book and script editors involves significant knowledge work, including evaluating and developing written content, which can be enhanced by AI tools. While human judgment and creativity are essential in assessing themes and character development, AI can assist in research, editing, and even generating ideas, leading to increased productivity and potential restructuring of the role."
+  },
+  {
+    "slug": "film-television-radio-and-stage-directors",
+    "title": "Film, Television, Radio and Stage Directors",
+    "exposure": 4,
+    "rationale": "While the role of Film, Television, Radio and Stage Directors involves significant creative and interpersonal tasks that require human judgment and presence, AI can assist in some aspects such as script analysis, scene evaluation, and production planning. However, the core creative decision-making and on-set leadership aspects of the job are less likely to be fully automated, resulting in moderate exposure to AI."
+  },
+  {
+    "slug": "journalists-and-other-writers",
+    "title": "Journalists and Other Writers",
+    "exposure": 8,
+    "rationale": "The occupation of journalists and other writers is predominantly digital, involving tasks such as writing, researching, and analyzing content that can be significantly enhanced by AI tools. As AI continues to improve in natural language processing and content generation, the potential for automation and productivity gains in this field is substantial, leading to major restructuring in how these roles are performed."
+  },
+  {
+    "slug": "accountants",
+    "title": "Accountants",
+    "exposure": 7,
+    "rationale": "Accountants primarily engage in knowledge work that involves analyzing data, preparing reports, and providing financial advice, all of which can be significantly enhanced by AI tools. While human judgment and interpersonal skills are still crucial in areas like client interaction and complex decision-making, the core tasks of data analysis and report generation are increasingly being automated, indicating a high level of AI exposure."
+  },
+  {
+    "slug": "auditors-company-secretaries-and-corporate-treasurers",
+    "title": "Auditors, Company Secretaries and Corporate Treasurers",
+    "exposure": 6,
+    "rationale": "The occupation involves a significant amount of knowledge work, particularly in analyzing financial data and ensuring compliance with regulations. While many tasks can be assisted by AI, such as data analysis and report generation, the need for human judgment and the complexity of certain tasks, like advising boards and conducting audits, maintain a moderate level of exposure to AI."
+  },
+  {
+    "slug": "financial-brokers",
+    "title": "Financial Brokers",
+    "exposure": 6,
+    "rationale": "Financial brokers engage in a mix of knowledge work and interpersonal interactions, particularly in analyzing financial data and negotiating deals. While AI can assist with data analysis and trend monitoring, the need for human judgment, relationship-building, and personalized client interactions keeps the exposure to AI at a high but not maximum level."
+  },
+  {
+    "slug": "financial-dealers",
+    "title": "Financial Dealers",
+    "exposure": 7,
+    "rationale": "Financial Dealers primarily engage in knowledge work that involves analyzing data, interpreting market conditions, and providing advice, all of which can be enhanced by AI tools. While human judgment and client interaction remain important, the digital nature of their tasks and the rapid advancements in AI capabilities in financial analysis suggest a high level of exposure to AI-driven changes."
+  },
+  {
+    "slug": "financial-investment-advisers-and-managers",
+    "title": "Financial Investment Advisers and Managers",
+    "exposure": 7,
+    "rationale": "Financial Investment Advisers and Managers primarily engage in knowledge work that involves analyzing data, developing strategies, and communicating with clients. While human judgment and interpersonal skills are crucial, AI tools can significantly enhance productivity by automating data analysis and providing insights, leading to a high level of exposure to AI advancements."
+  },
+  {
+    "slug": "human-resource-professionals",
+    "title": "Human Resource Professionals",
+    "exposure": 5,
+    "rationale": "Human Resource Professionals engage in a mix of knowledge work and interpersonal tasks, such as negotiations and conflict resolution, which require human judgment and emotional intelligence. While AI can assist with data management and some administrative tasks, the core functions of advising and negotiating still heavily rely on human interaction and understanding of complex workplace dynamics."
+  },
+  {
+    "slug": "ict-trainers",
+    "title": "ICT Trainers",
+    "exposure": 6,
+    "rationale": "ICT Trainers primarily engage in knowledge work, developing and delivering training programs that can be enhanced by AI tools. While AI can assist in creating training materials and evaluating learning outcomes, the role still requires significant human interaction and judgment, particularly in facilitating workshops and adapting training to individual needs."
+  },
+  {
+    "slug": "training-and-development-professionals",
+    "title": "Training and Development Professionals",
+    "exposure": 5,
+    "rationale": "Training and Development Professionals engage in a mix of knowledge work and interpersonal interaction, requiring human judgment and presence for effective training delivery. While AI can assist in creating training materials and evaluating outcomes, the core tasks of facilitating workshops and providing personalized career counseling still heavily rely on human skills and relationships."
+  },
+  {
+    "slug": "actuaries-mathematicians-and-statisticians",
+    "title": "Actuaries, Mathematicians and Statisticians",
+    "exposure": 7,
+    "rationale": "The work of actuaries, mathematicians, and statisticians is predominantly knowledge-based and heavily reliant on data analysis, which is increasingly being enhanced by AI tools. While human judgment and expertise are still crucial for interpreting complex financial models and communicating with clients, the core tasks of data analysis and model formulation are highly amenable to automation and AI assistance."
+  },
+  {
+    "slug": "archivists-curators-and-records-managers",
+    "title": "Archivists, Curators and Records Managers",
+    "exposure": 5,
+    "rationale": "The role of archivists, curators, and records managers involves a mix of knowledge work and physical tasks, such as evaluating and preserving records and managing access to confidential information. While AI can assist with information processing and record management systems, many tasks still require human judgment, creativity, and interpersonal skills, leading to a moderate exposure to AI."
+  },
+  {
+    "slug": "economists",
+    "title": "Economists",
+    "exposure": 7,
+    "rationale": "Economists primarily engage in knowledge work that involves analyzing data and developing theories, which can be significantly enhanced by AI tools. While human judgment and expertise are crucial for interpreting complex economic scenarios, AI can automate data analysis and forecasting tasks, leading to increased productivity and potential restructuring of the role."
+  },
+  {
+    "slug": "intelligence-and-policy-analysts",
+    "title": "Intelligence and Policy Analysts",
+    "exposure": 6,
+    "rationale": "Policy Analysts primarily engage in knowledge work that involves data analysis, research, and communication, which are areas where AI tools can significantly enhance productivity. While human judgment and interpersonal skills are crucial for liaising with stakeholders and assessing policy implications, the increasing capabilities of AI in data processing and analysis suggest a high level of exposure to AI-driven changes in this occupation."
+  },
+  {
+    "slug": "land-economists-and-valuers",
+    "title": "Land Economists and Valuers",
+    "exposure": 5,
+    "rationale": "Land economists and valuers engage in a mix of knowledge work and interpersonal tasks, requiring human judgment and expertise in property valuation. While AI can assist with data analysis and market trends, the core aspects of the job, such as providing tailored advice and engaging in legal proceedings, still necessitate human presence and decision-making."
+  },
+  {
+    "slug": "librarians",
+    "title": "Librarians",
+    "exposure": 4,
+    "rationale": "Librarians engage in a mix of knowledge work and interpersonal tasks, such as managing collections and assisting clients. While AI can assist with information retrieval and cataloging, the role still requires significant human judgment and interaction, particularly in understanding user needs and promoting library services."
+  },
+  {
+    "slug": "management-and-organisation-analysts",
+    "title": "Management and Organisation Analysts",
+    "exposure": 6,
+    "rationale": "Management and Organisation Analysts primarily engage in knowledge work that involves analyzing and improving organizational systems and procedures. While their tasks require human judgment and interpersonal skills, AI can significantly assist in data analysis, workflow optimization, and documentation, leading to increased productivity and potential restructuring of the role."
+  },
+  {
+    "slug": "other-information-and-organisation-professionals",
+    "title": "Other Information and Organisation Professionals",
+    "exposure": 5,
+    "rationale": "This occupation involves a mix of knowledge work and interpersonal communication, with significant tasks requiring human judgment and interaction, such as liaising with constituents and handling sensitive immigration matters. While AI can assist with information processing and administrative tasks, the core functions still rely heavily on human presence and decision-making."
+  },
+  {
+    "slug": "advertising-and-marketing-professionals",
+    "title": "Advertising and Marketing Professionals",
+    "exposure": 7,
+    "rationale": "Advertising and marketing professionals primarily engage in knowledge work that involves data analysis, strategy development, and creative processes. While human judgment and creativity are essential, AI tools can significantly enhance productivity in data analysis and campaign optimization, indicating a high level of exposure to AI advancements."
+  },
+  {
+    "slug": "ict-sales-professionals",
+    "title": "ICT Sales Professionals",
+    "exposure": 6,
+    "rationale": "ICT Sales Professionals engage in a mix of knowledge work and interpersonal interactions, particularly in assessing customer needs and building relationships. While AI can assist with data analysis, lead generation, and reporting, the core of the job still relies heavily on human judgment and personal interaction, which limits full automation."
+  },
+  {
+    "slug": "public-relations-professionals",
+    "title": "Public Relations Professionals",
+    "exposure": 6,
+    "rationale": "Public Relations Professionals engage in a mix of strategic planning, communication, and interpersonal interactions, which are essential for building relationships and managing public perception. While AI can assist with data analysis, content creation, and campaign optimization, the need for human judgment, creativity, and real-time interaction in public relations limits the extent of automation."
+  },
+  {
+    "slug": "technical-sales-representatives",
+    "title": "Technical Sales Representatives",
+    "exposure": 5,
+    "rationale": "Technical Sales Representatives engage in a mix of interpersonal interactions and knowledge work, requiring both human judgment and relationship-building skills. While AI can assist with data analysis, client tracking, and even some aspects of customer communication, the core of the job\u2014establishing trust and understanding client needs\u2014still relies heavily on human presence and interaction."
+  },
+  {
+    "slug": "air-transport-professionals",
+    "title": "Air Transport Professionals",
+    "exposure": 3,
+    "rationale": "Air Transport Professionals engage in a mix of physical and knowledge work, requiring real-time human presence and decision-making in dynamic environments. While AI may assist with certain tasks like flight planning and performance monitoring, the core responsibilities involve piloting and ensuring safety, which necessitate human judgment and interaction."
+  },
+  {
+    "slug": "marine-transport-professionals",
+    "title": "Marine Transport Professionals",
+    "exposure": 2,
+    "rationale": "Marine Transport Professionals primarily engage in physical and operational tasks that require real-time human presence and decision-making in unpredictable environments. While AI may assist with certain planning and compliance tasks, the core responsibilities involve hands-on work and direct supervision of crew and equipment, limiting the potential for automation."
+  },
+  {
+    "slug": "architects-and-landscape-architects",
+    "title": "Architects and Landscape Architects",
+    "exposure": 5,
+    "rationale": "Landscape Architects engage in a mix of creative design and technical analysis, which involves both knowledge work and physical presence on-site. While AI can assist with data analysis and design simulations, the need for human judgment, client interaction, and site inspections means that a significant portion of the work still requires human expertise and presence."
+  },
+  {
+    "slug": "surveyors-and-spatial-scientists",
+    "title": "Surveyors and Spatial Scientists",
+    "exposure": 6,
+    "rationale": "Surveyors and Spatial Scientists primarily engage in knowledge work that involves data analysis, map design, and the use of digital tools. While AI can assist in automating certain tasks like data processing and map generation, the occupation still requires significant human judgment, creativity, and interaction with other professionals, which limits its overall exposure to AI."
+  },
+  {
+    "slug": "fashion-industrial-and-jewellery-designers",
+    "title": "Fashion, Industrial and Jewellery Designers",
+    "exposure": 5,
+    "rationale": "Jewellery designers engage in a mix of creative and technical tasks that require human judgment, aesthetic sensibility, and client interaction, which are less susceptible to automation. While AI can assist in design processes and prototyping, the core of the job relies heavily on personal creativity and client relationships, limiting overall exposure to AI."
+  },
+  {
+    "slug": "graphic-and-web-designers-and-illustrators",
+    "title": "Graphic and Web Designers, and Illustrators",
+    "exposure": 8,
+    "rationale": "Graphic and web design is predominantly digital, involving tasks that can be significantly enhanced by AI tools, such as design generation and layout optimization. While human creativity and client interaction remain essential, the core tasks are increasingly automated, indicating a high potential for restructuring in this occupation."
+  },
+  {
+    "slug": "interior-designers",
+    "title": "Interior Designers",
+    "exposure": 5,
+    "rationale": "Interior Designers engage in a mix of creative design work and interpersonal communication, requiring human judgment and client interaction. While AI can assist with certain tasks like generating design concepts or optimizing layouts, the core of the job relies heavily on personal creativity, client relationships, and physical presence during construction supervision."
+  },
+  {
+    "slug": "urban-and-regional-planners",
+    "title": "Urban and Regional Planners",
+    "exposure": 5,
+    "rationale": "Urban and Regional Planners engage in a mix of knowledge work and interpersonal tasks, requiring human judgment and collaboration with various stakeholders. While AI can assist with data analysis and generating reports, the core aspects of the job, such as community engagement and mediation, still necessitate a human presence and nuanced understanding of complex social dynamics."
+  },
+  {
+    "slug": "chemical-and-materials-engineers",
+    "title": "Chemical and Materials Engineers",
+    "exposure": 4,
+    "rationale": "Chemical and Materials Engineers engage in a mix of knowledge work and hands-on tasks, particularly in laboratory and industrial settings. While AI can assist with data analysis and design simulations, the role still heavily relies on human judgment, physical presence, and complex problem-solving in unpredictable environments."
+  },
+  {
+    "slug": "civil-engineering-professionals",
+    "title": "Civil Engineering Professionals",
+    "exposure": 4,
+    "rationale": "Civil engineering professionals engage in a mix of knowledge work and physical presence, particularly in site management and construction oversight. While AI can assist with design simulations, cost estimation, and data analysis, many tasks still require human judgment, creativity, and real-world interaction, limiting overall exposure."
+  },
+  {
+    "slug": "electrical-engineers",
+    "title": "Electrical Engineers",
+    "exposure": 4,
+    "rationale": "Electrical engineering involves a significant amount of hands-on work and requires physical presence for tasks such as installation and maintenance of equipment. While AI can assist with design simulations and data analysis, the core responsibilities still rely heavily on human expertise and physical interaction with systems."
+  },
+  {
+    "slug": "electronics-engineers",
+    "title": "Electronics Engineers",
+    "exposure": 6,
+    "rationale": "Electronics Engineers primarily engage in knowledge work that involves designing and developing complex systems, which can be enhanced by AI tools. While their work requires human judgment and creativity, AI can assist in tasks such as circuit design, testing, and performance analysis, leading to increased productivity and potential restructuring of the occupation."
+  },
+  {
+    "slug": "industrial-mechanical-and-production-engineers",
+    "title": "Industrial, Mechanical and Production Engineers",
+    "exposure": 4,
+    "rationale": "Industrial, Mechanical and Production Engineers engage in a mix of knowledge work and physical presence, particularly in designing and managing manufacturing processes. While AI can assist in data analysis and optimization tasks, many core responsibilities still require human judgment, creativity, and hands-on interaction with machinery and systems."
+  },
+  {
+    "slug": "mining-engineers",
+    "title": "Mining Engineers",
+    "exposure": 3,
+    "rationale": "Mining engineers primarily engage in physical and technical tasks that require on-site presence and hands-on expertise. While AI can assist with data analysis and modeling, the core aspects of the job, such as assessing geological conditions and ensuring safety, necessitate human judgment and interaction in unpredictable environments."
+  },
+  {
+    "slug": "other-engineering-professionals",
+    "title": "Other Engineering Professionals",
+    "exposure": 5,
+    "rationale": "This occupation involves a mix of knowledge work and physical presence, as engineering professionals engage in design, analysis, and project management while also requiring hands-on work and collaboration in various environments. While AI can assist with data analysis and design simulations, many tasks still necessitate human judgment, creativity, and physical oversight, leading to a moderate exposure to AI."
+  },
+  {
+    "slug": "agricultural-and-forestry-scientists",
+    "title": "Agricultural and Forestry Scientists",
+    "exposure": 4,
+    "rationale": "Agricultural and forestry scientists engage in a mix of knowledge work and field-based tasks that require human judgment and interaction with the environment. While AI can assist with data analysis and provide recommendations, many core aspects of the job involve physical presence and hands-on management of natural resources, limiting overall exposure."
+  },
+  {
+    "slug": "chemists-and-food-and-wine-scientists",
+    "title": "Chemists, and Food and Wine Scientists",
+    "exposure": 4,
+    "rationale": "The occupation of wine makers involves a mix of knowledge work and hands-on tasks, particularly in the areas of chemical analysis and quality control. While AI can assist with data analysis and process optimization, the core activities of winemaking require physical presence and human judgment, limiting the overall exposure to AI."
+  },
+  {
+    "slug": "environmental-scientists",
+    "title": "Environmental Scientists",
+    "exposure": 4,
+    "rationale": "Environmental scientists engage in a mix of knowledge work and fieldwork, requiring both analytical skills and physical presence in natural environments. While AI can assist with data analysis and modeling, many core tasks involve human judgment, regulatory enforcement, and on-site assessments that are less susceptible to automation."
+  },
+  {
+    "slug": "geologists-geophysicists-and-hydrogeologists",
+    "title": "Geologists, Geophysicists and Hydrogeologists",
+    "exposure": 4,
+    "rationale": "Geologists, geophysicists, and hydrogeologists engage in a mix of fieldwork and knowledge-based tasks, which limits their exposure to AI. While AI can assist in data analysis and modeling, many core tasks require physical presence, hands-on investigation, and human judgment in unpredictable environments."
+  },
+  {
+    "slug": "life-scientists",
+    "title": "Life Scientists",
+    "exposure": 4,
+    "rationale": "Life scientists engage in a mix of laboratory work and knowledge-based tasks, which include designing experiments and analyzing data. While AI can assist in data analysis and some aspects of research, the hands-on nature of experiments and the need for human judgment in interpreting results limit the overall exposure to AI."
+  },
+  {
+    "slug": "medical-laboratory-scientists",
+    "title": "Medical Laboratory Scientists",
+    "exposure": 4,
+    "rationale": "Medical Laboratory Scientists engage in a mix of hands-on laboratory work and knowledge-based tasks. While AI can assist with data analysis and potentially automate some testing processes, the occupation still requires significant human judgment, interpretation, and physical presence in a laboratory setting."
+  },
+  {
+    "slug": "veterinarians",
+    "title": "Veterinarians",
+    "exposure": 4,
+    "rationale": "Veterinarians engage in a mix of physical and knowledge work, requiring hands-on treatment and interaction with animals and their owners. While AI can assist with diagnostic tools and data analysis, the core tasks of surgery and direct animal care necessitate human presence and expertise, limiting overall exposure."
+  },
+  {
+    "slug": "other-natural-and-physical-science-professionals",
+    "title": "Other Natural and Physical Science Professionals",
+    "exposure": 6,
+    "rationale": "This occupation involves a significant amount of knowledge work, including research, analysis, and the application of scientific principles. While many tasks require specialized expertise and human judgment, AI can assist in data analysis, experiment design, and even some aspects of reporting, leading to increased productivity and potential restructuring of roles."
+  },
+  {
+    "slug": "early-childhood-pre-primary-school-teachers",
+    "title": "Early Childhood (Pre-primary School) Teachers",
+    "exposure": 4,
+    "rationale": "Early Childhood Teachers engage in a mix of interpersonal and knowledge work, requiring significant human interaction and emotional intelligence. While AI can assist with administrative tasks and provide resources, the core aspects of teaching, such as fostering social skills and emotional development, necessitate a human presence and cannot be easily automated."
+  },
+  {
+    "slug": "primary-school-teachers",
+    "title": "Primary School Teachers",
+    "exposure": 4,
+    "rationale": "Primary School Teachers engage in a mix of interpersonal and knowledge work, requiring significant human interaction and emotional intelligence. While AI can assist with administrative tasks and provide educational resources, the core of teaching involves personal relationships and adapting to the unique needs of students, which AI cannot fully replicate."
+  },
+  {
+    "slug": "middle-school-teachers-aus-intermediate-school-teachers-nz",
+    "title": "Middle School Teachers (Aus) \\ Intermediate School Teachers (NZ)",
+    "exposure": 4,
+    "rationale": "Middle school teachers engage in a mix of knowledge work and interpersonal interactions, requiring human judgment and presence in the classroom. While AI can assist with administrative tasks and provide educational resources, the core of teaching involves personal engagement, creativity, and social development, which are less susceptible to automation."
+  },
+  {
+    "slug": "secondary-school-teachers",
+    "title": "Secondary School Teachers",
+    "exposure": 5,
+    "rationale": "Secondary School Teachers engage in a mix of knowledge work and interpersonal interactions, requiring human judgment and presence in the classroom. While AI can assist with administrative tasks and provide educational resources, the core of teaching involves personal engagement, creativity, and adaptability that AI cannot fully replicate."
+  },
+  {
+    "slug": "special-education-teachers",
+    "title": "Special Education Teachers",
+    "exposure": 4,
+    "rationale": "Special Education Teachers engage in a mix of interpersonal work and knowledge-based tasks, requiring significant human interaction and judgment. While AI can assist with administrative tasks and data management, the core responsibilities of teaching and developing individualized programs for students with special needs necessitate a human presence and understanding that AI cannot fully replicate."
+  },
+  {
+    "slug": "university-lecturers-and-tutors",
+    "title": "University Lecturers and Tutors",
+    "exposure": 6,
+    "rationale": "University lecturers and tutors primarily engage in knowledge work, including preparing lectures, conducting discussions, and advising students. While AI can assist in grading and providing resources, the core of the job relies heavily on human interaction, judgment, and the ability to inspire and guide students, which limits full automation."
+  },
+  {
+    "slug": "vocational-education-teachers-aus-polytechnic-teachers-nz",
+    "title": "Vocational Education Teachers (Aus) \\ Polytechnic Teachers (NZ)",
+    "exposure": 5,
+    "rationale": "Vocational Education Teachers engage in a mix of knowledge work and interpersonal interaction, requiring both teaching and curriculum development. While AI can assist with administrative tasks and potentially enhance learning through personalized content, the core of the job relies heavily on human interaction and judgment, limiting overall exposure."
+  },
+  {
+    "slug": "education-advisers-and-reviewers",
+    "title": "Education Advisers and Reviewers",
+    "exposure": 4,
+    "rationale": "Education Advisers and Reviewers engage in a mix of knowledge work and interpersonal interactions, requiring human judgment and presence in educational settings. While AI can assist with data analysis and research tasks, the core responsibilities involve nuanced evaluations and personal interactions that are less susceptible to automation."
+  },
+  {
+    "slug": "private-tutors-and-teachers",
+    "title": "Private Tutors and Teachers",
+    "exposure": 5,
+    "rationale": "Private tutors and teachers engage in a mix of knowledge work and interpersonal interaction, requiring human judgment and presence for effective instruction and assessment. While AI can assist in creating educational materials and providing personalized learning experiences, the core of teaching involves human connection and adaptability that AI cannot fully replicate."
+  },
+  {
+    "slug": "teachers-of-english-to-speakers-of-other-languages",
+    "title": "Teachers of English to Speakers of Other Languages",
+    "exposure": 5,
+    "rationale": "Teachers of English to Speakers of Other Languages engage in a mix of knowledge work and interpersonal interaction, requiring human judgment and adaptability to individual student needs. While AI can assist in language assessment and material design, the core teaching tasks still rely heavily on human presence and interaction."
+  },
+  {
+    "slug": "nutrition-professionals",
+    "title": "Nutrition Professionals",
+    "exposure": 4,
+    "rationale": "Nutrition professionals engage in a mix of knowledge work and interpersonal tasks, such as planning diets and consulting with clients. While AI can assist with data analysis and nutritional calculations, the core of the job involves human interaction and personalized care, which limits full automation."
+  },
+  {
+    "slug": "medical-imaging-professionals",
+    "title": "Medical Imaging Professionals",
+    "exposure": 4,
+    "rationale": "Medical imaging professionals perform a mix of technical and interpersonal tasks that require human judgment and physical presence. While AI can assist in image analysis and equipment settings, the role still heavily relies on human interaction with patients and the nuanced decision-making involved in diagnostics."
+  },
+  {
+    "slug": "occupational-and-environmental-health-professionals",
+    "title": "Occupational and Environmental Health Professionals",
+    "exposure": 4,
+    "rationale": "Occupational and Environmental Health Professionals engage in a mix of knowledge work and physical presence, particularly in inspecting workplaces and training employees. While AI can assist with data analysis and risk assessment, the core tasks still require human judgment, interpersonal skills, and real-time interaction in various environments."
+  },
+  {
+    "slug": "optometrists-and-orthoptists",
+    "title": "Optometrists and Orthoptists",
+    "exposure": 4,
+    "rationale": "Optometrists and orthoptists perform a mix of knowledge work and hands-on tasks that require human judgment and interpersonal interaction. While AI can assist with diagnostic tools and data analysis, the core aspects of patient examination, diagnosis, and personalized treatment still necessitate human presence and expertise."
+  },
+  {
+    "slug": "pharmacists",
+    "title": "Pharmacists",
+    "exposure": 4,
+    "rationale": "Pharmacists engage in a mix of knowledge work and interpersonal tasks, such as advising patients and ensuring proper medication use. While AI can assist with information processing and drug compatibility checks, the role still requires significant human judgment and interaction, particularly in patient care and supervision of pharmacy staff."
+  },
+  {
+    "slug": "other-health-diagnostic-and-promotion-professionals",
+    "title": "Other Health Diagnostic and Promotion Professionals",
+    "exposure": 4,
+    "rationale": "This occupation involves a mix of interpersonal work, hands-on tasks, and knowledge work. While AI can assist with information processing and data analysis related to health issues, many core tasks, such as patient interaction, counseling, and the physical fitting of devices, require human presence and judgment, limiting overall AI exposure."
+  },
+  {
+    "slug": "chiropractors-and-osteopaths",
+    "title": "Chiropractors and Osteopaths",
+    "exposure": 2,
+    "rationale": "Chiropractors and osteopaths primarily engage in hands-on physical treatment and require real-time human interaction with patients. While AI may assist with administrative tasks or data management, the core of their work involves physical manipulation and personal patient care, which limits AI's impact."
+  },
+  {
+    "slug": "complementary-health-therapists",
+    "title": "Complementary Health Therapists",
+    "exposure": 2,
+    "rationale": "Complementary health therapists primarily engage in physical and interpersonal work, requiring real-time human interaction and assessment of patients. While AI may assist with documentation and scheduling, the core therapeutic processes rely heavily on human empathy, creativity, and physical presence, limiting AI's impact on the occupation."
+  },
+  {
+    "slug": "dental-practitioners",
+    "title": "Dental Practitioners",
+    "exposure": 2,
+    "rationale": "Dental practitioners perform a significant amount of hands-on, physical work that requires real-time human interaction and manual skills. While AI can assist with diagnostics and treatment planning, the core tasks of diagnosing and treating patients involve complex human judgment and physical procedures that AI cannot fully replicate."
+  },
+  {
+    "slug": "occupational-therapists",
+    "title": "Occupational Therapists",
+    "exposure": 3,
+    "rationale": "Occupational therapy involves significant interpersonal interaction and hands-on assessment and treatment, which AI cannot fully replicate. While AI may assist with data management and some assessment tools, the core of the job relies on human judgment and personal engagement with clients in diverse environments."
+  },
+  {
+    "slug": "physiotherapists",
+    "title": "Physiotherapists",
+    "exposure": 3,
+    "rationale": "Physiotherapy is a highly interpersonal and hands-on profession that requires real-time human interaction and physical presence to assess and treat patients. While AI may assist with administrative tasks or data analysis, the core functions of physiotherapy, such as hands-on treatment and patient interaction, are not easily automated."
+  },
+  {
+    "slug": "podiatrists",
+    "title": "Podiatrists",
+    "exposure": 2,
+    "rationale": "Podiatrists primarily engage in hands-on, physical examinations and treatments that require real-time human interaction and expertise. While AI may assist with diagnostic tools or patient management systems, the core tasks of diagnosing and treating foot disorders necessitate a physical presence and human judgment, limiting AI's impact on the occupation."
+  },
+  {
+    "slug": "audiologists-and-speech-pathologists-therapists",
+    "title": "Audiologists and Speech Pathologists \\ Therapists",
+    "exposure": 4,
+    "rationale": "Audiologists and Speech Pathologists engage in a mix of knowledge work and interpersonal interaction, requiring human judgment and empathy in their assessments and therapy sessions. While AI can assist in diagnostic processes and data analysis, the core of their work involves direct patient interaction and tailored rehabilitation programs, which are less susceptible to automation."
+  },
+  {
+    "slug": "general-practitioners-and-resident-medical-officers",
+    "title": "General  Practitioners and Resident Medical Officers",
+    "exposure": 4,
+    "rationale": "While many tasks of General Practitioners and Resident Medical Officers involve knowledge work, such as diagnosing and treating patients, a significant portion of their work requires direct human interaction and physical presence. AI can assist with data analysis and diagnostics, but the core of the job relies heavily on human judgment and interpersonal skills, limiting overall exposure."
+  },
+  {
+    "slug": "anaesthetists",
+    "title": "Anaesthetists",
+    "exposure": 2,
+    "rationale": "Anaesthetists perform highly specialized medical tasks that require direct patient interaction, critical thinking, and real-time decision-making in unpredictable environments. While AI may assist with data analysis or monitoring, the core responsibilities of administering anaesthesia and managing patient care necessitate a human presence and expertise."
+  },
+  {
+    "slug": "specialist-physicians",
+    "title": "Specialist Physicians",
+    "exposure": 4,
+    "rationale": "Specialist physicians engage in a significant amount of hands-on patient care and require real-time human interaction, which limits the extent to which AI can fully automate their roles. While AI can assist with diagnostic processes and data analysis, the core of their work relies on human judgment, empathy, and complex decision-making in unpredictable environments."
+  },
+  {
+    "slug": "psychiatrists",
+    "title": "Psychiatrists",
+    "exposure": 3,
+    "rationale": "Psychiatrists engage in a highly interpersonal and nuanced field that requires real-time human interaction and judgment. While AI may assist with data analysis and administrative tasks, the core responsibilities of diagnosing and treating mental health disorders rely heavily on human empathy, understanding, and complex decision-making that AI cannot replicate."
+  },
+  {
+    "slug": "surgeons",
+    "title": "Surgeons",
+    "exposure": 3,
+    "rationale": "Surgeons perform highly specialized and hands-on tasks that require physical presence and manual skill, making them less susceptible to AI automation. While AI may assist with certain diagnostic or administrative tasks, the core of surgical work involves complex human judgment and physical interaction that AI cannot replicate."
+  },
+  {
+    "slug": "other-medical-practitioners",
+    "title": "Other Medical Practitioners",
+    "exposure": 4,
+    "rationale": "While the occupation involves significant knowledge work and diagnostic tasks that could be assisted by AI, the core responsibilities require human presence, judgment, and interpersonal skills. The medical field relies heavily on human interaction, physical examinations, and complex decision-making that AI cannot fully replicate, resulting in moderate exposure to AI."
+  },
+  {
+    "slug": "midwives",
+    "title": "Midwives",
+    "exposure": 2,
+    "rationale": "Midwives engage in predominantly physical and interpersonal work, providing care and support during pregnancy and childbirth, which requires real-time human interaction and presence. While AI may assist with administrative tasks or provide information, it cannot replace the essential human touch and judgment needed in this occupation."
+  },
+  {
+    "slug": "nurse-educators-and-researchers",
+    "title": "Nurse Educators and Researchers",
+    "exposure": 4,
+    "rationale": "Nurse Educators and Researchers engage in a mix of knowledge work and interpersonal tasks, such as developing curricula and facilitating practical experiences. While AI can assist with data analysis and research dissemination, the core of the job requires human judgment, interaction, and presence in educational and clinical settings."
+  },
+  {
+    "slug": "nurse-managers",
+    "title": "Nurse Managers",
+    "exposure": 4,
+    "rationale": "Nurse Managers engage in a mix of knowledge work and interpersonal tasks, requiring human judgment and leadership skills. While AI can assist with data analysis and administrative tasks, the core responsibilities of managing staff and ensuring quality care necessitate human presence and interaction."
+  },
+  {
+    "slug": "registered-nurses",
+    "title": "Registered Nurses",
+    "exposure": 4,
+    "rationale": "Registered Nurses engage in a mix of physical and interpersonal work, requiring direct patient care and human interaction, which limits AI's ability to fully automate their roles. While AI can assist with information processing and some administrative tasks, the core responsibilities of assessing, planning, and providing care necessitate human judgment and empathy."
+  },
+  {
+    "slug": "ict-business-and-systems-analysts",
+    "title": "ICT Business and Systems Analysts",
+    "exposure": 7,
+    "rationale": "ICT Business and Systems Analysts primarily engage in knowledge work that involves analyzing and improving digital systems and processes. As AI technologies advance, many of the analytical and documentation tasks they perform can be augmented or automated, leading to significant productivity gains and potential restructuring of the role."
+  },
+  {
+    "slug": "multimedia-specialists-and-web-developers",
+    "title": "Multimedia Specialists and Web Developers",
+    "exposure": 8,
+    "rationale": "Web Developers and Multimedia Specialists primarily engage in digital tasks that involve coding, design, and multimedia production, all of which are rapidly evolving areas for AI applications. As AI tools continue to advance in automating coding, design, and content generation, the occupation faces significant restructuring, making it highly exposed to AI influence."
+  },
+  {
+    "slug": "software-and-applications-programmers",
+    "title": "Software and Applications Programmers",
+    "exposure": 9,
+    "rationale": "The occupation of Software and Applications Programmers is predominantly digital, involving tasks such as coding, testing, and debugging, which are areas where AI is rapidly advancing. As AI tools improve, they can automate many aspects of programming and testing, leading to significant restructuring in the field and increased productivity for those who leverage AI effectively."
+  },
+  {
+    "slug": "database-and-systems-administrators-and-ict-security-specialists",
+    "title": "Database and Systems Administrators, and ICT Security Specialists",
+    "exposure": 7,
+    "rationale": "This occupation involves a significant amount of knowledge work related to managing and securing digital systems, which are increasingly amenable to AI tools. While human judgment and expertise are still crucial for complex problem-solving and strategic planning, AI can enhance productivity by automating routine tasks such as monitoring, troubleshooting, and data management."
+  },
+  {
+    "slug": "computer-network-professionals",
+    "title": "Computer Network Professionals",
+    "exposure": 7,
+    "rationale": "Computer Network Professionals primarily engage in knowledge work that involves analyzing and optimizing digital systems. As AI continues to advance in areas such as network monitoring, troubleshooting, and system design, these professionals will likely see significant productivity gains, leading to a restructuring of their roles."
+  },
+  {
+    "slug": "ict-support-and-test-engineers",
+    "title": "ICT Support and Test Engineers",
+    "exposure": 7,
+    "rationale": "The role of ICT Support and Test Engineers involves significant knowledge work, including troubleshooting, analyzing, and testing systems, which can be enhanced by AI tools. While human judgment and communication are still essential, the core tasks are predominantly digital and can be automated or augmented by AI, leading to high exposure and potential restructuring in the field."
+  },
+  {
+    "slug": "telecommunications-engineering-professionals",
+    "title": "Telecommunications Engineering Professionals",
+    "exposure": 6,
+    "rationale": "Telecommunications Engineering Professionals engage in a mix of knowledge work and hands-on tasks, such as planning and designing complex networks. While AI can assist in data analysis, system monitoring, and even some design aspects, the need for human judgment, compliance with regulations, and physical presence for site development limits the overall exposure to AI."
+  },
+  {
+    "slug": "barristers",
+    "title": "Barristers",
+    "exposure": 5,
+    "rationale": "Barristers engage in a mix of knowledge work and interpersonal communication, requiring both legal expertise and human judgment in court settings. While AI can assist with legal research and document preparation, the core tasks of arguing cases and interacting with clients and witnesses necessitate human presence and nuanced understanding."
+  },
+  {
+    "slug": "judicial-and-other-legal-professionals",
+    "title": "Judicial and Other Legal Professionals",
+    "exposure": 6,
+    "rationale": "Judicial and other legal professionals engage in a mix of knowledge work and interpersonal tasks, with significant reliance on human judgment and legal expertise. While AI can assist with legal research and document preparation, the core functions of conducting trials, evaluating arguments, and making legal decisions require human presence and nuanced understanding, limiting overall exposure."
+  },
+  {
+    "slug": "solicitors",
+    "title": "Solicitors",
+    "exposure": 6,
+    "rationale": "Solicitors engage in predominantly knowledge work that involves significant human judgment and interpersonal skills, particularly in client interactions and court representation. While AI can assist with legal research, document preparation, and contract analysis, the nuanced nature of legal advice and courtroom advocacy still requires human expertise, limiting full automation."
+  },
+  {
+    "slug": "counsellors",
+    "title": "Counsellors",
+    "exposure": 4,
+    "rationale": "Counsellors primarily engage in interpersonal work that requires human empathy, judgment, and nuanced understanding of individual circumstances. While AI can assist with administrative tasks and provide resources, the core of counselling involves complex human interactions that AI cannot fully replicate."
+  },
+  {
+    "slug": "ministers-of-religion",
+    "title": "Ministers of Religion",
+    "exposure": 2,
+    "rationale": "Ministers of Religion primarily engage in interpersonal and community-based activities that require a physical presence and emotional intelligence, such as conducting services, counseling, and visiting community members. While AI may assist with administrative tasks, the core functions of this occupation are deeply rooted in human interaction and spiritual guidance, limiting AI's impact."
+  },
+  {
+    "slug": "psychologists",
+    "title": "Psychologists",
+    "exposure": 4,
+    "rationale": "Psychologists engage in a mix of knowledge work and interpersonal interaction, requiring human judgment and empathy that AI cannot fully replicate. While AI can assist with data analysis and diagnostic tools, the core of psychological practice involves nuanced human relationships and understanding, which limits the extent of automation."
+  },
+  {
+    "slug": "social-professionals",
+    "title": "Social Professionals",
+    "exposure": 5,
+    "rationale": "Social professionals engage in a mix of knowledge work and interpersonal tasks, requiring human judgment and contextual understanding. While AI can assist with data analysis and research, many core activities, such as interpreting cultural nuances and conducting fieldwork, still necessitate human presence and expertise."
+  },
+  {
+    "slug": "social-workers",
+    "title": "Social Workers",
+    "exposure": 3,
+    "rationale": "Social work involves significant interpersonal interaction and requires a deep understanding of human emotions and social contexts, which AI cannot fully replicate. While AI may assist with administrative tasks or data analysis, the core of social work relies on human empathy, judgment, and real-time engagement with clients."
+  },
+  {
+    "slug": "welfare-recreation-and-community-arts-workers",
+    "title": "Welfare, Recreation and Community Arts Workers",
+    "exposure": 4,
+    "rationale": "Welfare, Recreation and Community Arts Workers engage in a mix of interpersonal support and knowledge work, requiring human judgment and emotional intelligence. While AI can assist with data analysis and report writing, the core of the job involves direct human interaction and support, which limits overall exposure to AI."
+  },
+  {
+    "slug": "agricultural-technicians",
+    "title": "Agricultural Technicians",
+    "exposure": 3,
+    "rationale": "Agricultural Technicians primarily engage in hands-on work that involves physical presence and real-time interaction with the environment, such as examining soil and inspecting livestock. While AI may assist with data analysis and some administrative tasks, the core responsibilities require human judgment and physical interaction, limiting overall exposure to AI."
+  },
+  {
+    "slug": "medical-technicians",
+    "title": "Medical Technicians",
+    "exposure": 4,
+    "rationale": "Medical technicians perform a mix of hands-on tasks and analytical work, often requiring physical presence and interaction with patients and medical equipment. While AI can assist with data analysis and diagnostic processes, the core responsibilities still rely heavily on human skills and judgment in a clinical setting."
+  },
+  {
+    "slug": "primary-products-inspectors",
+    "title": "Primary Products Inspectors",
+    "exposure": 2,
+    "rationale": "The work of Primary Products Inspectors is largely physical and requires real-time human presence in various environments, such as farms and processing facilities. While AI may assist with data analysis and compliance monitoring, the core tasks involve hands-on inspections and interactions that cannot be easily automated."
+  },
+  {
+    "slug": "science-technicians",
+    "title": "Science Technicians",
+    "exposure": 4,
+    "rationale": "Science technicians engage in a mix of hands-on laboratory work and knowledge-based tasks, such as conducting experiments and presenting results. While AI can assist with data analysis and routine calculations, the physical presence required for experiments and equipment maintenance limits the overall exposure to automation."
+  },
+  {
+    "slug": "architectural-building-and-surveying-technicians",
+    "title": "Architectural, Building and Surveying Technicians",
+    "exposure": 4,
+    "rationale": "This occupation involves a mix of knowledge work and physical presence, particularly in the context of construction and surveying. While AI can assist with tasks like data analysis and drafting, many core responsibilities require human judgment, on-site inspections, and compliance checks that are less susceptible to automation."
+  },
+  {
+    "slug": "civil-engineering-draftspersons-and-technicians",
+    "title": "Civil Engineering Draftspersons and Technicians",
+    "exposure": 4,
+    "rationale": "Civil Engineering Draftspersons and Technicians engage in a mix of knowledge work and physical tasks, such as field testing and inspections, which require human presence and judgment. While AI can assist with data analysis and design tasks, the core responsibilities still involve significant hands-on work and real-world interactions that limit overall exposure."
+  },
+  {
+    "slug": "electrical-engineering-draftspersons-and-technicians",
+    "title": "Electrical Engineering Draftspersons and Technicians",
+    "exposure": 4,
+    "rationale": "Electrical Engineering Draftspersons and Technicians engage in a mix of knowledge work and hands-on tasks, such as preparing diagrams and inspecting installations. While AI can assist with data analysis and design tasks, a significant portion of their work requires physical presence and manual skills, limiting overall exposure to AI."
+  },
+  {
+    "slug": "electronic-engineering-draftspersons-and-technicians",
+    "title": "Electronic Engineering Draftspersons and Technicians",
+    "exposure": 5,
+    "rationale": "This occupation involves a mix of knowledge work and hands-on tasks, such as preparing technical drawings and testing electronic equipment. While AI can assist with data analysis and design automation, many tasks still require physical presence and human judgment, limiting overall exposure."
+  },
+  {
+    "slug": "mechanical-engineering-draftspersons-and-technicians",
+    "title": "Mechanical Engineering Draftspersons and Technicians",
+    "exposure": 4,
+    "rationale": "Mechanical Engineering Draftspersons and Technicians engage in a mix of knowledge work and hands-on tasks, such as assembling and installing mechanical systems. While AI can assist with data analysis and design tasks, a significant portion of their work requires physical presence and manual skills, limiting overall exposure."
+  },
+  {
+    "slug": "safety-inspectors",
+    "title": "Safety Inspectors",
+    "exposure": 3,
+    "rationale": "Safety Inspectors primarily engage in physical inspections and assessments in various environments, which require real-time human presence and judgment. While AI may assist with data analysis and compliance tracking, the core tasks of inspecting and ensuring safety standards involve hands-on work that AI cannot fully automate."
+  },
+  {
+    "slug": "other-building-and-engineering-technicians",
+    "title": "Other Building and Engineering Technicians",
+    "exposure": 4,
+    "rationale": "This occupation involves a mix of technical knowledge work and physical presence, particularly in fields like mining and engineering. While AI can assist with data analysis and some design tasks, many responsibilities require hands-on work, human judgment, and real-time interaction with equipment and personnel."
+  },
+  {
+    "slug": "ict-support-technicians",
+    "title": "ICT Support Technicians",
+    "exposure": 6,
+    "rationale": "ICT Support Technicians primarily engage in knowledge work related to software and hardware, which can be significantly enhanced by AI tools. While some tasks require human judgment and physical presence, such as repairing equipment, many core functions like troubleshooting and software installation can be automated or assisted by AI, leading to increased productivity and potential restructuring of the role."
+  },
+  {
+    "slug": "telecommunications-technical-specialists",
+    "title": "Telecommunications Technical Specialists",
+    "exposure": 5,
+    "rationale": "Telecommunications Technical Specialists engage in a mix of hands-on technical work and knowledge-based tasks, such as diagnosing and repairing complex systems. While AI can assist in optimizing network performance and automating some diagnostic processes, the role still requires significant human presence and expertise in physical installations and repairs."
+  },
+  {
+    "slug": "automotive-electricians",
+    "title": "Automotive Electricians",
+    "exposure": 2,
+    "rationale": "Automotive electricians primarily engage in hands-on, physical work that requires technical skills and real-time problem-solving in unpredictable environments. While AI may assist with diagnostics or scheduling, the core tasks of installation and repair necessitate human presence and expertise, limiting overall exposure."
+  },
+  {
+    "slug": "motor-mechanics",
+    "title": "Motor Mechanics",
+    "exposure": 2,
+    "rationale": "Motor mechanics primarily engage in hands-on, physical work that requires real-time human presence and manual skills. While some tasks involve diagnostic tools and computers, the core of the job revolves around repairing and maintaining physical engines, which limits the potential for AI to automate these tasks significantly."
+  },
+  {
+    "slug": "metal-casting-forging-and-finishing-trades-workers",
+    "title": "Metal Casting, Forging and Finishing Trades Workers",
+    "exposure": 2,
+    "rationale": "The work of metal polishers and related trades is predominantly physical and hands-on, requiring manual skills and real-time human presence in a workshop environment. While some tasks may benefit from AI assistance in terms of scheduling or inventory management, the core activities involve intricate physical processes that AI cannot easily automate."
+  },
+  {
+    "slug": "sheetmetal-trades-workers",
+    "title": "Sheetmetal Trades Workers",
+    "exposure": 2,
+    "rationale": "Sheetmetal Trades Workers primarily engage in hands-on, physical tasks that require manual skills and real-time human presence. While AI may assist with design and planning through software, the core activities of shaping, forming, and assembling metal components are not easily automated."
+  },
+  {
+    "slug": "structural-steel-and-welding-trades-workers",
+    "title": "Structural Steel and Welding Trades Workers",
+    "exposure": 2,
+    "rationale": "The work of welders is predominantly physical and requires hands-on skills in a real-world environment. While AI may assist with design and planning tasks, the core activities of welding, which involve manual dexterity and physical presence, are not easily automated."
+  },
+  {
+    "slug": "aircraft-maintenance-engineers",
+    "title": "Aircraft Maintenance Engineers",
+    "exposure": 3,
+    "rationale": "Aircraft Maintenance Engineers perform highly specialized physical tasks that require hands-on skills and real-time human judgment. While AI may assist with data management and diagnostics, the core responsibilities involve intricate mechanical work and inspections that cannot be easily automated."
+  },
+  {
+    "slug": "metal-fitters-and-machinists",
+    "title": "Metal Fitters and Machinists",
+    "exposure": 3,
+    "rationale": "Metal Fitters and Machinists primarily engage in hands-on, physical tasks that require manual skills and real-time human presence. While AI may assist with some aspects of design and diagnostics, the core functions of fitting and assembling metal parts are not easily automated, resulting in low exposure to AI."
+  },
+  {
+    "slug": "precision-metal-trades-workers",
+    "title": "Precision Metal Trades Workers",
+    "exposure": 2,
+    "rationale": "The work of precision metal trades workers, such as watch and clock makers, is highly manual and requires specialized skills that involve physical manipulation of small components. While AI may assist with some administrative tasks, the core activities of assembling, repairing, and calibrating intricate instruments rely heavily on human dexterity and craftsmanship, limiting AI's impact on the occupation."
+  },
+  {
+    "slug": "toolmakers-and-engineering-patternmakers",
+    "title": "Toolmakers and Engineering Patternmakers",
+    "exposure": 2,
+    "rationale": "Toolmakers and engineering patternmakers primarily engage in hands-on, physical work that requires precision and manual skill. While some tasks may benefit from AI assistance in design or measurement, the core activities involve physical manipulation of materials and tools, which limits AI's impact on the occupation."
+  },
+  {
+    "slug": "panelbeaters",
+    "title": "Panelbeaters",
+    "exposure": 1,
+    "rationale": "Panelbeaters perform highly physical and hands-on tasks that require specialized skills and real-time human presence. The nature of the work, which involves repairing and manipulating vehicle bodywork, limits the potential for AI to automate or significantly reshape these tasks."
+  },
+  {
+    "slug": "vehicle-body-builders-and-trimmers",
+    "title": "Vehicle Body Builders and Trimmers",
+    "exposure": 2,
+    "rationale": "The work of vehicle body builders and trimmers is primarily hands-on and involves physical manipulation of materials and components. While AI may assist with design or planning aspects, the core tasks require manual skills and real-time human presence, limiting the potential for automation."
+  },
+  {
+    "slug": "vehicle-painters",
+    "title": "Vehicle Painters",
+    "exposure": 2,
+    "rationale": "Vehicle painting is a highly physical job that requires hands-on skills and real-time human presence to achieve quality results. While AI may assist with color matching or inventory management, the core tasks of surface preparation and painting are manual and cannot be easily automated."
+  },
+  {
+    "slug": "bricklayers-and-stonemasons",
+    "title": "Bricklayers and Stonemasons",
+    "exposure": 2,
+    "rationale": "Bricklayers and stonemasons primarily engage in physical, hands-on work that requires skilled manual labor and real-time human presence. While AI may assist with planning and design aspects, the core tasks of cutting, shaping, and laying materials are not easily automated."
+  },
+  {
+    "slug": "carpenters-and-joiners",
+    "title": "Carpenters and Joiners",
+    "exposure": 2,
+    "rationale": "Carpenters and joiners primarily engage in hands-on, physical work that requires skilled craftsmanship and real-time human presence. While AI may assist with design and planning tasks, the core activities of cutting, shaping, and assembling materials are not easily automated."
+  },
+  {
+    "slug": "floor-finishers",
+    "title": "Floor Finishers",
+    "exposure": 2,
+    "rationale": "Floor Finishers primarily engage in hands-on, physical work that requires manual skills and real-time human presence. While AI may assist with planning or estimating materials, the core tasks of measuring, cutting, and installing floor coverings are not easily automated."
+  },
+  {
+    "slug": "painting-trades-workers",
+    "title": "Painting Trades Workers",
+    "exposure": 2,
+    "rationale": "Painting Trades Workers primarily engage in physical tasks that require hands-on skills and real-time human presence. While AI may assist with scheduling or inventory management, the core activities of painting and surface preparation are not easily automated or digitized."
+  },
+  {
+    "slug": "glaziers",
+    "title": "Glaziers",
+    "exposure": 2,
+    "rationale": "Glaziers primarily engage in hands-on, physical work that requires precise manual skills and real-time human presence. While AI may assist with some aspects like design or measurement, the core tasks of cutting and installing glass are inherently physical and cannot be easily automated."
+  },
+  {
+    "slug": "plasterers",
+    "title": "Plasterers",
+    "exposure": 2,
+    "rationale": "Plastering is a highly physical occupation that requires hands-on skills and real-time human presence on construction sites. While AI may assist with planning or design aspects, the core tasks of applying plaster and working with materials cannot be easily automated."
+  },
+  {
+    "slug": "roof-tilers",
+    "title": "Roof Tilers",
+    "exposure": 1,
+    "rationale": "Roof tiling is a highly physical occupation that requires manual skills and real-time human presence on construction sites. The tasks involved are hands-on and cannot be easily automated by AI, resulting in minimal exposure to AI influence."
+  },
+  {
+    "slug": "wall-and-floor-tilers",
+    "title": "Wall and Floor Tilers",
+    "exposure": 2,
+    "rationale": "Wall and floor tiling is primarily a physical occupation that requires hands-on skills and real-time human presence to perform tasks such as measuring, cutting, and laying tiles. While AI may assist with design and planning aspects, the core work involves manual labor and craftsmanship that cannot be easily automated."
+  },
+  {
+    "slug": "plumbers",
+    "title": "Plumbers",
+    "exposure": 2,
+    "rationale": "Plumbers primarily engage in physical, hands-on work that requires real-time human presence and manual skills. While AI may assist with some planning or scheduling tasks, the core responsibilities of installing and maintaining plumbing systems cannot be easily automated."
+  },
+  {
+    "slug": "electricians",
+    "title": "Electricians",
+    "exposure": 2,
+    "rationale": "Electricians primarily engage in hands-on, physical work that requires real-time human presence and manual skills, such as installing and repairing electrical systems. While AI may assist with some diagnostic tools or scheduling, it does not significantly impact the core tasks of the job, which are fundamentally physical and require human expertise."
+  },
+  {
+    "slug": "airconditioning-and-refrigeration-mechanics",
+    "title": "Airconditioning and Refrigeration Mechanics",
+    "exposure": 2,
+    "rationale": "The work of Airconditioning and Refrigeration Mechanics is predominantly physical and hands-on, requiring real-time human presence to install and repair systems. While AI may assist with scheduling or diagnostics, the core tasks involve manual skills and physical interaction with equipment, limiting AI's impact on the occupation."
+  },
+  {
+    "slug": "electrical-distribution-trades-workers",
+    "title": "Electrical Distribution Trades Workers",
+    "exposure": 2,
+    "rationale": "The work of Electrical Distribution Trades Workers is primarily physical and requires hands-on skills in installing and maintaining electrical systems. While AI may assist with scheduling or diagnostics, the core tasks involve manual labor and real-time problem-solving in unpredictable environments, limiting AI's impact on the occupation."
+  },
+  {
+    "slug": "electronics-trades-workers",
+    "title": "Electronics Trades Workers",
+    "exposure": 3,
+    "rationale": "This occupation involves a significant amount of hands-on work with physical equipment and systems, requiring real-time human presence and technical skills. While AI may assist with diagnostics and some information processing tasks, the core responsibilities of installation, maintenance, and repair are inherently physical and require human expertise."
+  },
+  {
+    "slug": "telecommunications-trades-workers",
+    "title": "Telecommunications Trades Workers",
+    "exposure": 2,
+    "rationale": "Telecommunications Trades Workers primarily engage in physical installation and maintenance tasks that require hands-on skills and real-time human presence. While AI may assist with diagnostics or scheduling, the core functions of this occupation involve physical interactions with equipment and infrastructure, limiting its exposure to AI."
+  },
+  {
+    "slug": "bakers-and-pastrycooks",
+    "title": "Bakers and Pastrycooks",
+    "exposure": 2,
+    "rationale": "Bakers and pastrycooks primarily engage in hands-on, physical work that requires skill and creativity in food preparation. While some tasks may be assisted by machines, the core of the job involves real-time human interaction and craftsmanship, limiting AI's impact on daily work."
+  },
+  {
+    "slug": "butchers-and-smallgoods-makers",
+    "title": "Butchers and Smallgoods Makers",
+    "exposure": 2,
+    "rationale": "The occupation of Butchers and Smallgoods Makers is primarily hands-on and requires physical presence to prepare and process meat. While AI may assist with scheduling or inventory management, the core tasks involve manual skills and real-time customer interaction, limiting the potential for automation."
+  },
+  {
+    "slug": "chefs",
+    "title": "Chefs",
+    "exposure": 2,
+    "rationale": "Chefs primarily engage in hands-on cooking and food preparation, which requires physical presence and manual skills. While AI may assist with tasks like menu planning or inventory management, the core aspects of the job involve creativity and real-time human interaction that AI cannot easily replicate."
+  },
+  {
+    "slug": "cooks",
+    "title": "Cooks",
+    "exposure": 2,
+    "rationale": "Cooks primarily engage in hands-on, physical work that requires real-time human presence and skill in food preparation. While AI may assist with tasks like inventory management or menu planning, the core activities of cooking and food presentation remain largely manual and reliant on human creativity and judgment."
+  },
+  {
+    "slug": "animal-attendants-and-trainers",
+    "title": "Animal Attendants and Trainers",
+    "exposure": 2,
+    "rationale": "The work of Animal Attendants and Trainers is predominantly hands-on and requires physical presence and interaction with animals, which limits AI's ability to automate these tasks. While AI may assist with record-keeping or scheduling, the core responsibilities involve direct human-animal interaction and training that cannot be easily replicated by AI."
+  },
+  {
+    "slug": "shearers",
+    "title": "Shearers",
+    "exposure": 1,
+    "rationale": "The work of shearers is highly physical and requires real-time human presence in unpredictable environments, such as handling live animals. AI has minimal impact on the core tasks of this occupation, which are hands-on and cannot be easily automated."
+  },
+  {
+    "slug": "veterinary-nurses",
+    "title": "Veterinary Nurses",
+    "exposure": 3,
+    "rationale": "Veterinary Nurses primarily engage in hands-on care and physical interaction with animals, which limits AI's ability to automate core tasks. While AI may assist with administrative duties and some diagnostic processes, the essential work requires human presence and empathy, resulting in low overall exposure."
+  },
+  {
+    "slug": "florists",
+    "title": "Florists",
+    "exposure": 2,
+    "rationale": "Florists primarily engage in hands-on, creative work that requires physical presence and artistic skills. While AI may assist with inventory management or customer service tasks, the core activities of designing and arranging floral displays are inherently manual and require human judgment and creativity."
+  },
+  {
+    "slug": "gardeners",
+    "title": "Gardeners",
+    "exposure": 2,
+    "rationale": "Gardeners primarily engage in physical, hands-on work that requires real-time human presence and interaction with the environment. While AI may assist with planning or design aspects, the core tasks of planting, maintaining, and constructing landscapes are inherently physical and cannot be easily automated."
+  },
+  {
+    "slug": "greenkeepers",
+    "title": "Greenkeepers",
+    "exposure": 2,
+    "rationale": "Greenkeepers primarily engage in physical, hands-on work that requires real-time human presence and interaction with the environment. While AI may assist with scheduling or maintenance tracking, the core tasks of establishing and maintaining turf and sports surfaces are not easily automated."
+  },
+  {
+    "slug": "nurserypersons",
+    "title": "Nurserypersons",
+    "exposure": 2,
+    "rationale": "Nurserypersons primarily engage in physical, hands-on work that involves cultivating plants and interacting with customers. While some tasks, like record-keeping, could be assisted by AI, the core responsibilities require physical presence and manual skills, limiting overall AI exposure."
+  },
+  {
+    "slug": "hairdressers",
+    "title": "Hairdressers",
+    "exposure": 1,
+    "rationale": "Hairdressers perform predominantly hands-on, physical tasks that require real-time human interaction and creativity. While AI may assist with scheduling or product recommendations, the core activities of cutting and styling hair cannot be automated."
+  },
+  {
+    "slug": "print-finishers-and-screen-printers",
+    "title": "Print Finishers and Screen Printers",
+    "exposure": 3,
+    "rationale": "The occupation of Print Finishers and Screen Printers involves a significant amount of physical and manual tasks, such as operating machinery and handling printed materials. While some aspects can be assisted by AI, such as optimizing processes or managing schedules, the core work requires human presence and manual skills, limiting overall AI exposure."
+  },
+  {
+    "slug": "graphic-pre-press-trades-workers",
+    "title": "Graphic Pre-press Trades Workers",
+    "exposure": 7,
+    "rationale": "Graphic Pre-Press Trades Workers primarily engage in knowledge work that involves digital manipulation and design, making them susceptible to AI advancements. While some tasks still require human judgment and creativity, the increasing capabilities of AI in graphic design and image processing suggest a significant restructuring of this occupation in the near future."
+  },
+  {
+    "slug": "printers",
+    "title": "Printers",
+    "exposure": 3,
+    "rationale": "The occupation of small offset printers involves significant manual and physical tasks related to operating and maintaining printing machines, which limits AI's ability to automate core functions. While there are some digital aspects, such as managing digital print images, the job still heavily relies on human presence and manual skills, resulting in low overall AI exposure."
+  },
+  {
+    "slug": "canvas-and-leather-goods-makers",
+    "title": "Canvas and Leather Goods Makers",
+    "exposure": 2,
+    "rationale": "The occupation of canvas and leather goods makers involves significant hands-on, physical work that requires craftsmanship and manual skills. While some tasks may benefit from computerized methods, the core activities are not easily automated by AI, resulting in low overall exposure."
+  },
+  {
+    "slug": "clothing-trades-workers",
+    "title": "Clothing Trades Workers",
+    "exposure": 2,
+    "rationale": "Clothing trades work involves a significant amount of hands-on, physical tasks such as sewing, fitting, and altering garments, which require real-time human interaction and craftsmanship. While AI may assist with design or pattern-making, the core tasks are not easily automated and rely heavily on manual skills and customer engagement."
+  },
+  {
+    "slug": "upholsterers",
+    "title": "Upholsterers",
+    "exposure": 2,
+    "rationale": "Upholsterers primarily engage in hands-on, physical work that requires manual skills and craftsmanship. While AI may assist with design or material selection, the core tasks of making and repairing furniture involve physical presence and craftsmanship that AI cannot easily replicate."
+  },
+  {
+    "slug": "cabinetmakers",
+    "title": "Cabinetmakers",
+    "exposure": 1,
+    "rationale": "Cabinetmaking is a highly physical occupation that requires hands-on skills and craftsmanship in working with wood. The tasks involved are primarily manual and cannot be easily automated by AI, as they require real-time human presence and intricate physical manipulation."
+  },
+  {
+    "slug": "wood-machinists-and-other-wood-trades-workers",
+    "title": "Wood Machinists and Other Wood Trades Workers",
+    "exposure": 2,
+    "rationale": "The work of wood machinists and other wood trades workers is predominantly physical and hands-on, requiring skilled manual labor and real-time human presence. While AI may assist with design and planning aspects, the core tasks of operating machinery and finishing wood products are not easily automated."
+  },
+  {
+    "slug": "boat-builders-and-shipwrights",
+    "title": "Boat Builders and Shipwrights",
+    "exposure": 2,
+    "rationale": "Boat builders and shipwrights primarily engage in hands-on, physical work that requires skilled craftsmanship and real-time human presence. While AI may assist with design and planning aspects, the core tasks involve manual labor and the use of specialized materials, limiting the potential for automation."
+  },
+  {
+    "slug": "chemical-gas-petroleum-and-power-generation-plant-operators",
+    "title": "Chemical, Gas, Petroleum and Power Generation Plant Operators",
+    "exposure": 4,
+    "rationale": "This occupation involves a mix of physical tasks and knowledge work, particularly in monitoring and controlling complex machinery. While AI can assist with data analysis and monitoring, the need for human presence and judgment in operating and maintaining equipment limits the overall exposure to AI."
+  },
+  {
+    "slug": "gallery-library-and-museum-technicians",
+    "title": "Gallery, Library and Museum Technicians",
+    "exposure": 4,
+    "rationale": "The role of Gallery, Library and Museum Technicians involves a mix of physical tasks, such as setting up displays and handling exhibits, along with knowledge work like cataloguing and data entry. While AI can assist with data management and cataloguing, the physical presence and manual skills required for display preparation and exhibit setup limit the overall exposure to AI."
+  },
+  {
+    "slug": "jewellers",
+    "title": "Jewellers",
+    "exposure": 2,
+    "rationale": "Jewellers primarily engage in hands-on, physical work that requires specialized skills and craftsmanship. While AI may assist with design or appraisal tasks, the core activities of making and repairing jewellery involve intricate manual processes that are not easily automated."
+  },
+  {
+    "slug": "performing-arts-technicians",
+    "title": "Performing Arts Technicians",
+    "exposure": 4,
+    "rationale": "Performing Arts Technicians engage in a mix of physical tasks and technical knowledge work, such as operating and maintaining equipment for performances. While some aspects of their work could be assisted by AI, particularly in equipment monitoring and sound mixing, the job still heavily relies on human presence, creativity, and hands-on skills in dynamic environments."
+  },
+  {
+    "slug": "signwriters",
+    "title": "Signwriters",
+    "exposure": 3,
+    "rationale": "Signwriting involves a significant amount of physical craftsmanship and artistic skill, particularly in the painting and installation of signs. While some design tasks can be assisted by AI, the core of the job requires hands-on work and real-time human presence, limiting AI's impact on the occupation."
+  },
+  {
+    "slug": "other-miscellaneous-technicians-and-trades-workers",
+    "title": "Other Miscellaneous Technicians and Trades Workers",
+    "exposure": 4,
+    "rationale": "This occupation involves a mix of physical tasks and specialized knowledge work, with many roles requiring hands-on skills and real-time human interaction. While AI may assist with certain information-processing tasks, the core functions of many jobs in this category still rely heavily on manual skills and physical presence, limiting overall AI exposure."
+  },
+  {
+    "slug": "ambulance-officers-and-paramedics",
+    "title": "Ambulance Officers and Paramedics",
+    "exposure": 2,
+    "rationale": "Ambulance officers and paramedics primarily engage in physical, hands-on work that requires real-time human presence and interaction in unpredictable environments. While AI may assist with administrative tasks or data management, the core responsibilities of assessing patients, providing emergency care, and transporting individuals cannot be automated."
+  },
+  {
+    "slug": "dental-hygienists-technicians-and-therapists",
+    "title": "Dental Hygienists, Technicians and Therapists",
+    "exposure": 2,
+    "rationale": "Dental hygienists and technicians perform a variety of hands-on tasks that require physical presence and manual skills, such as cleaning teeth, applying treatments, and fabricating dental appliances. While AI may assist with administrative tasks or diagnostics, the core functions of this occupation are fundamentally physical and interpersonal, limiting overall exposure to automation."
+  },
+  {
+    "slug": "diversional-therapists",
+    "title": "Diversional Therapists",
+    "exposure": 3,
+    "rationale": "Diversional Therapists primarily engage in interpersonal work that requires real-time human interaction and a deep understanding of individual client needs. While AI could assist with administrative tasks or resource management, the core of their work\u2014planning and adapting activities based on personal interactions\u2014remains largely human-driven."
+  },
+  {
+    "slug": "enrolled-and-mothercraft-nurses",
+    "title": "Enrolled and Mothercraft Nurses",
+    "exposure": 2,
+    "rationale": "The role of Enrolled and Mothercraft Nurses involves significant physical presence and hands-on care for newborns, which AI cannot replicate. While AI may assist with administrative tasks or health education, the core responsibilities require human interaction and emotional support that are not easily automated."
+  },
+  {
+    "slug": "indigenous-health-workers",
+    "title": "Indigenous Health Workers",
+    "exposure": 4,
+    "rationale": "Indigenous Health Workers engage in a mix of interpersonal and knowledge work, requiring human presence and cultural understanding. While AI can assist with maintaining health records and statistics, the core tasks involve direct community interaction, advocacy, and education, which are less susceptible to automation."
+  },
+  {
+    "slug": "massage-therapists",
+    "title": "Massage Therapists",
+    "exposure": 1,
+    "rationale": "Massage therapy is a highly physical occupation that requires direct human interaction and hands-on skills. The core tasks involve personal touch and assessment of individual client needs, which AI cannot replicate effectively."
+  },
+  {
+    "slug": "welfare-support-workers",
+    "title": "Welfare Support Workers",
+    "exposure": 3,
+    "rationale": "Welfare Support Workers primarily engage in interpersonal work that involves direct human interaction, assessment, and support for clients facing social and emotional challenges. While AI may assist with administrative tasks or data management, the core responsibilities require empathy, judgment, and personal connection, which are difficult for AI to replicate."
+  },
+  {
+    "slug": "child-carers",
+    "title": "Child Carers",
+    "exposure": 2,
+    "rationale": "Child carers primarily engage in physical and interpersonal tasks that require real-time human interaction and presence. While AI may assist with administrative tasks, the core responsibilities of managing children's behavior and guiding their social development cannot be easily automated."
+  },
+  {
+    "slug": "education-aides",
+    "title": "Education Aides",
+    "exposure": 3,
+    "rationale": "Education Aides primarily engage in physical and interpersonal tasks that require real-time human interaction, such as assisting children with learning and social skills. While AI may assist with administrative tasks like preparing teaching materials, the core responsibilities of this role are centered around human presence and emotional support, limiting overall AI exposure."
+  },
+  {
+    "slug": "aged-and-disabled-carers",
+    "title": "Aged and Disabled Carers",
+    "exposure": 2,
+    "rationale": "The role of Aged and Disabled Carers is primarily physical and interpersonal, requiring real-time human interaction and emotional support that AI cannot replicate. While AI may assist with scheduling or administrative tasks, the core responsibilities involve direct care and companionship, which are less likely to be automated."
+  },
+  {
+    "slug": "dental-assistants",
+    "title": "Dental Assistants",
+    "exposure": 3,
+    "rationale": "Dental Assistants primarily engage in physical and interpersonal tasks that require real-time human presence, such as preparing patients and assisting during procedures. While AI may assist with administrative tasks like scheduling and billing, the core responsibilities of the role are hands-on and cannot be easily automated."
+  },
+  {
+    "slug": "nursing-support-and-personal-care-workers",
+    "title": "Nursing Support and Personal Care Workers",
+    "exposure": 2,
+    "rationale": "Nursing Support and Personal Care Workers primarily engage in physical and interpersonal tasks that require direct human interaction and presence. While AI may assist with administrative tasks or data management, the core responsibilities involve personal care and support that cannot be easily automated."
+  },
+  {
+    "slug": "special-care-workers",
+    "title": "Special Care Workers",
+    "exposure": 2,
+    "rationale": "Special care workers primarily engage in physical and interpersonal tasks that require real-time human presence and emotional support. While AI may assist with administrative tasks, the core responsibilities involve direct interaction and care that cannot be easily automated."
+  },
+  {
+    "slug": "bar-attendants-and-baristas",
+    "title": "Bar Attendants and Baristas",
+    "exposure": 2,
+    "rationale": "The role of bar attendants and baristas is primarily physical and interpersonal, involving hands-on preparation and service of beverages. While AI may assist with tasks like inventory management or scheduling, the core job requires human presence and interaction, limiting its exposure to automation."
+  },
+  {
+    "slug": "cafe-workers",
+    "title": "Cafe Workers",
+    "exposure": 2,
+    "rationale": "Cafe workers primarily engage in physical tasks that require real-time human interaction and presence, such as serving food and beverages. While AI may assist with scheduling or inventory management, it does not significantly impact the core responsibilities of the job."
+  },
+  {
+    "slug": "gaming-workers",
+    "title": "Gaming Workers",
+    "exposure": 2,
+    "rationale": "Gaming Workers primarily engage in physical and interpersonal tasks that require real-time human presence and judgment, such as dealing games and resolving disputes. While AI may assist with some peripheral tasks like monitoring transactions, the core responsibilities of this occupation are not easily automated."
+  },
+  {
+    "slug": "hotel-service-managers",
+    "title": "Hotel Service Managers",
+    "exposure": 3,
+    "rationale": "Hotel Service Managers primarily engage in interpersonal work and physical coordination, which requires real-time human presence and interaction. While AI may assist with scheduling and record-keeping, the core responsibilities of managing staff and resolving grievances are inherently human-centric and less susceptible to automation."
+  },
+  {
+    "slug": "waiters",
+    "title": "Waiters",
+    "exposure": 2,
+    "rationale": "The occupation of waiters involves significant physical presence and interpersonal interaction, which are not easily replicable by AI. While AI may assist with tasks like order taking or payment processing, the core responsibilities of serving food and engaging with customers require human skills and judgment."
+  },
+  {
+    "slug": "other-hospitality-workers",
+    "title": "Other Hospitality Workers",
+    "exposure": 2,
+    "rationale": "The tasks performed by other hospitality workers are predominantly physical and require real-time human interaction, such as greeting customers and assisting with baggage. While AI may assist with scheduling or information distribution, the core responsibilities are hands-on and cannot be easily automated."
+  },
+  {
+    "slug": "defence-force-members-other-ranks",
+    "title": "Defence Force Members - Other Ranks",
+    "exposure": 1,
+    "rationale": "The tasks performed by Defence Force Members - Other Ranks are predominantly physical and require real-time human presence in unpredictable environments. AI has minimal impact on their core responsibilities, which involve specialized military operations and hands-on activities."
+  },
+  {
+    "slug": "fire-and-emergency-workers",
+    "title": "Fire and Emergency Workers",
+    "exposure": 1,
+    "rationale": "Fire and emergency workers engage in highly physical and hands-on tasks that require real-time human presence in unpredictable environments. While AI may assist with some administrative tasks, the core responsibilities of rescuing individuals and controlling fires cannot be automated."
+  },
+  {
+    "slug": "police",
+    "title": "Police",
+    "exposure": 4,
+    "rationale": "Police work involves a significant amount of physical presence, interpersonal interaction, and real-time decision-making in unpredictable environments. While AI can assist with data analysis and record-keeping, the core tasks of investigating crimes, patrolling, and engaging with the community require human judgment and presence."
+  },
+  {
+    "slug": "prison-officers",
+    "title": "Prison Officers",
+    "exposure": 2,
+    "rationale": "Prison Officers engage in predominantly physical and interpersonal work, requiring real-time human presence and judgment in unpredictable environments. While AI may assist with administrative tasks, the core responsibilities of supervising and interacting with inmates cannot be easily automated."
+  },
+  {
+    "slug": "security-officers-and-guards",
+    "title": "Security Officers and Guards",
+    "exposure": 2,
+    "rationale": "The role of security officers and guards primarily involves physical presence, monitoring, and interpersonal interactions, which are difficult to automate. While AI may assist with certain tasks like monitoring alarms or analyzing data, the core responsibilities require human judgment and real-time decision-making in unpredictable environments."
+  },
+  {
+    "slug": "beauty-therapists",
+    "title": "Beauty Therapists",
+    "exposure": 2,
+    "rationale": "Beauty Therapists primarily engage in hands-on, physical work that requires real-time human interaction and personal touch, such as performing massages and applying make-up. While AI may assist with scheduling and client record management, it does not significantly impact the core tasks of the occupation."
+  },
+  {
+    "slug": "driving-instructors",
+    "title": "Driving Instructors",
+    "exposure": 2,
+    "rationale": "Driving instructors primarily engage in physical, hands-on training that requires real-time human interaction and presence in unpredictable environments. While AI may assist with scheduling or providing theoretical knowledge, the core tasks of instructing and assessing driving skills cannot be easily automated."
+  },
+  {
+    "slug": "funeral-workers",
+    "title": "Funeral Workers",
+    "exposure": 2,
+    "rationale": "Funeral workers engage in predominantly physical and interpersonal tasks that require human presence and empathy, such as preparing bodies and coordinating funeral services. While some administrative tasks may benefit from AI assistance, the core responsibilities are deeply rooted in human interaction and physical presence, limiting AI's impact on the occupation."
+  },
+  {
+    "slug": "gallery-museum-and-tour-guides",
+    "title": "Gallery, Museum and Tour Guides",
+    "exposure": 3,
+    "rationale": "The role of gallery, museum, and tour guides involves significant interpersonal interaction and physical presence, as they engage directly with visitors and manage on-site experiences. While AI could assist with scheduling and information dissemination, the core tasks of guiding and providing personalized commentary rely heavily on human presence and judgment."
+  },
+  {
+    "slug": "personal-care-consultants",
+    "title": "Personal Care Consultants",
+    "exposure": 2,
+    "rationale": "Personal Care Consultants primarily engage in interpersonal work that requires direct human interaction and physical presence. While AI may assist with administrative tasks or provide information, the core of the job involves personalized care and emotional support that AI cannot replicate effectively."
+  },
+  {
+    "slug": "tourism-and-travel-advisers",
+    "title": "Tourism and Travel Advisers",
+    "exposure": 5,
+    "rationale": "Tourism and Travel Advisers engage in a mix of knowledge work and interpersonal interaction, with many tasks that could be assisted by AI, such as itinerary planning and booking. However, the need for human judgment, personal touch, and real-time interaction with clients limits the extent to which AI can fully automate this occupation."
+  },
+  {
+    "slug": "travel-attendants",
+    "title": "Travel Attendants",
+    "exposure": 2,
+    "rationale": "Travel attendants primarily engage in physical and interpersonal tasks that require real-time human presence, such as managing safety procedures and assisting passengers. While AI may assist with scheduling or documentation, the core responsibilities involve direct interaction with passengers and handling emergencies, which AI cannot fully replicate."
+  },
+  {
+    "slug": "other-personal-service-workers",
+    "title": "Other Personal Service Workers",
+    "exposure": 2,
+    "rationale": "The tasks performed by Other Personal Service Workers are largely physical and interpersonal, requiring direct human interaction and presence. While AI may assist with scheduling or record-keeping, the core activities, such as conducting ceremonies or providing beauty treatments, are not easily automated."
+  },
+  {
+    "slug": "fitness-instructors",
+    "title": "Fitness Instructors",
+    "exposure": 2,
+    "rationale": "Fitness instructors primarily engage in physical, hands-on work that requires real-time human interaction and personalized guidance. While AI may assist with scheduling or program design, the core tasks of demonstrating exercises and ensuring client safety necessitate a human presence and cannot be easily automated."
+  },
+  {
+    "slug": "outdoor-adventure-guides",
+    "title": "Outdoor Adventure Guides",
+    "exposure": 2,
+    "rationale": "Outdoor Adventure Guides primarily engage in physical activities and require real-time human interaction to ensure safety and provide instruction. While some administrative tasks may be assisted by AI, the core responsibilities of guiding and supervising outdoor adventures cannot be easily automated."
+  },
+  {
+    "slug": "sports-coaches-instructors-and-officials",
+    "title": "Sports Coaches, Instructors and Officials",
+    "exposure": 3,
+    "rationale": "Sports coaches and officials primarily engage in interpersonal work that requires real-time human presence and interaction, making them less susceptible to AI automation. While AI may assist with performance analysis or strategy planning, the core aspects of coaching, motivating, and officiating depend heavily on human judgment and personal relationships."
+  },
+  {
+    "slug": "sportspersons",
+    "title": "Sportspersons",
+    "exposure": 1,
+    "rationale": "Sportspersons engage in highly physical and specialized activities that require real-time human presence and performance. While AI may assist in training analytics or strategy development, the core of their work\u2014competing in sports and maintaining physical fitness\u2014remains fundamentally human and cannot be automated."
+  },
+  {
+    "slug": "contract-program-and-project-administrators",
+    "title": "Contract, Program and Project Administrators",
+    "exposure": 5,
+    "rationale": "This occupation involves a mix of administrative tasks and interpersonal interactions, which are partially digital but still require significant human judgment and presence. While AI can assist with data analysis and paperwork management, many core tasks, such as negotiation and problem resolution, still rely heavily on human skills and relationships."
+  },
+  {
+    "slug": "office-managers",
+    "title": "Office Managers",
+    "exposure": 4,
+    "rationale": "Office Managers engage in a mix of knowledge work and interpersonal tasks, with significant responsibilities that require human judgment and interaction. While AI can assist with administrative tasks and data management, the role still heavily relies on human presence and decision-making, particularly in managing personnel and ensuring compliance with regulations."
+  },
+  {
+    "slug": "practice-managers",
+    "title": "Practice Managers",
+    "exposure": 4,
+    "rationale": "Practice Managers engage in a mix of knowledge work and interpersonal tasks, including managing staff and ensuring compliance with regulations. While AI can assist with administrative tasks and data management, the role still requires significant human judgment and interaction, limiting its overall exposure to AI."
+  },
+  {
+    "slug": "personal-assistants",
+    "title": "Personal Assistants",
+    "exposure": 5,
+    "rationale": "Personal Assistants engage in a mix of administrative tasks that involve both interpersonal communication and knowledge work. While AI can assist with scheduling, document preparation, and information management, many tasks still require human judgment and interaction, keeping the overall exposure to a moderate level."
+  },
+  {
+    "slug": "secretaries",
+    "title": "Secretaries",
+    "exposure": 5,
+    "rationale": "Legal secretaries perform a mix of administrative tasks that involve both knowledge work and interpersonal interactions. While many of their tasks, such as document preparation and scheduling, can be assisted by AI, the role still requires significant human presence and judgment, particularly in liaising with clients and legal professionals."
+  },
+  {
+    "slug": "general-clerks",
+    "title": "General Clerks",
+    "exposure": 6,
+    "rationale": "General clerks primarily engage in clerical and administrative tasks that can be significantly enhanced by AI technologies, such as data entry, sorting, and information management. While some tasks require human interaction and judgment, many core functions are routine and digital in nature, making this occupation susceptible to automation and productivity improvements through AI."
+  },
+  {
+    "slug": "keyboard-operators",
+    "title": "Keyboard Operators",
+    "exposure": 8,
+    "rationale": "The work of keyboard operators is predominantly digital, involving typing, editing, and transcribing documents, which are tasks that AI can increasingly automate. As AI technologies advance, many of the core functions of this occupation, such as transcription and data entry, are likely to be significantly reshaped, leading to a high level of exposure."
+  },
+  {
+    "slug": "call-or-contact-centre-workers",
+    "title": "Call or Contact Centre Workers",
+    "exposure": 6,
+    "rationale": "Call and contact centre work involves a significant amount of digital communication and information processing, making it susceptible to AI automation. While human interaction is essential for complex inquiries and relationship management, AI tools can enhance productivity and efficiency in handling routine tasks and customer interactions."
+  },
+  {
+    "slug": "information-officers",
+    "title": "Information Officers",
+    "exposure": 4,
+    "rationale": "Information Officers primarily engage in interpersonal communication and customer service, which requires human presence and judgment. While AI can assist with information retrieval and basic inquiries, the role still relies heavily on human interaction and problem-solving, limiting its overall exposure to automation."
+  },
+  {
+    "slug": "receptionists",
+    "title": "Receptionists",
+    "exposure": 4,
+    "rationale": "Medical receptionists perform a mix of interpersonal and clerical tasks, requiring human presence for greeting patients and resolving complaints. While AI can assist with scheduling and information processing, the role still heavily relies on personal interaction and the ability to handle complex human emotions and situations."
+  },
+  {
+    "slug": "accounting-clerks",
+    "title": "Accounting Clerks",
+    "exposure": 6,
+    "rationale": "Accounting clerks primarily engage in knowledge work involving data processing and analysis, which can be significantly enhanced by AI tools. While some tasks require human judgment and oversight, many core functions like invoice reconciliation and cost calculations can be automated, leading to increased productivity and potential job restructuring."
+  },
+  {
+    "slug": "bookkeepers",
+    "title": "Bookkeepers",
+    "exposure": 6,
+    "rationale": "Bookkeepers primarily engage in knowledge work that involves managing financial records and using accounting software, which is increasingly being enhanced by AI tools. While some tasks require human judgment and oversight, the core functions of bookkeeping can be significantly automated, leading to higher productivity and potential restructuring of the occupation."
+  },
+  {
+    "slug": "payroll-clerks",
+    "title": "Payroll Clerks",
+    "exposure": 4,
+    "rationale": "Payroll clerks perform a mix of administrative and knowledge work, with significant reliance on data processing and record-keeping. While AI can assist with automating some tasks like data entry and payroll calculations, the role still requires human oversight, interpretation of complex regulations, and communication with employees, which limits its exposure to AI."
+  },
+  {
+    "slug": "bank-workers",
+    "title": "Bank Workers",
+    "exposure": 4,
+    "rationale": "Bank workers engage in a mix of interpersonal tasks and knowledge work, such as customer service and transaction processing. While AI can assist with some aspects like transaction verification and record-keeping, the role still heavily relies on human interaction and judgment, particularly in understanding customer needs and providing tailored financial advice."
+  },
+  {
+    "slug": "credit-and-loans-officers-aus-finance-clerks-nz",
+    "title": "Credit and Loans Officers (Aus) \\ Finance Clerks (NZ)",
+    "exposure": 5,
+    "rationale": "Credit and Loans Officers primarily engage in knowledge work that involves analyzing data and making decisions based on established policies. While AI can assist with data analysis and processing applications, the role still requires human judgment and interpersonal communication, particularly in customer interactions and decision-making."
+  },
+  {
+    "slug": "insurance-money-market-and-statistical-clerks",
+    "title": "Insurance, Money Market and Statistical Clerks",
+    "exposure": 6,
+    "rationale": "The occupation involves a significant amount of data processing and statistical analysis, which can be enhanced by AI tools. While some tasks require human judgment and interaction, especially in the context of betting and risk assessment, the core functions are heavily reliant on digital processes that AI can automate or assist with."
+  },
+  {
+    "slug": "betting-clerks",
+    "title": "Betting Clerks",
+    "exposure": 5,
+    "rationale": "Betting clerks perform a mix of electronic record-keeping and customer interaction tasks, which can be partially automated by AI. While many tasks involve digital processes, the role still requires human presence for customer service and verification, limiting full automation potential."
+  },
+  {
+    "slug": "couriers-and-postal-deliverers",
+    "title": "Couriers and Postal Deliverers",
+    "exposure": 2,
+    "rationale": "The work of couriers and postal deliverers is predominantly physical and requires real-time human presence for delivery tasks. While AI may assist with logistics and sorting processes, the core job of delivering items to customers' premises relies heavily on human interaction and physical presence."
+  },
+  {
+    "slug": "filing-and-registry-clerks",
+    "title": "Filing and Registry Clerks",
+    "exposure": 4,
+    "rationale": "Filing and Registry Clerks primarily engage in information processing tasks that can be assisted by AI, such as sorting and classifying documents. However, the role still requires human oversight and interaction, particularly in maintaining the integrity of records and responding to user inquiries, which limits its overall exposure to AI."
+  },
+  {
+    "slug": "mail-sorters",
+    "title": "Mail Sorters",
+    "exposure": 4,
+    "rationale": "Mail sorting involves a mix of manual and automated tasks, with significant reliance on physical presence and manual sorting duties. While AI can assist with some aspects of mail processing and sorting, the job still requires human oversight and interaction, particularly in handling complaints and verifying special articles."
+  },
+  {
+    "slug": "survey-interviewers",
+    "title": "Survey Interviewers",
+    "exposure": 4,
+    "rationale": "Survey Interviewers primarily engage in interpersonal work that requires direct human interaction, especially when conducting face-to-face interviews. While AI can assist with data collection and analysis, the core task of interviewing and engaging with respondents still necessitates human presence and judgment."
+  },
+  {
+    "slug": "switchboard-operators",
+    "title": "Switchboard Operators",
+    "exposure": 2,
+    "rationale": "The role of Switchboard Operators primarily involves physical interaction with telecommunication equipment and real-time human communication. While AI may assist with some administrative tasks, the core responsibilities require human presence and judgment, limiting the overall exposure to automation."
+  },
+  {
+    "slug": "other-clerical-and-office-support-workers",
+    "title": "Other Clerical and Office Support Workers",
+    "exposure": 4,
+    "rationale": "This occupation involves a mix of clerical tasks and physical presence, such as patrolling areas and handling customer interactions. While AI can assist with data entry, database updates, and some customer queries, many tasks still require human judgment and physical presence, limiting overall exposure."
+  },
+  {
+    "slug": "purchasing-and-supply-logistics-clerks",
+    "title": "Purchasing and Supply Logistics Clerks",
+    "exposure": 4,
+    "rationale": "The role of Purchasing and Supply Logistics Clerks involves a mix of administrative tasks and physical inventory management. While AI can assist with data processing and inventory tracking, many tasks still require human oversight and interaction with suppliers and logistics, limiting the overall exposure to AI."
+  },
+  {
+    "slug": "transport-and-despatch-clerks",
+    "title": "Transport and Despatch Clerks",
+    "exposure": 4,
+    "rationale": "Transport and Despatch Clerks perform a mix of administrative and logistical tasks that involve both knowledge work and physical processes. While AI can assist with documentation and data management, many tasks still require human judgment, interpersonal communication, and real-time decision-making, particularly in dealing with customs and customer inquiries."
+  },
+  {
+    "slug": "conveyancers-and-legal-executives",
+    "title": "Conveyancers and Legal Executives",
+    "exposure": 6,
+    "rationale": "The role of Conveyancers and Legal Executives involves significant knowledge work, including preparing and analyzing legal documents and advising clients. While many tasks can be assisted by AI, such as document preparation and research, the need for human judgment, client interaction, and negotiation keeps the exposure to AI at a high but not maximum level."
+  },
+  {
+    "slug": "court-and-legal-clerks",
+    "title": "Court and Legal Clerks",
+    "exposure": 4,
+    "rationale": "Court and legal clerks perform a mix of administrative tasks that involve documentation and organization, which can be assisted by AI. However, many tasks require human presence and judgment, particularly in court settings and interactions with legal professionals, limiting the overall exposure to AI."
+  },
+  {
+    "slug": "debt-collectors",
+    "title": "Debt Collectors",
+    "exposure": 4,
+    "rationale": "Debt collectors engage in a mix of interpersonal communication and administrative tasks, which limits their exposure to AI. While AI can assist with data processing and tracking overdue accounts, the role heavily relies on human judgment, negotiation skills, and personal interaction with debtors, which are less susceptible to automation."
+  },
+  {
+    "slug": "human-resource-clerks",
+    "title": "Human Resource Clerks",
+    "exposure": 5,
+    "rationale": "Human Resource Clerks engage in a mix of administrative tasks that involve both digital record-keeping and interpersonal communication. While AI can assist with data processing and record management, many aspects of the job, such as handling inquiries and advising applicants, still require human interaction and judgment."
+  },
+  {
+    "slug": "inspectors-and-regulatory-officers",
+    "title": "Inspectors and Regulatory Officers",
+    "exposure": 4,
+    "rationale": "Inspectors and Regulatory Officers perform a mix of physical inspections and knowledge-based assessments, which require human judgment and presence. While AI can assist with data analysis and documentation, many core tasks involve real-world interactions and evaluations that are not easily automated."
+  },
+  {
+    "slug": "insurance-investigators-loss-adjusters-and-risk-surveyors",
+    "title": "Insurance Investigators, Loss Adjusters and Risk Surveyors",
+    "exposure": 4,
+    "rationale": "This occupation involves a mix of physical inspections and interpersonal interactions, which limits the potential for full automation by AI. While AI can assist with data analysis and report generation, the core tasks require human judgment and presence at various sites to assess conditions and interact with claimants."
+  },
+  {
+    "slug": "library-assistants",
+    "title": "Library Assistants",
+    "exposure": 3,
+    "rationale": "Library Assistants primarily engage in physical tasks such as shelving books and assisting patrons, which require a human presence. While AI can assist with record-keeping and cataloging, the core functions of this role involve interpersonal interactions and manual handling of library materials, limiting overall exposure to AI."
+  },
+  {
+    "slug": "other-miscellaneous-clerical-and-administrative-workers",
+    "title": "Other Miscellaneous Clerical and Administrative Workers",
+    "exposure": 6,
+    "rationale": "This occupation involves a mix of clerical tasks that are predominantly knowledge-based, such as proofreading, report generation, and administrative support. While many tasks can be assisted by AI, particularly in data processing and content review, the role still requires human judgment and interpersonal skills, which limits full automation."
+  },
+  {
+    "slug": "auctioneers-and-stock-and-station-agents",
+    "title": "Auctioneers, and Stock and Station Agents",
+    "exposure": 3,
+    "rationale": "The role of Auctioneers and Stock and Station Agents involves significant interpersonal interaction and physical presence, particularly in the auction process and client consultations. While AI may assist with tasks like advertising and data analysis, the core functions of negotiating and closing sales require human judgment and relationship-building, limiting overall AI exposure."
+  },
+  {
+    "slug": "insurance-agents",
+    "title": "Insurance Agents",
+    "exposure": 4,
+    "rationale": "Insurance agents engage in a mix of interpersonal communication and knowledge work, requiring human judgment to assess client needs and explain complex insurance products. While AI can assist with data analysis and client management tasks, the core of the job relies on building relationships and understanding nuanced client situations, which limits full automation."
+  },
+  {
+    "slug": "sales-representatives",
+    "title": "Sales Representatives",
+    "exposure": 5,
+    "rationale": "Sales representatives engage in a mix of interpersonal interactions and knowledge work, requiring both physical presence and relationship-building with clients. While AI can assist with data analysis, customer relationship management, and even some aspects of sales reporting, the core of the job still relies heavily on human interaction and understanding of client needs, which limits full automation."
+  },
+  {
+    "slug": "real-estate-sales-agents",
+    "title": "Real Estate Sales Agents",
+    "exposure": 5,
+    "rationale": "Real Estate Sales Agents engage in a mix of interpersonal and knowledge work, requiring human judgment and relationship-building skills. While AI can assist with tasks such as property listings and market analysis, the core aspects of negotiating sales, conducting inspections, and understanding client needs still heavily rely on human interaction and presence."
+  },
+  {
+    "slug": "sales-assistants-general",
+    "title": "Sales Assistants (General)",
+    "exposure": 2,
+    "rationale": "Sales Assistants primarily engage in interpersonal interactions and physical tasks, such as demonstrating products and managing stock. While AI may assist with inventory management or payment processing, the core responsibilities of customer interaction and product demonstration require a human presence and cannot be easily automated."
+  },
+  {
+    "slug": "ict-sales-assistants",
+    "title": "ICT Sales Assistants",
+    "exposure": 4,
+    "rationale": "ICT Sales Assistants engage in a mix of interpersonal interactions and knowledge work, primarily focused on selling products and advising customers. While AI can assist with inventory management and customer inquiries, the core tasks of demonstrating products and providing personalized service still require human presence and judgment."
+  },
+  {
+    "slug": "motor-vehicle-and-vehicle-parts-salespersons",
+    "title": "Motor Vehicle and Vehicle Parts Salespersons",
+    "exposure": 3,
+    "rationale": "This occupation involves a significant amount of interpersonal interaction and physical presence, particularly in showing vehicles and test driving with customers. While AI can assist with inventory management and customer inquiries, the core tasks of selling and advising require human judgment and personal interaction, limiting overall exposure."
+  },
+  {
+    "slug": "pharmacy-sales-assistants",
+    "title": "Pharmacy Sales Assistants",
+    "exposure": 3,
+    "rationale": "Pharmacy Sales Assistants primarily engage in interpersonal interactions and physical tasks, such as advising customers and managing stock. While AI may assist with inventory management or sales tracking, the core responsibilities involve human presence and judgment, limiting overall exposure to automation."
+  },
+  {
+    "slug": "retail-supervisors",
+    "title": "Retail Supervisors",
+    "exposure": 3,
+    "rationale": "Retail Supervisors primarily engage in interpersonal work and management tasks that require human presence and judgment. While AI can assist with scheduling and inventory management, the core responsibilities involve direct interaction with customers and staff, which limits the potential for automation."
+  },
+  {
+    "slug": "service-station-attendants",
+    "title": "Service Station Attendants",
+    "exposure": 2,
+    "rationale": "The role of Service Station Attendants involves primarily physical tasks and direct customer interaction, which limits the potential for AI to automate core responsibilities. While AI may assist with inventory management or payment processing, the hands-on nature of the job and the need for real-time human presence in a service environment keep exposure low."
+  },
+  {
+    "slug": "street-vendors-and-related-salespersons",
+    "title": "Street Vendors and Related Salespersons",
+    "exposure": 2,
+    "rationale": "Street vendors primarily engage in physical sales and interpersonal interactions, which are not easily automated by AI. While AI could assist with tasks like inventory management or payment processing, the core aspects of the job\u2014demonstrating goods and engaging with customers\u2014require a human presence and personal touch."
+  },
+  {
+    "slug": "other-sales-assistants-and-salespersons",
+    "title": "Other Sales Assistants and Salespersons",
+    "exposure": 4,
+    "rationale": "This occupation involves a mix of interpersonal interaction and physical tasks, such as demonstrating products and managing stock. While AI can assist with inventory management and customer data processing, the core functions still rely heavily on human presence and judgment in sales interactions."
+  },
+  {
+    "slug": "checkout-operators-and-office-cashiers",
+    "title": "Checkout Operators and Office Cashiers",
+    "exposure": 4,
+    "rationale": "Checkout operators and office cashiers perform a mix of physical tasks and knowledge work, such as processing payments and managing transactions. While AI can assist with transaction processing and inventory management, the role still requires human interaction and presence, limiting its overall exposure to automation."
+  },
+  {
+    "slug": "models-and-sales-demonstrators",
+    "title": "Models and Sales Demonstrators",
+    "exposure": 2,
+    "rationale": "The occupation of Models and Sales Demonstrators primarily involves physical presence and interpersonal interactions, such as demonstrating goods and posing for advertisements. While AI may assist with marketing and logistics, the core tasks require human engagement and cannot be easily automated."
+  },
+  {
+    "slug": "retail-and-wool-buyers",
+    "title": "Retail and Wool Buyers",
+    "exposure": 4,
+    "rationale": "The role of Retail and Wool Buyers involves a mix of knowledge work and physical presence, particularly in inspecting and purchasing wool. While AI can assist with data analysis and market trends, the core tasks require human judgment, negotiation skills, and physical inspections, limiting the overall exposure to AI."
+  },
+  {
+    "slug": "telemarketers",
+    "title": "Telemarketers",
+    "exposure": 10,
+    "rationale": "Telemarketing is a routine information processing job that is fully digital and can be largely automated. AI technologies can already handle most tasks involved in telemarketing, such as making calls, recording interactions, and updating databases, leading to maximum exposure to AI."
+  },
+  {
+    "slug": "ticket-salespersons",
+    "title": "Ticket Salespersons",
+    "exposure": 2,
+    "rationale": "The role of ticket salespersons involves significant interpersonal interaction and physical presence, particularly in assisting passengers and ensuring their safety. While some tasks could be supported by AI, such as handling inquiries or processing payments, the core responsibilities require human judgment and real-time interaction, limiting overall AI exposure."
+  },
+  {
+    "slug": "visual-merchandisers",
+    "title": "Visual Merchandisers",
+    "exposure": 3,
+    "rationale": "Visual merchandising involves a significant amount of physical presence and hands-on creativity, as it requires setting up displays and arranging products in a way that appeals to customers. While AI may assist with planning and design aspects, the core tasks rely heavily on human judgment, aesthetic sensibility, and real-time interaction with physical spaces."
+  },
+  {
+    "slug": "other-sales-support-workers",
+    "title": "Other Sales Support Workers",
+    "exposure": 2,
+    "rationale": "Without specific tasks outlined for this occupation, it's difficult to assess the level of AI exposure accurately. However, as a sales support role, it likely involves interpersonal skills and physical presence, which limits the impact of AI on core job functions."
+  },
+  {
+    "slug": "clay-concrete-glass-and-stone-processing-machine-operators",
+    "title": "Clay, Concrete, Glass and Stone Processing Machine Operators",
+    "exposure": 2,
+    "rationale": "This occupation involves significant physical tasks and manual skills, such as operating machinery and using hand tools, which require human presence and dexterity. While AI may assist in monitoring and optimizing processes, the core tasks are hands-on and not easily automated."
+  },
+  {
+    "slug": "industrial-spraypainters",
+    "title": "Industrial Spraypainters",
+    "exposure": 2,
+    "rationale": "Industrial spray painting is a highly physical job that requires manual skills and real-time human presence to operate equipment and apply coatings effectively. While AI may assist with scheduling or inventory management, the core tasks of painting and surface preparation are not easily automated."
+  },
+  {
+    "slug": "paper-and-wood-processing-machine-operators",
+    "title": "Paper and Wood Processing Machine Operators",
+    "exposure": 2,
+    "rationale": "The occupation involves significant physical tasks and manual operation of machinery, which limits AI's ability to automate core functions. While AI may assist with monitoring and maintenance tasks, the hands-on nature of the work and the need for human judgment in machine operation and quality control reduce overall exposure."
+  },
+  {
+    "slug": "photographic-developers-and-printers",
+    "title": "Photographic Developers and Printers",
+    "exposure": 5,
+    "rationale": "This occupation involves a mix of digital image editing and physical processes related to film development and printing. While AI can assist with digital editing tasks, many aspects of the job still require hands-on work and human judgment, particularly in traditional film processing and print inspection."
+  },
+  {
+    "slug": "plastics-and-rubber-production-machine-operators",
+    "title": "Plastics and Rubber Production Machine Operators",
+    "exposure": 3,
+    "rationale": "The role of Plastics and Rubber Production Machine Operators involves significant physical tasks and manual operation of machinery, which limits AI's ability to automate core functions. While AI may assist with monitoring and data analysis, the hands-on nature of the work and the need for real-time human judgment in production processes keep exposure relatively low."
+  },
+  {
+    "slug": "sewing-machinists",
+    "title": "Sewing Machinists",
+    "exposure": 2,
+    "rationale": "Sewing Machinists primarily engage in physical, hands-on work that requires manual skills and real-time human presence. While AI may assist with some peripheral tasks, such as scheduling or inventory management, the core tasks of operating sewing machines and handling fabrics are not easily automated."
+  },
+  {
+    "slug": "textile-and-footwear-production-machine-operators",
+    "title": "Textile and Footwear Production Machine Operators",
+    "exposure": 3,
+    "rationale": "The occupation involves a significant amount of physical work and hands-on operation of machinery, which limits AI's ability to fully automate tasks. While AI may assist in monitoring and quality control, the core functions require human presence and manual skill, resulting in low exposure to AI."
+  },
+  {
+    "slug": "other-machine-operators",
+    "title": "Other Machine Operators",
+    "exposure": 2,
+    "rationale": "The occupation of Other Machine Operators involves significant physical tasks and manual operation of machinery, which limits the potential for AI to automate core responsibilities. While AI may assist with monitoring and data analysis, the hands-on nature of the work and the need for human oversight in machine operation and maintenance keeps exposure relatively low."
+  },
+  {
+    "slug": "crane-hoist-and-lift-operators",
+    "title": "Crane, Hoist and Lift Operators",
+    "exposure": 1,
+    "rationale": "The work of crane, hoist, and lift operators is highly physical and requires real-time human presence in dynamic and often unpredictable environments. While AI may assist with monitoring and diagnostics, the core tasks of operating heavy machinery and ensuring safety cannot be easily automated."
+  },
+  {
+    "slug": "drillers-miners-and-shot-firers",
+    "title": "Drillers, Miners and Shot Firers",
+    "exposure": 1,
+    "rationale": "The work of drillers, miners, and shot firers is highly physical and requires real-time human presence in unpredictable environments, such as mining sites. While some tasks may involve recording data or maintaining logs, the core responsibilities involve manual labor and safety-critical operations that AI cannot easily automate."
+  },
+  {
+    "slug": "engineering-production-workers",
+    "title": "Engineering Production Workers",
+    "exposure": 3,
+    "rationale": "Engineering Production Workers primarily engage in physical tasks that involve operating machinery and handling materials, which limits AI's ability to automate core functions. While there are some computer-controlled aspects of the job, the majority of tasks require hands-on skills and real-time human presence, resulting in low overall AI exposure."
+  },
+  {
+    "slug": "other-stationary-plant-operators",
+    "title": "Other Stationary Plant Operators",
+    "exposure": 2,
+    "rationale": "The role of Stationary Plant Operators involves significant physical presence and manual operation of machinery, which limits the potential for AI to automate core tasks. While AI may assist with some peripheral tasks like scheduling and documentation, the hands-on nature of the work and the need for real-time human judgment in operating complex machinery reduce overall AI exposure."
+  },
+  {
+    "slug": "agricultural-forestry-and-horticultural-plant-operators",
+    "title": "Agricultural, Forestry and Horticultural Plant Operators",
+    "exposure": 2,
+    "rationale": "The work of Agricultural, Forestry and Horticultural Plant Operators is primarily physical and requires real-time human presence in unpredictable outdoor environments. While AI may assist with some reporting and data management tasks, the core activities of operating heavy machinery and managing crops are not easily automated."
+  },
+  {
+    "slug": "earthmoving-plant-operators",
+    "title": "Earthmoving Plant Operators",
+    "exposure": 2,
+    "rationale": "Earthmoving Plant Operators primarily engage in physical tasks that require manual operation of machinery in unpredictable environments. While AI may assist with some operational monitoring or scheduling, the core functions of this job involve hands-on work that cannot be easily automated."
+  },
+  {
+    "slug": "forklift-drivers",
+    "title": "Forklift Drivers",
+    "exposure": 2,
+    "rationale": "Forklift driving is primarily a physical job that requires real-time human presence in environments like warehouses and factories. While AI may assist with monitoring and logistics, the core tasks of operating a forklift and handling materials cannot be easily automated."
+  },
+  {
+    "slug": "other-mobile-plant-operators",
+    "title": "Other Mobile Plant Operators",
+    "exposure": 2,
+    "rationale": "The work of mobile plant operators is primarily physical and requires real-time human presence to operate machinery in various environments. While AI may assist with scheduling or maintenance tracking, the core tasks involve manual operation and direct interaction with machinery, limiting the potential for automation."
+  },
+  {
+    "slug": "automobile-drivers",
+    "title": "Automobile Drivers",
+    "exposure": 2,
+    "rationale": "Automobile drivers primarily perform physical tasks that require real-time human presence and decision-making in unpredictable environments, such as navigating traffic and ensuring passenger safety. While AI may assist with route planning and logistics, the core responsibilities of driving and interacting with passengers remain largely human-centric."
+  },
+  {
+    "slug": "bus-and-coach-drivers",
+    "title": "Bus and Coach Drivers",
+    "exposure": 2,
+    "rationale": "Bus and coach driving is primarily a physical job that requires real-time human presence and interaction with passengers. While AI may assist with scheduling or route optimization, the core tasks of driving and managing passenger interactions are not easily automated."
+  },
+  {
+    "slug": "train-and-tram-drivers",
+    "title": "Train and Tram Drivers",
+    "exposure": 2,
+    "rationale": "The occupation of train and tram drivers involves significant physical presence and manual operation, with a strong focus on safety and real-time decision-making. While AI may assist with scheduling or monitoring systems, the core tasks require human judgment and interaction with passengers, limiting the potential for automation."
+  },
+  {
+    "slug": "delivery-drivers",
+    "title": "Delivery Drivers",
+    "exposure": 2,
+    "rationale": "Delivery drivers primarily engage in physical tasks that require real-time human presence and decision-making in unpredictable environments. While AI may assist with route optimization and logistics management, the core responsibilities of driving and handling goods remain largely manual and cannot be easily automated."
+  },
+  {
+    "slug": "truck-drivers",
+    "title": "Truck Drivers",
+    "exposure": 2,
+    "rationale": "Truck driving is primarily a physical occupation that requires real-time human presence and manual skills, particularly in maneuvering vehicles and ensuring safety during loading and unloading. While AI may assist with logistics and route optimization, the core tasks of driving and handling vehicles are not easily automated."
+  },
+  {
+    "slug": "storepersons",
+    "title": "Storepersons",
+    "exposure": 3,
+    "rationale": "Storepersons primarily engage in physical tasks related to the handling and movement of goods, which limits the direct impact of AI on their core responsibilities. While AI may assist with inventory management and logistics through software, the hands-on nature of the job and the need for physical presence in warehouses reduce overall exposure."
+  },
+  {
+    "slug": "car-detailers",
+    "title": "Car Detailers",
+    "exposure": 1,
+    "rationale": "The work of car detailers is primarily physical and hands-on, requiring real-time human presence to clean and maintain vehicles. AI has minimal impact on their daily tasks, as the job involves manual skills and physical interaction with the vehicles that cannot be easily automated."
+  },
+  {
+    "slug": "commercial-cleaners",
+    "title": "Commercial Cleaners",
+    "exposure": 1,
+    "rationale": "The work of commercial cleaners is predominantly physical and hands-on, requiring real-time human presence in various unpredictable environments. AI has minimal impact on their daily tasks, as cleaning involves manual skills and physical labor that cannot be easily automated."
+  },
+  {
+    "slug": "domestic-cleaners",
+    "title": "Domestic Cleaners",
+    "exposure": 1,
+    "rationale": "Domestic cleaning is primarily a physical job that requires hands-on work in various unpredictable environments. AI has minimal impact on the core tasks of cleaning and tidying, as these activities rely heavily on human presence and manual skills."
+  },
+  {
+    "slug": "housekeepers",
+    "title": "Housekeepers",
+    "exposure": 1,
+    "rationale": "Housekeeping is primarily a physical occupation that requires hands-on tasks and real-time human presence in private residences. While some aspects may benefit from AI assistance, such as scheduling or inventory management, the core responsibilities involve manual labor and personal interaction, which limits AI's impact."
+  },
+  {
+    "slug": "laundry-workers",
+    "title": "Laundry Workers",
+    "exposure": 2,
+    "rationale": "Laundry workers primarily engage in physical tasks that require manual skills and real-time human presence, such as ironing, sorting, and operating machines. While AI may assist with logistics or scheduling, the core responsibilities of this occupation are hands-on and not easily automated."
+  },
+  {
+    "slug": "other-cleaners",
+    "title": "Other Cleaners",
+    "exposure": 2,
+    "rationale": "The work of cleaners is predominantly physical and requires real-time human presence in various environments. While AI may assist with scheduling or inventory management, the core tasks involve hands-on cleaning and maintenance that cannot be easily automated."
+  },
+  {
+    "slug": "building-and-plumbing-labourers",
+    "title": "Building and Plumbing Labourers",
+    "exposure": 2,
+    "rationale": "The tasks performed by Building and Plumbing Labourers are predominantly physical and require real-time human presence on construction sites. While AI may assist with scheduling or logistics, the core work involves manual labor and hands-on skills that are not easily automated."
+  },
+  {
+    "slug": "concreters",
+    "title": "Concreters",
+    "exposure": 1,
+    "rationale": "Concreters perform highly physical and hands-on tasks that require real-time human presence and manual skill in unpredictable environments. The nature of their work, which involves pouring and finishing concrete, is not suited for automation by AI technologies."
+  },
+  {
+    "slug": "fencers",
+    "title": "Fencers",
+    "exposure": 1,
+    "rationale": "Fencing is a highly physical occupation that requires hands-on skills and real-time human presence in various environments. The tasks involved are manual and cannot be easily automated by AI, resulting in minimal exposure to AI influence."
+  },
+  {
+    "slug": "insulation-and-home-improvement-installers",
+    "title": "Insulation and Home Improvement Installers",
+    "exposure": 2,
+    "rationale": "The work of insulation and home improvement installers is primarily physical and hands-on, requiring manual skills and real-time human presence on job sites. While AI may assist with planning or scheduling, it cannot replace the core tasks of installation and physical adjustments that are essential to this occupation."
+  },
+  {
+    "slug": "paving-and-surfacing-labourers",
+    "title": "Paving and Surfacing Labourers",
+    "exposure": 1,
+    "rationale": "The work of Paving and Surfacing Labourers is predominantly physical and hands-on, requiring real-time human presence in outdoor environments. AI has minimal impact on the core tasks, which involve manual labor and equipment operation that cannot be easily automated."
+  },
+  {
+    "slug": "railway-track-workers",
+    "title": "Railway Track Workers",
+    "exposure": 1,
+    "rationale": "Railway Track Workers engage in highly physical tasks that require manual skills and real-time human presence in unpredictable environments. The nature of their work, which involves laying and repairing tracks and equipment, is not conducive to automation by AI."
+  },
+  {
+    "slug": "structural-steel-construction-workers",
+    "title": "Structural Steel Construction Workers",
+    "exposure": 1,
+    "rationale": "Structural Steel Construction Workers engage in highly physical tasks that require manual skills and real-time human presence on construction sites. The nature of their work, which involves erecting and dismantling steel structures, is not easily automated by AI, resulting in minimal exposure to AI technologies."
+  },
+  {
+    "slug": "other-construction-and-mining-labourers",
+    "title": "Other Construction and Mining Labourers",
+    "exposure": 2,
+    "rationale": "The tasks performed by Surveyors' Assistants are primarily physical and require real-time human presence in unpredictable environments, such as drilling sites and mining operations. While AI may assist with some peripheral tasks, the core responsibilities involve manual labor and direct interaction with equipment, which limits the potential for automation."
+  },
+  {
+    "slug": "food-and-drink-factory-workers",
+    "title": "Food and Drink Factory Workers",
+    "exposure": 2,
+    "rationale": "Food and drink factory workers primarily engage in physical tasks that involve operating machinery and handling ingredients, which limits the potential for AI to automate their core responsibilities. While AI may assist with monitoring quality or optimizing processes, the hands-on nature of the work and the need for human oversight in food production create a significant barrier to automation."
+  },
+  {
+    "slug": "meat-boners-and-slicers-and-slaughterers",
+    "title": "Meat Boners and Slicers, and Slaughterers",
+    "exposure": 1,
+    "rationale": "This occupation involves highly physical tasks that require manual skills and real-time human presence in a specific environment. The nature of the work, which includes slaughtering and processing livestock, is not conducive to automation by AI, resulting in minimal exposure."
+  },
+  {
+    "slug": "meat-poultry-and-seafood-process-workers",
+    "title": "Meat, Poultry and Seafood Process Workers",
+    "exposure": 1,
+    "rationale": "The work of Meat, Poultry and Seafood Process Workers is predominantly physical and hands-on, requiring real-time human presence and manual skills in processing and handling food products. AI has minimal impact on daily tasks, as the core job involves intricate physical processes that cannot be easily automated."
+  },
+  {
+    "slug": "packers",
+    "title": "Packers",
+    "exposure": 2,
+    "rationale": "The occupation of packers involves primarily physical tasks that require manual dexterity and real-time human presence, such as assembling, packing, and monitoring products. While AI may assist with logistics and inventory management, the core functions of packing and handling products are not easily automated."
+  },
+  {
+    "slug": "product-assemblers",
+    "title": "Product Assemblers",
+    "exposure": 1,
+    "rationale": "The work of product assemblers is primarily physical and hands-on, requiring manual skills and real-time human presence in a production environment. AI has minimal impact on their daily tasks, as the core activities involve assembling components that cannot be easily automated."
+  },
+  {
+    "slug": "metal-engineering-process-workers",
+    "title": "Metal Engineering Process Workers",
+    "exposure": 2,
+    "rationale": "The work of Metal Engineering Process Workers is primarily physical and hands-on, involving manual tasks such as operating machinery and assembling components. While AI may assist with scheduling or logistics, the core tasks require human presence and physical interaction with materials, resulting in low exposure to AI automation."
+  },
+  {
+    "slug": "plastics-and-rubber-factory-workers",
+    "title": "Plastics and Rubber Factory Workers",
+    "exposure": 2,
+    "rationale": "The work of Plastics and Rubber Factory Workers is predominantly physical and hands-on, involving routine tasks that require human presence and manual skills. While AI may assist with some peripheral tasks, the core responsibilities of operating machinery and handling materials are not easily automated."
+  },
+  {
+    "slug": "product-quality-controllers",
+    "title": "Product Quality Controllers",
+    "exposure": 4,
+    "rationale": "Product Quality Controllers engage in a mix of physical inspection and documentation tasks, which limits the extent to which AI can fully automate their work. While AI can assist with data analysis and reporting, the hands-on nature of examining products for defects and making adjustments requires human judgment and presence."
+  },
+  {
+    "slug": "timber-and-wood-process-workers",
+    "title": "Timber and Wood Process Workers",
+    "exposure": 2,
+    "rationale": "The tasks performed by Timber and Wood Process Workers are predominantly physical and hands-on, requiring real-time human presence in a factory environment. While some aspects of the job may benefit from AI assistance in monitoring or optimizing processes, the core activities involve manual labor and machine operation that AI cannot easily automate."
+  },
+  {
+    "slug": "other-factory-process-workers",
+    "title": "Other Factory Process Workers",
+    "exposure": 2,
+    "rationale": "The tasks performed by Factory Process Workers are predominantly physical and hands-on, involving manual labor and machine operation in various manufacturing processes. While there may be some automation in specific tasks, the core responsibilities require human presence and physical interaction, resulting in low exposure to AI."
+  },
+  {
+    "slug": "aquaculture-workers",
+    "title": "Aquaculture Workers",
+    "exposure": 2,
+    "rationale": "Aquaculture Workers primarily engage in physical tasks related to the breeding and raising of aquatic stock, which require hands-on presence and manual skills. While some data collection and monitoring tasks could be assisted by AI, the core responsibilities are largely physical and cannot be easily automated."
+  },
+  {
+    "slug": "crop-farm-workers",
+    "title": "Crop Farm Workers",
+    "exposure": 2,
+    "rationale": "Crop farm work is primarily physical and requires real-time human presence in unpredictable outdoor environments. While AI may assist with certain tasks like monitoring crop health or optimizing irrigation, the core activities of planting, harvesting, and managing crops rely heavily on manual labor and human judgment."
+  },
+  {
+    "slug": "forestry-and-logging-workers",
+    "title": "Forestry and Logging Workers",
+    "exposure": 1,
+    "rationale": "The work of forestry and logging workers is predominantly physical and requires real-time human presence in unpredictable outdoor environments. AI has minimal impact on the core tasks of felling trees and managing forest areas, as these activities rely heavily on manual skills and situational judgment."
+  },
+  {
+    "slug": "garden-and-nursery-labourers",
+    "title": "Garden and Nursery Labourers",
+    "exposure": 1,
+    "rationale": "The work of garden and nursery labourers is primarily physical and hands-on, involving tasks such as planting, watering, and maintaining plants. AI has minimal impact on these core activities, as they require real-time human presence and manual skills in unpredictable outdoor environments."
+  },
+  {
+    "slug": "livestock-farm-workers",
+    "title": "Livestock Farm Workers",
+    "exposure": 2,
+    "rationale": "Livestock farm workers engage in predominantly physical tasks that require hands-on interaction with animals and the environment. While AI may assist with some peripheral tasks, the core responsibilities involve real-time human presence and manual skills that are not easily automated."
+  },
+  {
+    "slug": "mixed-crop-and-livestock-farm-workers",
+    "title": "Mixed Crop and Livestock Farm Workers",
+    "exposure": 2,
+    "rationale": "The work of Mixed Crop and Livestock Farm Workers is predominantly physical and requires real-time human presence in unpredictable environments. While AI may assist with some peripheral tasks, such as monitoring crop conditions through sensors, the core responsibilities involve hands-on activities that cannot be easily automated."
+  },
+  {
+    "slug": "other-farm-forestry-and-garden-workers",
+    "title": "Other Farm, Forestry and Garden Workers",
+    "exposure": 2,
+    "rationale": "The work of Farm, Forestry and Garden Workers is predominantly physical and requires real-time human presence in unpredictable outdoor environments. While AI may assist with some peripheral tasks like scheduling or monitoring, the core activities involve hands-on labor and direct interaction with the environment, limiting AI's impact on the occupation."
+  },
+  {
+    "slug": "fast-food-cooks",
+    "title": "Fast Food Cooks",
+    "exposure": 2,
+    "rationale": "Fast Food Cooks primarily engage in physical tasks that require manual skills and real-time human interaction, such as cooking and serving food. While AI may assist with inventory management or scheduling, the core responsibilities of food preparation and customer service are not easily automated."
+  },
+  {
+    "slug": "food-trades-assistants",
+    "title": "Food Trades Assistants",
+    "exposure": 2,
+    "rationale": "Food Trades Assistants primarily engage in hands-on, physical tasks that require real-time human presence and manual skills, such as preparing and cooking food. While AI may assist with inventory management or scheduling, the core responsibilities of this occupation are not easily automated or digitized."
+  },
+  {
+    "slug": "kitchenhands",
+    "title": "Kitchenhands",
+    "exposure": 2,
+    "rationale": "Kitchenhands primarily engage in physical tasks that require hands-on work and real-time human presence in a kitchen environment. While AI may assist with inventory management or scheduling, the core responsibilities of food preparation and cleaning are not easily automated."
+  },
+  {
+    "slug": "freight-and-furniture-handlers",
+    "title": "Freight and Furniture Handlers",
+    "exposure": 2,
+    "rationale": "The occupation of Freight and Furniture Handlers involves significant physical labor and manual tasks that require human presence and interaction with heavy machinery. While some clerical functions could be assisted by AI, the core responsibilities are hands-on and cannot be easily automated."
+  },
+  {
+    "slug": "shelf-fillers",
+    "title": "Shelf Fillers",
+    "exposure": 1,
+    "rationale": "The work of shelf fillers is primarily physical and requires real-time human presence in a retail environment. AI has minimal impact on daily tasks, as the job involves manual handling and customer interaction that cannot be easily automated."
+  },
+  {
+    "slug": "caretakers",
+    "title": "Caretakers",
+    "exposure": 2,
+    "rationale": "Caretaking involves primarily physical tasks and interpersonal interactions, such as cleaning and maintaining facilities, which are not easily automated by AI. While AI may assist with administrative tasks like filling out forms or managing schedules, the core responsibilities require human presence and manual skills."
+  },
+  {
+    "slug": "deck-and-fishing-hands",
+    "title": "Deck and Fishing Hands",
+    "exposure": 1,
+    "rationale": "The work of Deck and Fishing Hands is primarily physical and requires real-time human presence in unpredictable environments, such as at sea. AI has minimal impact on their daily tasks, which involve manual handling, maintenance, and direct interaction with the marine environment."
+  },
+  {
+    "slug": "handypersons",
+    "title": "Handypersons",
+    "exposure": 2,
+    "rationale": "Handypersons primarily engage in physical, hands-on tasks that require real-time human presence and manual skills. While AI may assist with scheduling or inventory management, it cannot replace the core activities of repairing and maintaining physical structures and environments."
+  },
+  {
+    "slug": "motor-vehicle-parts-and-accessories-fitters",
+    "title": "Motor Vehicle Parts and Accessories Fitters",
+    "exposure": 2,
+    "rationale": "The work of motor vehicle parts and accessories fitters is predominantly physical and hands-on, requiring real-time human presence and manual skills. While AI may assist with scheduling or inventory management, it does not significantly impact the core tasks of fitting and repairing vehicle components."
+  },
+  {
+    "slug": "printing-assistants-and-table-workers",
+    "title": "Printing Assistants and Table Workers",
+    "exposure": 2,
+    "rationale": "The work of Printing Assistants and Table Workers is primarily physical and involves manual tasks related to operating and maintaining machines. While AI may assist with some peripheral tasks, the core responsibilities require human presence and manual dexterity, resulting in low exposure to AI."
+  },
+  {
+    "slug": "recycling-and-rubbish-collectors",
+    "title": "Recycling and Rubbish Collectors",
+    "exposure": 1,
+    "rationale": "The work of Recycling and Rubbish Collectors is primarily physical and requires real-time human presence in unpredictable environments. AI has minimal impact on their daily tasks, as the job involves manual labor and direct interaction with waste materials that cannot be easily automated."
+  },
+  {
+    "slug": "vending-machine-attendants",
+    "title": "Vending Machine Attendants",
+    "exposure": 2,
+    "rationale": "The work of vending machine attendants is primarily physical and involves hands-on tasks such as stocking machines and performing maintenance. While AI could assist with inventory management or monitoring systems, the core responsibilities require physical presence and manual skills, limiting overall exposure to AI."
+  },
+  {
+    "slug": "other-miscellaneous-labourers",
+    "title": "Other Miscellaneous Labourers",
+    "exposure": 2,
+    "rationale": "The tasks associated with Other Miscellaneous Labourers primarily involve physical presence and manual labor, such as assisting pedestrians, repairing bicycles, and managing parking facilities. While some tasks may benefit from AI assistance in scheduling or logistics, the core functions require human interaction and physical skills, resulting in low overall AI exposure."
+  }
+]

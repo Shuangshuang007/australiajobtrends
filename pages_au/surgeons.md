@@ -1,0 +1,98 @@
+# Surgeons
+
+## Description
+
+Vascular Surgeons perform surgery to treat patients with conditions affecting their arteries and veins.
+
+## Tasks
+
+- Examining patients to determine the necessity of operations, estimating and explaining risks to patients, and selecting the best operational procedures
+- Reviewing reports on patients' general physical condition, reactions to medications and medical histories
+- Consulting with anaesthetists regarding the correct anaesthesia for patients
+- Performing surgical operations
+- Examining instruments, equipment, and surgical set-up to ensure that antiseptic and aseptic methods have been followed
+- Instructing other medical, nursing and associated staff regarding the preparation of patients and instrument and equipment requirements
+- Prescribing post-operative care, and observing and investigating patients' progress
+- Maintaining records of operations performed
+- May specialise in particular types of operations
+- Examines patients to determine the necessity of operations, estimates and explains risks to patients, and selects the best operational procedures.
+- Reviews reports on patients' general physical condition, reactions to medications and medical histories.
+- Consults with anaesthetists regarding the correct anaesthesia for patients.
+- Performs surgical operations.
+- Examines instruments, equipment, and surgical set-up to ensure that antiseptic and aseptic methods have been followed.
+- Instructs other medical, nursing and associated staff regarding the preparation of patients and instrument and equipment requirements.
+- Prescribes post-operative care, and observes and investigates patients' progress.
+- Maintains records of operations performed.
+- May specialise in particular types of operations.
+- Examines patients to determine the necessity of operations, estimates and explains risks to patients, and selects the best operational procedures.
+- Reviews reports on patients' general physical condition, reactions to medications and medical histories.
+- Consults with anaesthetists regarding the correct anaesthesia for patients.
+- Performs surgical operations.
+- Examines instruments, equipment, and surgical set-up to ensure that antiseptic and aseptic methods have been followed.
+- Instructs other medical, nursing and associated staff regarding the preparation of patients and instrument and equipment requirements.
+- Prescribes post-operative care, and observes and investigates patients' progress.
+- Maintains records of operations performed.
+- May specialise in particular types of operations.
+- Examines patients to determine the necessity of operations, estimates and explains risks to patients, and selects the best operational procedures.
+- Reviews reports on patients' general physical condition, reactions to medications and medical histories.
+- Consults with anaesthetists regarding the correct anaesthesia for patients.
+- Performs surgical operations.
+- Examines instruments, equipment, and surgical set-up to ensure that antiseptic and aseptic methods have been followed.
+- Instructs other medical, nursing and associated staff regarding the preparation of patients and instrument and equipment requirements.
+- Prescribes post-operative care, and observes and investigates patients' progress.
+- Maintains records of operations performed.
+- May specialise in particular types of operations.
+- Examines patients to determine the necessity of operations, estimates and explains risks to patients, and selects the best operational procedures.
+- Reviews reports on patients' general physical condition, reactions to medications and medical histories.
+- Consults with anaesthetists regarding the correct anaesthesia for patients.
+- Performs surgical operations.
+- Examines instruments, equipment, and surgical set-up to ensure that antiseptic and aseptic methods have been followed.
+- Instructs other medical, nursing and associated staff regarding the preparation of patients and instrument and equipment requirements.
+- Prescribes post-operative care, and observes and investigates patients' progress.
+- Maintains records of operations performed.
+- May specialise in particular types of operations.
+- Examines patients to determine the necessity of operations, estimates and explains risks to patients, and selects the best operational procedures.
+- Reviews reports on patients' general physical condition, reactions to medications and medical histories.
+- Consults with anaesthetists regarding the correct anaesthesia for patients.
+- Performs surgical operations.
+- Examines instruments, equipment, and surgical set-up to ensure that antiseptic and aseptic methods have been followed.
+- Instructs other medical, nursing and associated staff regarding the preparation of patients and instrument and equipment requirements.
+- Prescribes post-operative care, and observes and investigates patients' progress.
+- Maintains records of operations performed.
+- May specialise in particular types of operations.
+- Examines patients to determine the necessity of operations, estimates and explains risks to patients, and selects the best operational procedures.
+- Reviews reports on patients' general physical condition, reactions to medications and medical histories.
+- Consults with anaesthetists regarding the correct anaesthesia for patients.
+- Performs surgical operations.
+- Examines instruments, equipment, and surgical set-up to ensure that antiseptic and aseptic methods have been followed.
+- Instructs other medical, nursing and associated staff regarding the preparation of patients and instrument and equipment requirements.
+- Prescribes post-operative care, and observes and investigates patients' progress.
+- Maintains records of operations performed.
+- May specialise in particular types of operations.
+- Examines patients to determine the necessity of operations, estimates and explains risks to patients, and selects the best operational procedures.
+- Reviews reports on patients' general physical condition, reactions to medications and medical histories.
+- Consults with anaesthetists regarding the correct anaesthesia for patients.
+- Performs surgical operations.
+- Examines instruments, equipment, and surgical set-up to ensure that antiseptic and aseptic methods have been followed.
+- Instructs other medical, nursing and associated staff regarding the preparation of patients and instrument and equipment requirements.
+- Prescribes post-operative care, and observes and investigates patients' progress.
+- Maintains records of operations performed.
+- May specialise in particular types of operations.
+- Examines patients to determine the necessity of operations, estimates and explains risks to patients, and selects the best operational procedures.
+- Reviews reports on patients' general physical condition, reactions to medications and medical histories.
+- Consults with anaesthetists regarding the correct anaesthesia for patients.
+- Performs surgical operations.
+- Examines instruments, equipment, and surgical set-up to ensure that antiseptic and aseptic methods have been followed.
+- Instructs other medical, nursing and associated staff regarding the preparation of patients and instrument and equipment requirements.
+- Prescribes post-operative care, and observes and investigates patients' progress.
+- Maintains records of operations performed.
+- May specialise in particular types of operations.
+- Examines patients to determine the necessity of operations, estimates and explains risks to patients, and selects the best operational procedures.
+- Reviews reports on patients' general physical condition, reactions to medications and medical histories.
+- Consults with anaesthetists regarding the correct anaesthesia for patients.
+- Performs surgical operations.
+- Examines instruments, equipment, and surgical set-up to ensure that antiseptic and aseptic methods have been followed.
+- Instructs other medical, nursing and associated staff regarding the preparation of patients and instrument and equipment requirements.
+- Prescribes post-operative care, and observes and investigates patients' progress.
+- Maintains records of operations performed.
+- May specialise in particular types of operations.

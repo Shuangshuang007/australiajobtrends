@@ -1,0 +1,83 @@
+# Food and Drink Factory Workers
+
+## Description
+
+Other Food and Drink Factory Workers includes jobs like Coffee Roaster, Egg Factory Worker, Ice-cream Maker, Margarine Maker, and Pasta Maker.
+
+## Tasks
+
+- Weighing, measuring, mixing, dissolving and boiling ingredients
+- Adding materials, such as spices and preservatives, to food and beverages
+- Operating heating, chilling, freezing, pasteurising, carbonating, sulphuring and desulphuring plant
+- Monitoring product quality before packaging by inspecting, taking samples and adjusting treatment conditions when necessary
+- Operating machines to peel, core, slice, dice, pit and juice fruit and vegetables
+- Cleaning equipment, pumps, hoses, storage tanks, vessels and floors, and maintaining infestation control programs
+- Regulating speed of conveyors and crusher rollers, and adjusting tension of rollers to ensure total extraction of juice from sugar cane
+- Moving products from production lines into storage and shipping areas
+- Packaging and bottling products
+- Weighs, measures, mixes, dissolves and boils ingredients.
+- Adds materials, such as spices and preservatives, to food and beverages.
+- Operates heating and chilling plant.
+- Monitors product quality before packaging, by inspecting, taking samples and adjusting treatment conditions when necessary.
+- Operates machines to process food.
+- Cleans equipment, pumps, hoses, storage tanks, vessels and floors, and maintains infestation control programmes.
+- Moves products from production lines into storage and shipping areas.
+- Packages products.
+- Weighs, measures, mixes, and processes ingredients.
+- Adds materials, such as spices and preservatives.
+- Operates processing plant.
+- Monitors product quality before packaging by inspecting, taking samples and adjusting treatment conditions when necessary.
+- Cleans equipment, pumps, hoses, storage tanks, vessels and floors, and maintains infestation control programmes.
+- Regulates speed of processing machinery.
+- Moves products from production lines into storage and shipping areas.
+- Packages and bottles products.
+- Weighs, measures, mixes, dissolves and boils ingredients.
+- Adds materials, such as spices and preservatives, to food.
+- Operates heating, chilling, and similar equipment.
+- Monitors product quality before packaging by inspecting, taking samples and adjusting treatment conditions when necessary.
+- Operates machines to process food product.
+- Cleans equipment, pumps, hoses, storage tanks, vessels and floors, and maintains infestation control programmes.
+- Moves products from production lines into storage and shipping areas.
+- Packages products.
+- Weighs, measures, mixes, and processes ingredients.
+- Operates heating, chilling, freezing and pasteurising plant.
+- Monitors product quality before packaging by inspecting, taking samples and adjusting treatment conditions when necessary.
+- Cleans equipment, pumps, hoses, storage tanks, vessels and floors, and maintains infestation control programmes.
+- Regulates speed of conveyors and associated equipment.
+- Moves products from production lines into storage and shipping areas.
+- Packages and bottles products.
+- Weighs, measures, mixes, dissolves and boils ingredients.
+- Add materials, such as spices and preservative to food and beverages.
+- Operates heating, chilling, freezing, pasteurising, carbonating, sulphuring and desulphuring plant.
+- Monitors product quality before packaging by inspecting, taking samples and adjusting treatment conditions when necessary.
+- Operates machines to peel, core, slice, dice, pit and juice fruit and vegetables.
+- Cleans equipment, pumps, hoses, storage tanks, vessels and floors, and maintains infestation control programmes.
+- Regulates speed of conveyors and crusher rollers.
+- Packages and bottles products.
+- Moves products from production lines into storage and shipping areas.
+- Weighs, measures, mixes, and processes ingredients.
+- Monitors product quality before packaging by inspecting, taking samples and adjusting treatment conditions when necessary.
+- Cleans equipment, pumps, hoses, storage tanks, vessels and floors, and maintains infestation control programs.
+- Regulates speed of conveyors and crusher rollers.
+- Moves products from production lines into storage and shipping areas.
+- Packages products.
+- Weighs, measures, and processes ingredients.
+- Operates processing plant.
+- Monitors product quality before packaging by inspecting, taking samples and adjusting treatment conditions when necessary.
+- Cleans equipment, pumps, hoses, storage tanks, vessels and floors, and maintains infestation control programs.
+- Regulates speed of conveyors and crusher rollers, and adjusts tension of rollers to ensure total extraction of juice from sugar cane.
+- Moves products from production lines into storage and shipping areas.
+- Packages products.
+- Weighs, measures, and processes ingredients.
+- Monitors product quality before packaging by inspecting, taking samples and adjusting treatment conditions when necessary.
+- Cleans equipment, pumps, hoses, storage tanks, vessels and floors, and maintains infestation control programs.
+- Moves products from production lines into storage and shipping areas.
+- Packages and bottles products.
+- Weighs, measures, mixes, dissolves and boils ingredients.
+- Adds materials, such as spices and preservatives.
+- Operates processing plant.
+- Monitors product quality before packaging by inspecting, taking samples and adjusting treatment conditions when necessary.
+- Cleans equipment, pumps, hoses, storage tanks, vessels and floors, and maintains infestation control programmes.
+- Regulates machinery.
+- Moves products from production lines into storage and shipping areas.
+- Packages products.

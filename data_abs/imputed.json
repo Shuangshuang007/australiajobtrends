@@ -1,0 +1,643 @@
+{
+  "outlook": {
+    "senior-non-commissioned-defence-force-members": {
+      "outlook_pct": 0,
+      "rationale": "Employment for Senior Non-commissioned Defence Force Members is expected to remain stable due to consistent defence budgets and the ongoing need for military personnel, despite potential automation in some administrative tasks."
+    },
+    "defence-force-members-other-ranks": {
+      "outlook_pct": 3,
+      "rationale": "Employment for Defence Force Members - Other Ranks is expected to see moderate growth due to ongoing defence commitments and an increasing focus on national security, despite some automation risks in specific tasks."
+    }
+  },
+  "education": {
+    "mixed-crop-and-livestock-farmers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "A Certificate III or IV provides the practical skills and knowledge needed for entry-level positions in mixed crop and livestock farming."
+    },
+    "human-resource-managers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Human Resource Managers typically require a Bachelor degree or higher in human resources, business, or a related field to effectively manage complex workplace relations and HR strategies."
+    },
+    "policy-and-planning-managers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "This occupation typically requires a high level of expertise and knowledge in policy and planning, which is generally obtained through a bachelor's degree or higher."
+    },
+    "research-and-development-managers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Research and Development Managers typically require a strong educational background in a relevant field, which is usually obtained through a bachelor's degree or higher."
+    },
+    "manufacturers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "The role of a manufacturer involves significant planning and management responsibilities that typically require a higher level of education, such as a bachelor's degree."
+    },
+    "production-managers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Production Managers typically require a Bachelor degree or higher in fields such as engineering, business management, or a related discipline to effectively manage complex production activities and strategies."
+    },
+    "supply-distribution-and-procurement-managers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Procurement Managers typically require a Bachelor degree or higher in fields such as business, supply chain management, or logistics to effectively manage complex procurement processes and strategies."
+    },
+    "child-care-centre-managers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Child Care Centre Managers typically require a Bachelor degree in Early Childhood Education or a related field to effectively manage and oversee childcare services."
+    },
+    "health-and-welfare-services-managers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Health and Welfare Services Managers typically require a bachelor's degree or higher in health administration, public health, or a related field due to the complexity and responsibility of their roles."
+    },
+    "school-principals": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "School Principals typically require a Bachelor degree or higher in education or a related field to effectively manage and lead educational institutions."
+    },
+    "other-education-managers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "The role of Other Education Managers typically requires a comprehensive understanding of educational policies and administration, which is best acquired through a bachelor's degree or higher in education or a related field."
+    },
+    "ict-managers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "ICT Managers typically require a Bachelor degree or higher in information technology, computer science, or a related field to effectively perform their complex tasks and responsibilities."
+    },
+    "commissioned-officers-management": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Commissioned Police Officers typically require a bachelor's degree in fields such as criminal justice, public administration, or a related area to perform high-level management and policy decision-making tasks."
+    },
+    "senior-non-commissioned-defence-force-members": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Entry-level positions in the Defence Force typically require a Certificate II or III, which provides foundational skills and knowledge necessary for military roles."
+    },
+    "other-specialist-managers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "The role of Specialist Managers typically requires advanced knowledge and skills in management, which are generally obtained through a bachelor's degree or higher."
+    },
+    "other-accommodation-and-hospitality-managers": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "A Diploma or Advanced Diploma in hospitality management is typically required for managerial roles in accommodation and hospitality settings, as it provides the necessary skills and knowledge for overseeing operations and staff."
+    },
+    "retail-managers": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "Retail Managers typically require a Diploma or Advanced Diploma in business or management to effectively handle the responsibilities of managing a travel agency."
+    },
+    "photographers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "A Certificate III or IV in Photography or a related field is typically required to gain practical skills and knowledge for entry-level positions in photography."
+    },
+    "visual-arts-and-crafts-professionals": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "A Diploma or Advanced Diploma in visual arts or a related field is typically required to develop the necessary skills and knowledge for various visual arts and crafts professions."
+    },
+    "journalists-and-other-writers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "A Bachelor degree in journalism, communications, or a related field is typically required for entry-level positions in writing and journalism."
+    },
+    "actuaries-mathematicians-and-statisticians": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Actuaries, mathematicians, and statisticians typically require a strong foundation in mathematics and statistics, which is generally obtained through a bachelor's degree or higher in a relevant field."
+    },
+    "archivists-curators-and-records-managers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Archivists, Curators and Records Managers typically require a Bachelor degree or higher in fields such as information management, archival studies, or related disciplines to effectively perform their roles."
+    },
+    "economists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Economists typically require a strong foundation in economic theory and quantitative analysis, which is generally obtained through a bachelor's degree or higher in economics or a related field."
+    },
+    "intelligence-and-policy-analysts": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "The role of Intelligence and Policy Analysts typically requires a strong foundation in analytical skills and knowledge of policy development, which is generally obtained through a bachelor's degree or higher in relevant fields."
+    },
+    "land-economists-and-valuers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Land economists and valuers typically require a bachelor's degree in fields such as property, economics, or finance to understand complex valuation methods and property laws."
+    },
+    "librarians": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Librarians typically require a Bachelor degree in Library and Information Science or a related field to develop the necessary skills for managing library services and resources."
+    },
+    "management-and-organisation-analysts": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Management and Organisation Analysts typically require a strong understanding of business principles and analytical skills, which are best acquired through a bachelor's degree or higher in fields such as business administration or management."
+    },
+    "other-information-and-organisation-professionals": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "The roles within Information and Organisation Professionals typically require a higher level of education, such as a bachelor's degree, due to the complexity of tasks and the need for specialized knowledge in areas like immigration law, patent assessment, and public policy."
+    },
+    "advertising-and-marketing-professionals": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Marketing Specialists typically require a Bachelor degree in marketing, business, or a related field to effectively perform their tasks and responsibilities."
+    },
+    "ict-sales-professionals": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "ICT Sales Professionals typically require vocational training that can be obtained through a Certificate III or IV in sales or a related field."
+    },
+    "public-relations-professionals": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Public Relations Professionals typically require a Bachelor degree in communications, public relations, or a related field to effectively plan and implement communication strategies."
+    },
+    "technical-sales-representatives": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Technical Sales Representatives typically require vocational training that can be obtained through a Certificate III or IV in sales or a related field."
+    },
+    "graphic-and-web-designers-and-illustrators": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Graphic and Web Designers typically require a Bachelor degree in design or a related field to develop the necessary skills and knowledge for their roles."
+    },
+    "interior-designers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Interior Designers typically require a Bachelor degree in Interior Design or a related field to gain the necessary skills and knowledge for the profession."
+    },
+    "urban-and-regional-planners": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Urban and Regional Planners typically require a Bachelor degree or higher in urban planning, geography, or a related field to develop the necessary skills and knowledge for their role."
+    },
+    "chemical-and-materials-engineers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Chemical and Materials Engineers typically require a Bachelor degree in engineering or a related field to understand complex material properties and engineering principles."
+    },
+    "civil-engineering-professionals": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Civil Engineering Professionals typically require a Bachelor degree in engineering or a related field to gain the necessary knowledge and skills for their complex tasks."
+    },
+    "electrical-engineers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Electrical Engineers typically require a Bachelor degree in engineering to gain the necessary knowledge and skills for their complex tasks and responsibilities."
+    },
+    "electronics-engineers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Electronics Engineers typically require a Bachelor degree in engineering or a related field to gain the necessary knowledge and skills for their complex tasks."
+    },
+    "industrial-mechanical-and-production-engineers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Industrial, Mechanical and Production Engineers typically require a Bachelor degree in engineering or a related field to perform their complex tasks and responsibilities effectively."
+    },
+    "mining-engineers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Mining Engineers typically require a Bachelor degree in engineering or a related field to perform complex tasks related to the extraction of petroleum and natural gas."
+    },
+    "other-engineering-professionals": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Most engineering professions require a Bachelor degree or higher due to the complex knowledge and skills needed in design, development, and supervision of engineering projects."
+    },
+    "agricultural-and-forestry-scientists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "The role of Agricultural and Forestry Scientists typically requires a comprehensive understanding of scientific principles and practices, which is generally obtained through a bachelor's degree or higher in a relevant field."
+    },
+    "chemists-and-food-and-wine-scientists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "The role of a Wine Maker typically requires a strong understanding of chemistry and biology, which is usually obtained through a bachelor's degree in a relevant field such as viticulture or food science."
+    },
+    "environmental-scientists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Environmental Scientists typically require a Bachelor degree or higher in environmental science or a related field to perform complex assessments and develop management policies."
+    },
+    "geologists-geophysicists-and-hydrogeologists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Geologists, Geophysicists and Hydrogeologists typically require a Bachelor degree or higher in geology, geophysics, or a related field to perform their complex tasks effectively."
+    },
+    "life-scientists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Life Scientists typically require a Bachelor degree or higher in a relevant field such as biology, biochemistry, or environmental science to perform their complex research and analysis tasks."
+    },
+    "medical-laboratory-scientists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Medical Laboratory Scientists typically require a Bachelor degree in medical laboratory science or a related field to perform complex laboratory tests and analyses."
+    },
+    "veterinarians": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Veterinarians require a Bachelor degree in Veterinary Science or a related field to practice, as it involves extensive knowledge and skills in animal health and medicine."
+    },
+    "other-natural-and-physical-science-professionals": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Natural and Physical Science Professionals typically require a Bachelor degree or higher due to the advanced knowledge and skills needed for research and analysis in their field."
+    },
+    "secondary-school-teachers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Secondary School Teachers are required to hold at least a bachelor's degree in education or a specific subject area to be qualified to teach at this level."
+    },
+    "special-education-teachers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Special Education Teachers typically require a Bachelor degree or higher in education or a related field to effectively assess and teach students with diverse needs."
+    },
+    "education-advisers-and-reviewers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Education Advisers and Reviewers typically require a strong understanding of educational theory and practice, which is generally obtained through a Bachelor degree or higher in education or a related field."
+    },
+    "private-tutors-and-teachers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Private tutors and teachers typically require a strong understanding of their subject area, which is often obtained through a bachelor's degree or higher."
+    },
+    "teachers-of-english-to-speakers-of-other-languages": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Teachers of English to Speakers of Other Languages typically require a bachelor's degree in education or a related field, along with specialized training in teaching English as a second language."
+    },
+    "pharmacists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Pharmacists must complete a Bachelor of Pharmacy or equivalent degree to be eligible for registration and practice in Australia."
+    },
+    "dental-practitioners": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Dentists require a Bachelor degree in Dentistry or a related field to practice, as it involves extensive knowledge and skills in diagnosing and treating dental conditions."
+    },
+    "occupational-therapists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Occupational Therapists require a comprehensive understanding of health sciences and therapy practices, which is typically obtained through a bachelor's degree or higher in occupational therapy."
+    },
+    "physiotherapists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Physiotherapists require a comprehensive understanding of human anatomy and movement, which is typically obtained through a bachelor's degree in physiotherapy or a related field."
+    },
+    "podiatrists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Podiatrists require a Bachelor degree in Podiatry to practice, as it involves extensive medical knowledge and clinical skills."
+    },
+    "audiologists-and-speech-pathologists-therapists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Audiologists and Speech Pathologists typically require a bachelor's degree or higher in speech pathology or a related field to practice professionally in Australia."
+    },
+    "general-practitioners-and-resident-medical-officers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "General Practitioners and Resident Medical Officers require a medical degree, which is typically a Bachelor degree or higher, to practice medicine."
+    },
+    "anaesthetists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Anaesthetists require extensive medical training, typically culminating in a medical degree followed by specialized training in anaesthetics."
+    },
+    "specialist-physicians": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Specialist Physicians require extensive education and training, typically including a medical degree and additional specialization, which is at least a bachelor's degree or higher."
+    },
+    "psychiatrists": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Psychiatrists must complete a medical degree followed by specialized training in psychiatry, which requires a bachelor's degree or higher."
+    },
+    "surgeons": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Surgeons require extensive education and training, typically including a medical degree followed by specialized surgical training."
+    },
+    "other-medical-practitioners": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Medical practitioners require extensive education and training, typically culminating in a bachelor's degree in medicine or a related field, followed by further specialization."
+    },
+    "midwives": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Midwives in Australia typically require a Bachelor degree in Midwifery to practice professionally."
+    },
+    "nurse-educators-and-researchers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Nurse Educators and Researchers typically require a Bachelor degree in Nursing or a related field, often accompanied by further qualifications for advanced roles."
+    },
+    "nurse-managers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Nurse Managers typically require a Bachelor degree in Nursing or a related field, along with relevant experience and often additional qualifications in management or leadership."
+    },
+    "registered-nurses": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Registered Nurses in Australia are required to hold a Bachelor degree in Nursing to practice professionally and meet the standards set by the Nursing and Midwifery Board of Australia."
+    },
+    "solicitors": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Solicitors in Australia are required to complete a Bachelor of Laws (LLB) or equivalent degree, followed by practical legal training to qualify for legal practice."
+    },
+    "social-professionals": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Most social professionals require a comprehensive understanding of complex theories and methodologies, which is typically obtained through a bachelor's degree or higher in their respective fields."
+    },
+    "social-workers": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Social Workers typically require a Bachelor degree in Social Work or a related field to practice professionally in Australia."
+    },
+    "welfare-recreation-and-community-arts-workers": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "Welfare, Recreation and Community Arts Workers typically require a Diploma or Advanced Diploma in community services or a related field to effectively perform their roles."
+    },
+    "mechanical-engineering-draftspersons-and-technicians": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "Mechanical Engineering Technicians typically require a Diploma or Advanced Diploma in engineering or a related field to perform their tasks effectively."
+    },
+    "safety-inspectors": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "Safety Inspectors typically require a Diploma or Advanced Diploma in occupational health and safety or a related field to gain the necessary knowledge and skills for the role."
+    },
+    "other-building-and-engineering-technicians": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "Building and Engineering Technicians typically require specialized training that is best provided through a Diploma or Advanced Diploma program in their respective fields."
+    },
+    "motor-mechanics": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Motor Mechanics typically require a Certificate III or IV in Automotive Mechanical Technology to gain the necessary skills and knowledge for the role."
+    },
+    "aircraft-maintenance-engineers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Aircraft Maintenance Engineers typically require a Certificate III or IV in Aviation (Mechanical) or a related field to gain the necessary skills and knowledge for entry-level positions."
+    },
+    "metal-fitters-and-machinists": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Metal Fitters and Machinists typically require a Certificate III or IV in Engineering or a related field to gain the necessary skills and knowledge for the role."
+    },
+    "precision-metal-trades-workers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "This occupation typically requires specialized training in precision metal trades, which is best obtained through a Certificate III or IV program."
+    },
+    "toolmakers-and-engineering-patternmakers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Toolmakers typically require a Certificate III or IV in engineering or a related field to gain the necessary skills and knowledge for precision work."
+    },
+    "panelbeaters": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Panelbeaters typically require a Certificate III in Automotive Body Repair to gain the necessary skills and knowledge for the occupation."
+    },
+    "vehicle-body-builders-and-trimmers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "The tasks involved in vehicle body building and trimming typically require specialized skills that are best acquired through a Certificate III or IV qualification in the relevant trade."
+    },
+    "vehicle-painters": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Vehicle Painters typically require a Certificate III in Automotive Refinishing Technology to gain the necessary skills and knowledge for the role."
+    },
+    "carpenters-and-joiners": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Carpenters and joiners typically require a Certificate III in Carpentry or Joinery to gain the necessary skills and knowledge for entry-level positions in the industry."
+    },
+    "glaziers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Glaziers typically require a Certificate III or IV in Glass and Glazing to gain the necessary skills and knowledge for the trade."
+    },
+    "plasterers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Plasterers typically require a Certificate III or IV in Plastering or a related field to gain the necessary skills and knowledge for the occupation."
+    },
+    "roof-tilers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Roof tilers typically require a Certificate III in Roofing to gain the necessary skills and knowledge for the job."
+    },
+    "wall-and-floor-tilers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Wall and Floor Tilers typically require a Certificate III or IV in Tiling or a related field to gain the necessary skills and knowledge for the occupation."
+    },
+    "plumbers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Plumbers typically require a Certificate III in Plumbing to gain the necessary skills and knowledge for entry-level positions in the field."
+    },
+    "veterinary-nurses": {
+      "entry_education": "Bachelor degree or higher",
+      "rationale": "Veterinary Nurses typically require a Certificate IV in Veterinary Nursing to gain the necessary skills and knowledge for their role."
+    },
+    "graphic-pre-press-trades-workers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "This occupation typically requires practical skills and knowledge that are covered in Certificate III or IV qualifications in graphic pre-press or related fields."
+    },
+    "printers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "The role of a Small Offset Printer typically requires specialized skills and knowledge that are best obtained through a Certificate III or IV in Printing or a related field."
+    },
+    "canvas-and-leather-goods-makers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "This occupation typically requires specialized skills and knowledge that are best obtained through vocational training, which is provided at the Certificate III or IV level."
+    },
+    "clothing-trades-workers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Clothing Trades Workers typically require vocational training that is best represented by a Certificate III or IV in clothing production or a related field."
+    },
+    "upholsterers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Upholsterers typically require vocational training that is covered by Certificate III or IV qualifications in upholstery or furniture making."
+    },
+    "cabinetmakers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Cabinetmakers typically complete a Certificate III in Cabinet Making as part of their apprenticeship, which provides the necessary skills and knowledge for the occupation."
+    },
+    "wood-machinists-and-other-wood-trades-workers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Wood Machinists and Other Wood Trades Workers typically require practical skills and knowledge that are best acquired through a Certificate III or IV in a relevant field."
+    },
+    "signwriters": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Signwriters typically require specialized skills and knowledge that are best obtained through vocational education and training, making a Certificate III or IV the most common entry-level qualification."
+    },
+    "aged-and-disabled-carers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Aged and Disabled Carers typically require a Certificate III in Individual Support or a similar qualification to provide the necessary skills for personal care and support."
+    },
+    "dental-assistants": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Dental Assistants typically require a Certificate III or IV in Dental Assisting to gain the necessary skills and knowledge for their role."
+    },
+    "nursing-support-and-personal-care-workers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "This occupation typically requires a Certificate III or IV in Health Services Assistance or a related field to provide the necessary skills for personal care and support tasks."
+    },
+    "special-care-workers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Special Care Workers typically require a Certificate III or IV in Community Services or a related field to provide the necessary support and care in a refuge setting."
+    },
+    "waiters": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Entry-level positions for waiters typically require a Certificate II or III in hospitality, which provides the necessary skills for serving food and beverages."
+    },
+    "other-hospitality-workers": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Entry-level positions in hospitality typically require a Certificate II or III, which provides foundational skills for various tasks in the industry."
+    },
+    "gallery-museum-and-tour-guides": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Tour guides typically require a Certificate III or IV in tourism or a related field to gain the necessary skills and knowledge for the role."
+    },
+    "personal-care-consultants": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "Personal Care Consultants typically require specialized training in herbalism and client care, which is often provided through a Diploma or Advanced Diploma program."
+    },
+    "tourism-and-travel-advisers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "A Certificate III or IV in Travel and Tourism is typically required for entry-level positions in travel consulting, providing the necessary skills and knowledge for the role."
+    },
+    "travel-attendants": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Travel attendants typically require a Certificate II or III in hospitality or a related field to gain the necessary skills for customer service and safety procedures."
+    },
+    "other-personal-service-workers": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Many roles within Other Personal Service Workers, such as beauty therapy and first aid, typically require vocational training at the Certificate II or III level to ensure competency in practical skills."
+    },
+    "sports-coaches-instructors-and-officials": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Many sports coaching and officiating roles require a Certificate III or IV in Sport Coaching or a related field as a typical entry-level qualification."
+    },
+    "sportspersons": {
+      "entry_education": "Certificate I or no formal qualification",
+      "rationale": "Many sportspersons achieve their skills through practical experience and training rather than formal education, making entry-level qualifications often unnecessary."
+    },
+    "office-managers": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "Office Managers typically require a Diploma or Advanced Diploma in business administration or a related field to effectively manage office functions and personnel."
+    },
+    "practice-managers": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "Practice Managers typically require a Diploma or Advanced Diploma in management or a related field to effectively handle the responsibilities of managing a practice."
+    },
+    "keyboard-operators": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Keyboard operators typically require basic skills in typing and data entry, which can be obtained through Certificate II or III qualifications."
+    },
+    "payroll-clerks": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Payroll Clerks typically require a Certificate III or IV in Business or a related field to gain the necessary skills for payroll processing and record-keeping."
+    },
+    "insurance-money-market-and-statistical-clerks": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "This occupation typically requires vocational education and training to develop the necessary skills for data compilation and statistical analysis."
+    },
+    "filing-and-registry-clerks": {
+      "entry_education": "Certificate II or III",
+      "rationale": "The role of Filing and Registry Clerks typically requires foundational skills that can be obtained through vocational education at the Certificate II or III level."
+    },
+    "mail-sorters": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Mail Sorters typically require basic skills and training that can be obtained through a Certificate II or III in relevant fields."
+    },
+    "survey-interviewers": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Survey Interviewers typically require basic skills that can be obtained through vocational education and training, making Certificate II or III the most common entry-level qualification."
+    },
+    "switchboard-operators": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Switchboard Operators typically require a Certificate II or III to gain the necessary skills for operating telecommunication equipment and handling customer inquiries."
+    },
+    "other-clerical-and-office-support-workers": {
+      "entry_education": "Certificate II or III",
+      "rationale": "This occupation typically requires basic clerical skills and knowledge, which can be obtained through a Certificate II or III in office administration or a related field."
+    },
+    "human-resource-clerks": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Human Resource Clerks typically require vocational training that is covered by Certificate III or IV qualifications in business or human resources."
+    },
+    "inspectors-and-regulatory-officers": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "Many roles within inspectors and regulatory officers require specialized knowledge and skills that are typically obtained through a Diploma or Advanced Diploma program."
+    },
+    "insurance-investigators-loss-adjusters-and-risk-surveyors": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "Insurance Risk Surveyors typically require specialized training and knowledge that is often obtained through a Diploma or Advanced Diploma in fields related to risk management or insurance."
+    },
+    "library-assistants": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Library Assistants typically require a Certificate II or III in Library and Information Services to gain the necessary skills for the role."
+    },
+    "insurance-agents": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Insurance Agents typically require a Certificate III or IV in financial services or insurance to gain the necessary skills and knowledge for the role."
+    },
+    "sales-representatives": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Sales Representatives typically require a Certificate III or IV in Sales or a related field to gain the necessary skills and knowledge for the role."
+    },
+    "real-estate-sales-agents": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Real Estate Sales Agents typically require a Certificate III or IV in Property Services to gain the necessary skills and knowledge for the role."
+    },
+    "motor-vehicle-and-vehicle-parts-salespersons": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Entry-level positions in motor vehicle and vehicle parts sales typically require vocational training, which is often covered by Certificate II or III qualifications."
+    },
+    "pharmacy-sales-assistants": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Pharmacy Sales Assistants typically require a Certificate II or III in Community Pharmacy or a related field to gain the necessary skills for retail pharmacy operations."
+    },
+    "retail-supervisors": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Retail Supervisors typically require a Certificate III or IV in Retail or a related field to gain the necessary skills for supervising and coordinating retail activities."
+    },
+    "service-station-attendants": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Service Station Attendants typically require a Certificate II or III in Automotive or Retail to gain the necessary skills for their tasks."
+    },
+    "street-vendors-and-related-salespersons": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Street vendors typically require basic skills in sales and customer service, which can be obtained through Certificate II or III qualifications."
+    },
+    "other-sales-assistants-and-salespersons": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Entry-level positions in sales typically require a Certificate II or III, which provides foundational skills for customer service and sales tasks."
+    },
+    "models-and-sales-demonstrators": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Entry-level positions in sales demonstration typically require practical skills that can be obtained through vocational education such as Certificate II or III."
+    },
+    "retail-and-wool-buyers": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "A Diploma or Advanced Diploma is typically required for roles that involve specialized knowledge in buying and valuing goods, such as wool in this case."
+    },
+    "telemarketers": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Telemarketers typically require basic communication skills and customer service training, which can be obtained through Certificate II or III qualifications."
+    },
+    "ticket-salespersons": {
+      "entry_education": "Certificate II or III",
+      "rationale": "The role of a Ticket Salesperson typically requires basic customer service skills and knowledge of ticketing systems, which can be acquired through a Certificate II or III qualification."
+    },
+    "visual-merchandisers": {
+      "entry_education": "Diploma or Advanced Diploma",
+      "rationale": "A Diploma or Advanced Diploma in visual merchandising or a related field is typically required to gain the skills necessary for planning and executing effective displays."
+    },
+    "other-sales-support-workers": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Sales Support Workers typically require foundational skills that can be obtained through Certificate II or III qualifications."
+    },
+    "photographic-developers-and-printers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "A Certificate III or IV provides the necessary skills and knowledge for the technical aspects of photographic development and printing."
+    },
+    "plastics-and-rubber-production-machine-operators": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "This occupation typically requires a Certificate III or IV in manufacturing or a related field to operate machinery and perform the tasks outlined."
+    },
+    "sewing-machinists": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Sewing Machinists typically require practical skills and knowledge that can be obtained through vocational training at the Certificate II or III level."
+    },
+    "textile-and-footwear-production-machine-operators": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "This occupation typically requires vocational training that can be obtained through a Certificate III or IV in a relevant field, focusing on machine operation and production techniques."
+    },
+    "other-machine-operators": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Many machine operator roles require practical skills that can be obtained through vocational training at the Certificate II or III level."
+    },
+    "engineering-production-workers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Engineering Production Workers typically require practical skills and knowledge that are best obtained through a Certificate III or IV in a relevant field."
+    },
+    "other-stationary-plant-operators": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Stationary Plant Operators typically require a Certificate III or IV to gain the necessary skills and knowledge for operating and maintaining complex machinery and equipment."
+    },
+    "earthmoving-plant-operators": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Earthmoving Plant Operators typically require a Certificate III or IV in a relevant field to gain the necessary skills and knowledge for operating heavy machinery safely and effectively."
+    },
+    "forklift-drivers": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Forklift Drivers typically require a Certificate II or III in Warehousing Operations or a similar qualification to operate forklifts safely and effectively."
+    },
+    "other-mobile-plant-operators": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Most mobile plant operator roles require a Certificate III or IV in a relevant field to ensure operators have the necessary skills and knowledge to safely operate machinery."
+    },
+    "truck-drivers": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Tow Truck Drivers typically require a specific class of licence and practical skills that are best obtained through vocational training at the Certificate II or III level."
+    },
+    "other-cleaners": {
+      "entry_education": "Certificate II or III",
+      "rationale": "Entry-level positions in cleaning typically require a Certificate II or III, which provides the necessary skills and knowledge for various cleaning tasks."
+    },
+    "product-quality-controllers": {
+      "entry_education": "Certificate III or IV",
+      "rationale": "Product Quality Controllers typically require practical skills and knowledge that are covered in Certificate III or IV qualifications related to quality control and testing."
+    },
+    "timber-and-wood-process-workers": {
+      "entry_education": "Certificate II or III",
+      "rationale": "The tasks involved in timber and wood processing typically require practical skills that are best acquired through a Certificate II or III qualification."
+    }
+  },
+  "pay": {}
+}

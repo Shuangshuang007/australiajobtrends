@@ -1,0 +1,139 @@
+# Livestock Farmers
+
+## Description
+
+Other Livestock Farmers includes Alpaca Farmer, Crocodile Farmer, Dog Breeder, Emu Farmer, Llama Farmer, and Ostrich Farmer.
+
+## Tasks
+
+- Breeding and raising livestock for the production of honey, meat, milk, skins, eggs and wool
+- Monitoring and maintaining the health and condition of livestock
+- Providing pastures and fodder to maintain appropriate nutritional levels
+- Moving livestock to optimise feeding opportunities
+- Organising and conducting farming operations such as catching, drenching and milking livestock, sterilising machines, and collecting, grading and packaging produce
+- Directing and overseeing general farming activities such as maintaining pens, sheds and cages, fertilising, controlling pests and weeds, and growing fodder
+- Maintaining fences, equipment and water supply systems
+- Organising the sale, purchase and transportation of livestock and produce
+- Maintaining and evaluating records of farming activities, monitoring market activity and planning production accordingly
+- Managing business capital including budgeting, taxation, debt and loan management
+- May select, train and supervise staff and contractors
+- Breeds and raises bees for the production of honey and related products and for pollination stock.
+- Monitors and maintains the health and condition of bees.
+- Maintains appropriate nutritional levels.
+- Organises and conducts operations.
+- Directs and oversees general activities such as maintaining hives and controlling pests.
+- Maintains equipment.
+- Organises the sale, purchase and transportation of stock and produce.
+- Maintains and evaluates records of activities, monitoring market activity and planning production accordingly.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Breeds and raises livestock for the production of meat.
+- Maintains the health and condition of livestock.
+- Provides pastures and fodder to maintain appropriate nutritional levels.
+- Moves livestock to optimise feeding opportunities.
+- Conducts farming operations such as mustering and drenching.
+- Directs and oversees general farming activities such as maintaining pens, sheds and cages, fertilising, controlling pests and weeds, and growing fodder.
+- Maintains fences, equipment and water supply systems.
+- Organises the sale, purchase and transportation of livestock and produce.
+- Evaluates records of farming activities, monitoring market activity and planning production.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Breeds and raises livestock for the production of milk.
+- Maintains the health and condition of livestock.
+- Provides pastures and fodder to maintain appropriate nutritional levels.
+- Moves livestock to optimise feeding opportunities.
+- Conducts farming operations such as milking and drenching livestock, sterilising machines, and collecting, grading and packaging produce.
+- Oversees general farming activities such as maintaining pens, sheds and cages, fertilising, controlling pests and weeds, and growing fodder.
+- Maintains fences, equipment and water supply systems.
+- Organises the sale, purchase and transportation of livestock and produce.
+- Evaluates records of farming activities, monitoring market activity and planning production.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Breeds and raises livestock for the production of meat, velvet and hides.
+- Maintains health and condition of livestock.
+- Provides pastures and fodder to maintain appropriate nutritional levels.
+- Moves livestock to optimise feeding opportunities.
+- Musters, drenches and de-horns.
+- Oversees general farming activities such as maintaining pens, sheds and cages, fertilising, controlling pests and weeds, and growing fodder.
+- Maintains fences, equipment and water supply systems.
+- Organises the sale, purchase and transportation of livestock and produce.
+- Evaluates records of farming activities, monitoring market activity and planning production.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Breeds and raises livestock for the production of meat, fibre and milk.
+- Maintains the health and condition of livestock.
+- Provides pastures and fodder to maintain appropriate nutritional levels.
+- Moves livestock to optimise feeding opportunities.
+- Conducts farming operations such as mustering, milking, shearing and drenching livestock, sterilising machines, and collecting, grading and packaging produce.
+- Oversees general farming activities such as maintaining pens, sheds and cages, fertilising, controlling pests and weeds, and growing fodder.
+- Maintains fences, equipment and water supply systems.
+- Organises the sale, purchase and transportation of livestock and produce.
+- Evaluates records of farming activities, monitoring market activity and planning production.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Breeds and raises livestock for competition, dressage, eventing, show jumping, riding for pleasure and working.
+- Maintains the health and condition of livestock.
+- Provides pastures and fodder to maintain appropriate nutritional levels.
+- Moves livestock to optimise feeding opportunities.
+- Conducts farming operations.
+- Oversees general farming activities such as maintaining stalls, fertilising, controlling pests and weeds, and growing fodder.
+- Maintains fences, equipment and water supply systems.
+- Organises the sale, purchase and transportation of livestock.
+- Evaluates records of farming activities, monitoring market activity and planning production.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Breeds and raises animals for the production of meat, milk, and skins and a variety of other products.
+- Maintains the health and condition of livestock.
+- Provides pastures and fodder to maintain appropriate nutritional levels.
+- Moves livestock to optimise feeding opportunities.
+- Conducts farming operations such as mustering, drenching, shearing and milking livestock, sterilising machines, and collecting, grading and packaging produce.
+- Directs and oversees general farming activities such as maintaining pens, sheds and cages, fertilising, controlling pests and weeds, and growing fodder.
+- Maintains fences, equipment and water supply systems.
+- Organises the sale, purchase and transportation of livestock and produce.
+- Evaluates records of farming activities, monitoring market activity and planning production.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Breeds and raises livestock for the production of meat.
+- Monitors and maintains the health and condition of livestock.
+- Provides pastures and fodder to maintain appropriate nutritional levels.
+- Moves livestock to optimise feeding opportunities.
+- Organises and conducts farming operations.
+- Directs and oversees general farming activities such as maintaining pens, sheds and cages, fertilising, controlling pests and weeds, and growing fodder.
+- Maintains fences, equipment and water supply systems.
+- Organises the sale, purchase and transportation of livestock and produce.
+- Maintains and evaluates records of farming activities, monitoring market activity and planning production accordingly.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Breeds and raises livestock for the production of meat and eggs.
+- Monitors and maintains the health and condition of livestock.
+- Provides pastures and fodder to maintain appropriate nutritional levels.
+- Moves livestock to optimise feeding opportunities.
+- Organises and conducts farming operations.
+- Directs and oversees general farming activities such as maintaining pens, sheds and cages, fertilising, controlling pests and weeds, and growing fodder.
+- Maintains fences, equipment and water supply systems.
+- Organises the sale, purchase and transportation of livestock and produce.
+- Maintains and evaluates records of farming activities, monitoring market activity and planning production accordingly.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Breeds and raises livestock for the production of meat, fibre and milk.
+- Monitors and maintains the health and condition of livestock.
+- Provides pastures and fodder to maintain appropriate nutritional levels.
+- Moves livestock to optimise feeding opportunities.
+- Organises and conducts farming operations such as mustering, shearing and drenching livestock, sterilising machines, and collecting, grading and packaging produce.
+- Directs and oversees general farming activities such as maintaining pens, sheds and cages, fertilising, controlling pests and weeds, and growing fodder.
+- Maintains fences, equipment and water supply systems.
+- Organises the sale, purchase and transportation of livestock and produce.
+- Maintains and evaluates records of farming activities, monitoring market activity and planning production accordingly.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
+- Breeds and raises animals for the production of a range of products.
+- Monitors and maintains the health and condition of livestock.
+- Provides pastures and fodder to maintain appropriate nutritional levels.
+- Moves livestock to optimise feeding opportunities.
+- Organises and conducts farming operations.
+- Directs and oversees general farming activities such as maintaining pens, sheds and cages, fertilising, controlling pests and weeds, and growing fodder.
+- Maintains fences, equipment and water supply systems.
+- Organises the sale, purchase and transportation of livestock and produce.
+- Maintains and evaluates records of farming activities, monitoring market activity and planning production accordingly.
+- Manages business capital including budgeting, taxation, debt and loan management.
+- May select, train and supervise staff and contractors.
